@@ -1,0 +1,32 @@
+{
+  "id": "211908",
+  "createdAt": "2013-07-25T01:21:00.000Z",
+  "updatedAt": "2013-07-28T16:25:00.000Z",
+  "description": "TTA 9 to 5: Ken goes for the hat trick",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "137"
+    },
+    {
+      "player": "phil",
+      "score": "111"
+    },
+    {
+      "player": "aaron",
+      "score": "88"
+    }
+  ]
+}

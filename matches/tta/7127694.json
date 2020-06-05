@@ -1,0 +1,32 @@
+{
+  "id": "7127694",
+  "createdAt": "2013-11-01T12:38:00.000Z",
+  "updatedAt": "2013-11-04T00:22:00.000Z",
+  "description": "TTA 10-6: Ken is literally Sadam Hussein",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "231"
+    },
+    {
+      "player": "aaron",
+      "score": "227"
+    },
+    {
+      "player": "ken",
+      "score": "149"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7305566",
+  "createdAt": "2016-02-19T06:59:00.000Z",
+  "updatedAt": "2016-03-14T15:55:00.000Z",
+  "description": "I love the smell of napalm in the morning",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ville"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "ville",
+      "score": "173"
+    },
+    {
+      "player": "aaron",
+      "score": "137"
+    },
+    {
+      "player": "phil",
+      "score": "136"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

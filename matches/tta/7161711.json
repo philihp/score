@@ -1,0 +1,32 @@
+{
+  "id": "7161711",
+  "createdAt": "2014-02-26T17:46:00.000Z",
+  "updatedAt": "2014-03-05T17:23:00.000Z",
+  "description": "Khannnnnnnnnnnn",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "153"
+    },
+    {
+      "player": "aaron",
+      "score": "111"
+    },
+    {
+      "player": "phil",
+      "score": "49"
+    }
+  ]
+}

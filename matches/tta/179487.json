@@ -1,0 +1,32 @@
+{
+  "id": "179487",
+  "createdAt": "2013-04-01T21:18:00.000Z",
+  "updatedAt": "2013-04-06T12:05:00.000Z",
+  "description": "Aaron Dixon's Game",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "121"
+    },
+    {
+      "player": "phil",
+      "score": "113"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

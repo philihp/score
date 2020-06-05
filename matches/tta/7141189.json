@@ -1,0 +1,32 @@
+{
+  "id": "7141189",
+  "createdAt": "2013-12-17T20:31:00.000Z",
+  "updatedAt": "2013-12-18T00:32:00.000Z",
+  "description": "Episode 9: Nerf Ken",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "91"
+    },
+    {
+      "player": "phil",
+      "score": "83"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

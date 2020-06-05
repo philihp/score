@@ -1,0 +1,39 @@
+{
+  "id": "7129986",
+  "createdAt": "2013-11-08T19:51:00.000Z",
+  "updatedAt": "2013-11-12T17:40:00.000Z",
+  "description": "Don't trust Ken's lies.",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "Adam Badura"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "202"
+    },
+    {
+      "player": "aaron",
+      "score": "157"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    },
+    {
+      "player": "Adam Badura",
+      "score": "-"
+    }
+  ]
+}

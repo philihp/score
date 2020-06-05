@@ -1,0 +1,39 @@
+{
+  "id": "7192328",
+  "createdAt": "2014-07-02T19:55:00.000Z",
+  "updatedAt": "2014-07-09T18:15:00.000Z",
+  "description": "Cooking up trouble",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ville"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "309"
+    },
+    {
+      "player": "phil",
+      "score": "259"
+    },
+    {
+      "player": "aaron",
+      "score": "245"
+    },
+    {
+      "player": "ville",
+      "score": "219"
+    }
+  ]
+}

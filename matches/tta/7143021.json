@@ -1,0 +1,32 @@
+{
+  "id": "7143021",
+  "createdAt": "2013-12-24T19:09:00.000Z",
+  "updatedAt": "2013-12-27T12:21:00.000Z",
+  "description": "Episode XI: Daddy Drinks To Forget (You)",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "208"
+    },
+    {
+      "player": "ken",
+      "score": "202"
+    },
+    {
+      "player": "phil",
+      "score": "172"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7219871",
+  "createdAt": "2014-11-10T23:14:00.000Z",
+  "updatedAt": "2014-11-18T18:49:00.000Z",
+  "description": "\"No. For me.\" -James Bond",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "120"
+    },
+    {
+      "player": "phil",
+      "score": "73"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

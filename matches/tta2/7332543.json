@@ -1,0 +1,32 @@
+{
+  "id": "7332543",
+  "createdAt": "2016-07-20T16:08:00.000Z",
+  "updatedAt": "2016-08-10T12:39:00.000Z",
+  "description": "Vacation for (from) Aaron",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ville"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "126"
+    },
+    {
+      "player": "phil",
+      "score": "104"
+    },
+    {
+      "player": "ville",
+      "score": "92"
+    }
+  ]
+}

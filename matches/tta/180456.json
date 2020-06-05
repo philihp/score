@@ -1,0 +1,25 @@
+{
+  "id": "180456",
+  "createdAt": "2013-04-05T04:10:00.000Z",
+  "updatedAt": "2013-04-05T02:20:00.000Z",
+  "description": "secnod game",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "149"
+    },
+    {
+      "player": "ken",
+      "score": "122"
+    }
+  ]
+}

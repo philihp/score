@@ -1,0 +1,32 @@
+{
+  "id": "209435",
+  "createdAt": "2013-07-15T17:44:00.000Z",
+  "updatedAt": "2013-07-17T15:53:00.000Z",
+  "description": "TTA 9 to 5",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "133"
+    },
+    {
+      "player": "phil",
+      "score": "132"
+    },
+    {
+      "player": "aaron",
+      "score": "64"
+    }
+  ]
+}

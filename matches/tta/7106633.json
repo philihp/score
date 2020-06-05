@@ -1,0 +1,32 @@
+{
+  "id": "7106633",
+  "createdAt": "2013-08-19T20:41:00.000Z",
+  "updatedAt": "2013-08-20T17:56:00.000Z",
+  "description": "TTA 9 to 5: Fuck Science",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "90"
+    },
+    {
+      "player": "phil",
+      "score": "84"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

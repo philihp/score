@@ -1,0 +1,32 @@
+{
+  "id": "7134424",
+  "createdAt": "2013-11-24T19:54:00.000Z",
+  "updatedAt": "2013-11-26T23:23:00.000Z",
+  "description": "\"Your victory is right around the corner. Never give up.\" Nicki Minaj",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "142"
+    },
+    {
+      "player": "ken",
+      "score": "137"
+    },
+    {
+      "player": "aaron",
+      "score": "97"
+    }
+  ]
+}

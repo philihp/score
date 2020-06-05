@@ -1,0 +1,32 @@
+{
+  "id": "7182954",
+  "createdAt": "2014-05-21T21:55:00.000Z",
+  "updatedAt": "2014-05-24T01:59:00.000Z",
+  "description": "Subgame 3 of the Heath Series",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "236"
+    },
+    {
+      "player": "aaron",
+      "score": "190"
+    },
+    {
+      "player": "ken",
+      "score": "188"
+    }
+  ]
+}

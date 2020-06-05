@@ -1,0 +1,32 @@
+{
+  "id": "190753",
+  "createdAt": "2013-05-10T00:18:00.000Z",
+  "updatedAt": "2013-05-13T00:37:00.000Z",
+  "description": "slow ass bitches",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "155"
+    },
+    {
+      "player": "phil",
+      "score": "145"
+    },
+    {
+      "player": "aaron",
+      "score": "98"
+    }
+  ]
+}

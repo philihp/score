@@ -1,0 +1,32 @@
+{
+  "id": "7149323",
+  "createdAt": "2014-01-15T16:53:00.000Z",
+  "updatedAt": "2014-01-16T13:31:00.000Z",
+  "description": "Episode XVII: Dark Heart of Phil (3)",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "177"
+    },
+    {
+      "player": "phil",
+      "score": "153"
+    },
+    {
+      "player": "aaron",
+      "score": "129"
+    }
+  ]
+}

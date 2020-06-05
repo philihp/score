@@ -1,0 +1,39 @@
+{
+  "id": "7199517",
+  "createdAt": "2014-08-07T22:49:00.000Z",
+  "updatedAt": "2014-08-18T03:13:00.000Z",
+  "description": "democracy never works",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "136"
+    },
+    {
+      "player": "phil",
+      "score": "129"
+    },
+    {
+      "player": "ville",
+      "score": "124"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

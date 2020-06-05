@@ -1,0 +1,25 @@
+{
+  "id": "192863",
+  "createdAt": "2013-05-16T22:29:00.000Z",
+  "updatedAt": "2013-05-27T23:54:00.000Z",
+  "description": "Test Game",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "117"
+    },
+    {
+      "player": "ken",
+      "score": "113"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7197022",
+  "createdAt": "2014-07-25T19:40:00.000Z",
+  "updatedAt": "2014-08-07T12:13:00.000Z",
+  "description": "sick of waiting for aaron to get back",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "125"
+    },
+    {
+      "player": "ville",
+      "score": "109"
+    },
+    {
+      "player": "ken",
+      "score": "81"
+    }
+  ]
+}

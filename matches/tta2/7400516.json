@@ -1,0 +1,39 @@
+{
+  "id": "7400516",
+  "createdAt": "2017-08-26T14:36:00.000Z",
+  "updatedAt": "2017-11-15T17:33:00.000Z",
+  "description": "2017G",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ville"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ville",
+      "score": "179"
+    },
+    {
+      "player": "ken",
+      "score": "166"
+    },
+    {
+      "player": "phil",
+      "score": "153"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7150311",
+  "createdAt": "2014-01-19T00:35:00.000Z",
+  "updatedAt": "2014-01-21T12:45:00.000Z",
+  "description": "Episode XIX: Absolutely NEVER give pacts to Ken",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "106"
+    },
+    {
+      "player": "phil",
+      "score": "105"
+    },
+    {
+      "player": "ken",
+      "score": "97"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "202950",
+  "createdAt": "2013-06-21T06:35:00.000Z",
+  "updatedAt": "2013-07-04T11:10:00.000Z",
+  "description": "Act III: The Infernal Matt",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "141"
+    },
+    {
+      "player": "phil",
+      "score": "130"
+    },
+    {
+      "player": "aaron",
+      "score": "106"
+    }
+  ]
+}

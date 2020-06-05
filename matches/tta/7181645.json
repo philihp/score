@@ -1,0 +1,32 @@
+{
+  "id": "7181645",
+  "createdAt": "2014-05-16T19:37:00.000Z",
+  "updatedAt": "2014-05-21T12:29:00.000Z",
+  "description": "That last game was merely a setback!",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "177"
+    },
+    {
+      "player": "phil",
+      "score": "169"
+    },
+    {
+      "player": "aaron",
+      "score": "169"
+    }
+  ]
+}

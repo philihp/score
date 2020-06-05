@@ -1,0 +1,32 @@
+{
+  "id": "7143637",
+  "createdAt": "2013-12-27T18:27:00.000Z",
+  "updatedAt": "2013-12-30T14:21:00.000Z",
+  "description": "Episode XII: If there's grass on the field",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "183"
+    },
+    {
+      "player": "phil",
+      "score": "148"
+    },
+    {
+      "player": "aaron",
+      "score": "127"
+    }
+  ]
+}

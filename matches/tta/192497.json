@@ -1,0 +1,32 @@
+{
+  "id": "192497",
+  "createdAt": "2013-05-15T16:12:00.000Z",
+  "updatedAt": "2013-05-18T11:43:00.000Z",
+  "description": "glhf nr15",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "145"
+    },
+    {
+      "player": "phil",
+      "score": "108"
+    },
+    {
+      "player": "aaron",
+      "score": "78"
+    }
+  ]
+}

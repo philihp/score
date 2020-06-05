@@ -1,0 +1,39 @@
+{
+  "id": "7177946",
+  "createdAt": "2014-05-01T22:00:00.000Z",
+  "updatedAt": "2014-06-18T00:35:00.000Z",
+  "description": "ACT VI: Return of the Heath",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "Heath Gardner"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "169"
+    },
+    {
+      "player": "ken",
+      "score": "146"
+    },
+    {
+      "player": "phil",
+      "score": "143"
+    },
+    {
+      "player": "Heath Gardner",
+      "score": "-"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "217397",
+  "createdAt": "2013-08-16T02:03:00.000Z",
+  "updatedAt": "2013-08-19T14:39:00.000Z",
+  "description": "TTA 9 to 5: It's like Groundhog Day. We keep reliving it until Phil loses.",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "205"
+    },
+    {
+      "player": "aaron",
+      "score": "126"
+    },
+    {
+      "player": "ken",
+      "score": "126"
+    }
+  ]
+}

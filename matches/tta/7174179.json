@@ -1,0 +1,32 @@
+{
+  "id": "7174179",
+  "createdAt": "2014-04-17T03:12:00.000Z",
+  "updatedAt": "2014-04-18T20:29:00.000Z",
+  "description": "fuck slow players, i have tacos",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "160"
+    },
+    {
+      "player": "ken",
+      "score": "149"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

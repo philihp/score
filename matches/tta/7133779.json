@@ -1,0 +1,32 @@
+{
+  "id": "7133779",
+  "createdAt": "2013-11-22T07:03:00.000Z",
+  "updatedAt": "2013-11-23T16:57:00.000Z",
+  "description": "\"The victor will never be asked if he told the truth.\" - Hitler",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "179"
+    },
+    {
+      "player": "ken",
+      "score": "157"
+    },
+    {
+      "player": "aaron",
+      "score": "111"
+    }
+  ]
+}

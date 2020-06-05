@@ -1,0 +1,32 @@
+{
+  "id": "7221635",
+  "createdAt": "2014-11-19T03:57:00.000Z",
+  "updatedAt": "2014-11-23T19:59:00.000Z",
+  "description": "The Eiffel Tower of War",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "97"
+    },
+    {
+      "player": "ken",
+      "score": "96"
+    },
+    {
+      "player": "aaron",
+      "score": "61"
+    }
+  ]
+}

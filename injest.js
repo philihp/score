@@ -19,10 +19,13 @@ const players = {
 fs.createReadStream(`${__dirname}/tta2.csv`)
   .pipe(csv())
   .on("data", (data) => {
+    const createdAt = new Date(data.start).toISOString();
+    const updatedAt = new Date(data.end).toISOString();
+    console.log({ createdAt, updatedAt });
     let dat = {
       id: data.id,
-      createdAt: new Date(data.start).toISOString(),
-      updatedAt: new Date(data.end).toISOString(),
+      createdAt,
+      updatedAt,
       description: data.name,
       game: data.game === "Through the Ages" ? "tta" : "tta2",
       players: [],

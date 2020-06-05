@@ -1,0 +1,32 @@
+{
+  "id": "7136515",
+  "createdAt": "2013-12-02T05:34:00.000Z",
+  "updatedAt": "2013-12-03T15:44:00.000Z",
+  "description": "\"You know what makes a good loser? Practice.\"",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "155"
+    },
+    {
+      "player": "phil",
+      "score": "113"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

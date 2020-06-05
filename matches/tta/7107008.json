@@ -1,0 +1,32 @@
+{
+  "id": "7107008",
+  "createdAt": "2013-08-21T00:08:00.000Z",
+  "updatedAt": "2013-08-22T00:35:00.000Z",
+  "description": "TTA 9 to 5: Fuck Robespierre",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "178"
+    },
+    {
+      "player": "phil",
+      "score": "136"
+    },
+    {
+      "player": "aaron",
+      "score": "102"
+    }
+  ]
+}

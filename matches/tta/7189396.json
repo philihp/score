@@ -1,0 +1,39 @@
+{
+  "id": "7189396",
+  "createdAt": "2014-06-18T23:44:00.000Z",
+  "updatedAt": "2014-07-12T03:36:00.000Z",
+  "description": "Adam's ADD knows no limits",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "adam"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "241"
+    },
+    {
+      "player": "ken",
+      "score": "201"
+    },
+    {
+      "player": "phil",
+      "score": "113"
+    },
+    {
+      "player": "adam",
+      "score": "-"
+    }
+  ]
+}

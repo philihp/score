@@ -1,0 +1,39 @@
+{
+  "id": "7173395",
+  "createdAt": "2014-04-14T02:17:00.000Z",
+  "updatedAt": "2014-04-22T11:43:00.000Z",
+  "description": "dickpix inside",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "tm b"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "173"
+    },
+    {
+      "player": "aaron",
+      "score": "170"
+    },
+    {
+      "player": "tm b",
+      "score": "78"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

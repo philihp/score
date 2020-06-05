@@ -1,0 +1,32 @@
+{
+  "id": "7121687",
+  "createdAt": "2013-10-11T21:49:00.000Z",
+  "updatedAt": "2013-10-14T21:11:00.000Z",
+  "description": "Twilight: Teenage girl risks everything when she falls in love with Ken Mather",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "153"
+    },
+    {
+      "player": "ken",
+      "score": "138"
+    },
+    {
+      "player": "phil",
+      "score": "130"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7125090",
+  "createdAt": "2013-10-23T16:40:00.000Z",
+  "updatedAt": "2013-10-28T22:12:00.000Z",
+  "description": "TTA 10-6: Wrath of the Philistines",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "202"
+    },
+    {
+      "player": "phil",
+      "score": "177"
+    },
+    {
+      "player": "aaron",
+      "score": "169"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7108843",
+  "createdAt": "2013-08-27T17:24:00.000Z",
+  "updatedAt": "2013-08-28T12:01:00.000Z",
+  "description": "TTA 9 to 5: Phillio must die",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "198"
+    },
+    {
+      "player": "aaron",
+      "score": "152"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

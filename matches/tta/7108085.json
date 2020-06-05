@@ -1,0 +1,32 @@
+{
+  "id": "7108085",
+  "createdAt": "2013-08-24T23:50:00.000Z",
+  "updatedAt": "2013-08-27T11:22:00.000Z",
+  "description": "TTA 9 to 5: How I learned to stop worrying and love the revealed leaders/wonders",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "166"
+    },
+    {
+      "player": "aaron",
+      "score": "140"
+    },
+    {
+      "player": "ken",
+      "score": "130"
+    }
+  ]
+}

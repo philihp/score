@@ -1,0 +1,39 @@
+{
+  "id": "7474698",
+  "createdAt": "2020-04-26T07:33:00.000Z",
+  "updatedAt": "2020-04-28T17:59:00.000Z",
+  "description": "FUCK TERRA MYSTICA",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "matt"
+    },
+    {
+      "id": "adam"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "265"
+    },
+    {
+      "player": "phil",
+      "score": "257"
+    },
+    {
+      "player": "matt",
+      "score": "210"
+    },
+    {
+      "player": "adam",
+      "score": "208"
+    }
+  ]
+}

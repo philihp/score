@@ -1,0 +1,32 @@
+{
+  "id": "7121342",
+  "createdAt": "2013-10-10T17:00:00.000Z",
+  "updatedAt": "2013-10-11T15:34:00.000Z",
+  "description": "TTA 10-6: Event deck humps Phil",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "164"
+    },
+    {
+      "player": "aaron",
+      "score": "138"
+    },
+    {
+      "player": "phil",
+      "score": "135"
+    }
+  ]
+}

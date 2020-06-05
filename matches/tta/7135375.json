@@ -1,0 +1,32 @@
+{
+  "id": "7135375",
+  "createdAt": "2013-11-27T20:07:00.000Z",
+  "updatedAt": "2013-12-01T16:53:00.000Z",
+  "description": "The team that wins game five will win the series. Unless we lose game 5 -Barkley",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "121"
+    },
+    {
+      "player": "phil",
+      "score": "109"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

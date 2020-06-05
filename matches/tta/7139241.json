@@ -1,0 +1,32 @@
+{
+  "id": "7139241",
+  "createdAt": "2013-12-10T21:19:00.000Z",
+  "updatedAt": "2013-12-11T15:31:00.000Z",
+  "description": "Episode 7: Holiday Special",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "113"
+    },
+    {
+      "player": "aaron",
+      "score": "87"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

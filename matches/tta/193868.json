@@ -1,0 +1,32 @@
+{
+  "id": "193868",
+  "createdAt": "2013-05-20T20:52:00.000Z",
+  "updatedAt": "2013-05-25T12:57:00.000Z",
+  "description": "peaceful ass bitches",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "214"
+    },
+    {
+      "player": "phil",
+      "score": "198"
+    },
+    {
+      "player": "ken",
+      "score": "153"
+    }
+  ]
+}

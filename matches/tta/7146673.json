@@ -1,0 +1,32 @@
+{
+  "id": "7146673",
+  "createdAt": "2014-01-06T17:22:00.000Z",
+  "updatedAt": "2014-01-08T13:51:00.000Z",
+  "description": "Episode XV: ( . Y . )",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "123"
+    },
+    {
+      "player": "aaron",
+      "score": "115"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    }
+  ]
+}

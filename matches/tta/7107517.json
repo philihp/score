@@ -1,0 +1,32 @@
+{
+  "id": "7107517",
+  "createdAt": "2013-08-22T18:44:00.000Z",
+  "updatedAt": "2013-08-24T11:54:00.000Z",
+  "description": "TTA 9 to 5: ??? Robespierre ???",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "178"
+    },
+    {
+      "player": "aaron",
+      "score": "165"
+    },
+    {
+      "player": "ken",
+      "score": "137"
+    }
+  ]
+}

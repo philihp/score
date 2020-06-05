@@ -1,0 +1,39 @@
+{
+  "id": "7214121",
+  "createdAt": "2014-10-14T17:29:00.000Z",
+  "updatedAt": "2014-10-22T17:57:00.000Z",
+  "description": "This is why we can't have nice things. (6)",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "199"
+    },
+    {
+      "player": "ken",
+      "score": "189"
+    },
+    {
+      "player": "ville",
+      "score": "151"
+    },
+    {
+      "player": "aaron",
+      "score": "138"
+    }
+  ]
+}

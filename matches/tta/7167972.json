@@ -1,0 +1,39 @@
+{
+  "id": "7167972",
+  "createdAt": "2014-03-21T16:33:00.000Z",
+  "updatedAt": "2014-04-24T14:02:00.000Z",
+  "description": "pizzatime",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "Nathan Sickler"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "179"
+    },
+    {
+      "player": "phil",
+      "score": "147"
+    },
+    {
+      "player": "Nathan Sickler",
+      "score": "95"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

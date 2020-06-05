@@ -1,0 +1,32 @@
+{
+  "id": "212825",
+  "createdAt": "2013-07-28T22:28:00.000Z",
+  "updatedAt": "2013-07-31T09:22:00.000Z",
+  "description": "TTA 9 to 5: Fourth time's a charm (for Ken to lose)",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "176"
+    },
+    {
+      "player": "ken",
+      "score": "129"
+    },
+    {
+      "player": "aaron",
+      "score": "106"
+    }
+  ]
+}

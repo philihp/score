@@ -1,0 +1,39 @@
+{
+  "id": "7186367",
+  "createdAt": "2014-06-05T19:31:00.000Z",
+  "updatedAt": "2014-06-14T23:58:00.000Z",
+  "description": "\"Sometimes even if you lose, you win\"",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "182"
+    },
+    {
+      "player": "ville",
+      "score": "172"
+    },
+    {
+      "player": "phil",
+      "score": "169"
+    },
+    {
+      "player": "ken",
+      "score": "149"
+    }
+  ]
+}
