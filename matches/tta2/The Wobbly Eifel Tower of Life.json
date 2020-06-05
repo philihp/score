@@ -1,0 +1,33 @@
+{
+  "id": "The Wobbly Eifel Tower of Life",
+  "createdAt": "2020-05-20T00:00:00.000Z",
+  "updatedAt": "2020-05-20T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "The Wobbly Eifel Tower of Life",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "adam"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": 194
+    },
+    {
+      "player": "phil",
+      "score": 179
+    },
+    {
+      "player": "adam",
+      "score": 158
+    }
+  ]
+}

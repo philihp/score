@@ -1,0 +1,40 @@
+{
+  "id": "Combat II",
+  "createdAt": "2020-05-14T00:00:00.000Z",
+  "updatedAt": "2020-05-14T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "Combat II",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "adam"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "adam",
+      "score": 179
+    },
+    {
+      "player": "ken",
+      "score": 161
+    },
+    {
+      "player": "phil",
+      "score": 153
+    },
+    {
+      "player": "aaron",
+      "score": 63
+    }
+  ]
+}

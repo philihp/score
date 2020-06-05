@@ -1,0 +1,40 @@
+{
+  "id": "2020B",
+  "createdAt": "2020-04-28T00:00:00.000Z",
+  "updatedAt": "2020-04-28T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "2020B",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "adam"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": 222
+    },
+    {
+      "player": "ken",
+      "score": 163
+    },
+    {
+      "player": "aaron",
+      "score": 135
+    },
+    {
+      "player": "adam",
+      "score": 106
+    }
+  ]
+}

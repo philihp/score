@@ -1,0 +1,40 @@
+{
+  "id": "Combat IV",
+  "createdAt": "2020-05-18T00:00:00.000Z",
+  "updatedAt": "2020-05-18T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "Combat IV",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "matt"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": 279
+    },
+    {
+      "player": "ken",
+      "score": 258
+    },
+    {
+      "player": "phil",
+      "score": 258
+    },
+    {
+      "player": "matt",
+      "score": 208
+    }
+  ]
+}
