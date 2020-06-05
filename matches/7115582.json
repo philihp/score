@@ -1,0 +1,32 @@
+{
+  "id": "7115582",
+  "createdAt": "9/19/2013 22:19",
+  "updatedAt": "9/21/2013 14:45",
+  "description": "TTA 10 to 6",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "97"
+    },
+    {
+      "player": "phil",
+      "score": "87"
+    },
+    {
+      "player": "aaron",
+      "score": "45"
+    }
+  ]
+}

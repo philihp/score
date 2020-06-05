@@ -1,0 +1,39 @@
+{
+  "id": "197157",
+  "createdAt": "5/31/2013 17:13",
+  "updatedAt": "6/11/2013 0:12",
+  "description": "Act I: The Sightless Matt",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "matt"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "149"
+    },
+    {
+      "player": "phil",
+      "score": "139"
+    },
+    {
+      "player": "matt",
+      "score": "134"
+    },
+    {
+      "player": "aaron",
+      "score": "90"
+    }
+  ]
+}

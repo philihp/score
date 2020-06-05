@@ -1,0 +1,32 @@
+{
+  "id": "7145435",
+  "createdAt": "1/2/2014 17:39",
+  "updatedAt": "1/3/2014 14:39",
+  "description": "Episode XIV: Remember that time Phil got 11 CAs?",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "145"
+    },
+    {
+      "player": "phil",
+      "score": "143"
+    },
+    {
+      "player": "ken",
+      "score": "109"
+    }
+  ]
+}

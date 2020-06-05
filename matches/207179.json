@@ -1,0 +1,25 @@
+{
+  "id": "207179",
+  "createdAt": "7/6/2013 18:48",
+  "updatedAt": "7/6/2013 19:18",
+  "description": "this game name is too short",
+  "game": "tta",
+  "players": [
+    {
+      "id": "matt"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "matt",
+      "score": "92"
+    },
+    {
+      "player": "phil",
+      "score": "76"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7151145",
+  "createdAt": "1/21/2014 18:48",
+  "updatedAt": "1/21/2014 21:07",
+  "description": "Episode XX: Phil is DisaPoint",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "264"
+    },
+    {
+      "player": "ken",
+      "score": "252"
+    },
+    {
+      "player": "phil",
+      "score": "251"
+    }
+  ]
+}

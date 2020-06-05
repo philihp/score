@@ -1,0 +1,32 @@
+{
+  "id": "7129025",
+  "createdAt": "11/5/2013 22:59",
+  "updatedAt": "11/7/2013 23:08",
+  "description": "TTA 10-6: Bite the pillow",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "171"
+    },
+    {
+      "player": "phil",
+      "score": "111"
+    },
+    {
+      "player": "aaron",
+      "score": "109"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "$id": "https://philihp.com/match.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "match",
+  "type": "object",
+  "required": ["id"],
+  "properties": {
+    "id": {
+      "type": ["integer", "string"],
+      "description": "Game identifier, e.g. the filename or GUID"
+    },
+    "description": {
+      "type": "string",
+      "description": "Game name or human-readable descriptor"
+    },
+    "game": {
+      "type": "string",
+      "description": "ID of the game"
+    },
+    "createdAt": {
+      "type": "string",
+      "description": "ISO8601 date or date-time of when the game was started"
+    },
+    "updatedAt": {
+      "type": "string",
+      "description": "ISO8601 date or date-time of when the game was started"
+    },
+    "players": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/player" }
+    },
+    "result": {
+      "type": "object",
+      "properties": {
+        "player": { "type": "string" },
+        "score": { "type": "number" }
+      }
+    }
+  },
+  "definitions": {
+    "player": {
+      "type": "object",
+      "required": ["id"],
+      "properties": {
+        "id": {
+          "type": ["integer", "string"],
+          "description": "Player ID or unique username"
+        }
+      }
+    }
+  }
+}

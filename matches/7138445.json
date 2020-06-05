@@ -1,0 +1,32 @@
+{
+  "id": "7138445",
+  "createdAt": "12/8/2013 2:47",
+  "updatedAt": "12/10/2013 15:15",
+  "description": "Episode 6: Aaron Strikes Back",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "107"
+    },
+    {
+      "player": "aaron",
+      "score": "92"
+    },
+    {
+      "player": "phil",
+      "score": "-"
+    }
+  ]
+}

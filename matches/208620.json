@@ -1,0 +1,32 @@
+{
+  "id": "208620",
+  "createdAt": "7/12/2013 5:03",
+  "updatedAt": "7/22/2013 15:22",
+  "description": "Act III-2: This is how Square-Enix would do it",
+  "game": "tta",
+  "players": [
+    {
+      "id": "matt"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "matt",
+      "score": "180"
+    },
+    {
+      "player": "phil",
+      "score": "162"
+    },
+    {
+      "player": "aaron",
+      "score": "118"
+    }
+  ]
+}

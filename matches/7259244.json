@@ -1,0 +1,39 @@
+{
+  "id": "7259244",
+  "createdAt": "5/28/2015 9:07",
+  "updatedAt": "6/30/2015 10:38",
+  "description": "Because there is good and there is evil, and Ville must be punished.",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "224"
+    },
+    {
+      "player": "ken",
+      "score": "175"
+    },
+    {
+      "player": "ville",
+      "score": "169"
+    },
+    {
+      "player": "aaron",
+      "score": "155"
+    }
+  ]
+}

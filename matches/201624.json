@@ -1,0 +1,39 @@
+{
+  "id": "201624",
+  "createdAt": "6/16/2013 17:00",
+  "updatedAt": "6/21/2013 0:34",
+  "description": "Act II: The Secret of the Matt",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "matt"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "169"
+    },
+    {
+      "player": "phil",
+      "score": "-"
+    },
+    {
+      "player": "ken",
+      "score": "-"
+    },
+    {
+      "player": "matt",
+      "score": "-"
+    }
+  ]
+}

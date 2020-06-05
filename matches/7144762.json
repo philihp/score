@@ -1,0 +1,32 @@
+{
+  "id": "7144762",
+  "createdAt": "12/30/2013 20:45",
+  "updatedAt": "1/2/2014 11:37",
+  "description": "Episode XIII: ..Play ball. If there's not play in the mud",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "115"
+    },
+    {
+      "player": "ken",
+      "score": "69"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

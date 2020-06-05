@@ -1,0 +1,32 @@
+{
+  "id": "7180510",
+  "createdAt": "5/12/2014 18:25",
+  "updatedAt": "5/16/2014 13:26",
+  "description": "Too soon, Executus!",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "195"
+    },
+    {
+      "player": "phil",
+      "score": "128"
+    },
+    {
+      "player": "aaron",
+      "score": "127"
+    }
+  ]
+}

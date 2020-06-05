@@ -1,0 +1,39 @@
+{
+  "id": "187906",
+  "createdAt": "4/30/2013 2:31",
+  "updatedAt": "5/13/2013 18:31",
+  "description": "we require more vesphene gas",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "sean"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "242"
+    },
+    {
+      "player": "ken",
+      "score": "153"
+    },
+    {
+      "player": "aaron",
+      "score": "104"
+    },
+    {
+      "player": "sean",
+      "score": "-"
+    }
+  ]
+}

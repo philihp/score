@@ -1,0 +1,39 @@
+{
+  "id": "7295029",
+  "createdAt": "1/2/2016 0:33",
+  "updatedAt": "4/8/2016 15:45",
+  "description": "Lets give this a try",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "jonathan wilcox"
+    },
+    {
+      "id": "Iron James"
+    },
+    {
+      "id": "Lee Nicholas"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "244"
+    },
+    {
+      "player": "jonathan wilcox",
+      "score": "243"
+    },
+    {
+      "player": "Iron James",
+      "score": "-"
+    },
+    {
+      "player": "Lee Nicholas",
+      "score": "-"
+    }
+  ]
+}

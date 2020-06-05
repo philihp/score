@@ -1,0 +1,32 @@
+{
+  "id": "7131442",
+  "createdAt": "11/14/2013 0:26",
+  "updatedAt": "11/21/2013 15:05",
+  "description": "The Best Offense is a Good Defensive Army",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "126"
+    },
+    {
+      "player": "ken",
+      "score": "123"
+    },
+    {
+      "player": "aaron",
+      "score": "80"
+    }
+  ]
+}

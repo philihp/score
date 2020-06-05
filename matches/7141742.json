@@ -1,0 +1,32 @@
+{
+  "id": "7141742",
+  "createdAt": "12/19/2013 18:10",
+  "updatedAt": "12/24/2013 13:07",
+  "description": "Episode X: You Ruined Christmas",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "107"
+    },
+    {
+      "player": "phil",
+      "score": "81"
+    },
+    {
+      "player": "ken",
+      "score": "66"
+    }
+  ]
+}

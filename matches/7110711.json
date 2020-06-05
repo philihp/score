@@ -1,0 +1,32 @@
+{
+  "id": "7110711",
+  "createdAt": "9/3/2013 1:24",
+  "updatedAt": "9/4/2013 11:04",
+  "description": "TTA 9 to 5: 4 day workweek ohfuckyes",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "122"
+    },
+    {
+      "player": "ken",
+      "score": "122"
+    },
+    {
+      "player": "aaron",
+      "score": "82"
+    }
+  ]
+}

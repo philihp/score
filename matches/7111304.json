@@ -1,0 +1,32 @@
+{
+  "id": "7111304",
+  "createdAt": "9/4/2013 19:23",
+  "updatedAt": "9/6/2013 13:43",
+  "description": "TTA 9 to 5: A-Wing vs. TIE Fighters",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": "95"
+    },
+    {
+      "player": "phil",
+      "score": "91"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}

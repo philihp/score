@@ -1,0 +1,39 @@
+{
+  "id": "207409",
+  "createdAt": "7/7/2013 19:20",
+  "updatedAt": "7/10/2013 18:09",
+  "description": "Act IV: The Mattening",
+  "game": "tta",
+  "players": [
+    {
+      "id": "matt"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "matt",
+      "score": "212"
+    },
+    {
+      "player": "aaron",
+      "score": "179"
+    },
+    {
+      "player": "ken",
+      "score": "146"
+    },
+    {
+      "player": "phil",
+      "score": "-"
+    }
+  ]
+}

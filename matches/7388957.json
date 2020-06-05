@@ -1,0 +1,39 @@
+{
+  "id": "7388957",
+  "createdAt": "6/14/2017 17:49",
+  "updatedAt": "7/27/2017 23:15",
+  "description": "2017DeezNuts",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "237"
+    },
+    {
+      "player": "ken",
+      "score": "212"
+    },
+    {
+      "player": "ville",
+      "score": "205"
+    },
+    {
+      "player": "aaron",
+      "score": "188"
+    }
+  ]
+}

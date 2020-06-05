@@ -1,0 +1,39 @@
+{
+  "id": "7310667",
+  "createdAt": "3/16/2016 6:02",
+  "updatedAt": "4/19/2016 12:09",
+  "description": "All that is necessary for the triumph of Ville is that bad men do nothing",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ville"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "250"
+    },
+    {
+      "player": "ville",
+      "score": "236"
+    },
+    {
+      "player": "ken",
+      "score": "197"
+    },
+    {
+      "player": "aaron",
+      "score": "163"
+    }
+  ]
+}

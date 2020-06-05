@@ -1,0 +1,32 @@
+{
+  "id": "215819",
+  "createdAt": "8/9/2013 17:20",
+  "updatedAt": "8/12/2013 11:45",
+  "description": "TTA 9 to 5: People took off today, so deadline postponed 'til Monday!",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "140"
+    },
+    {
+      "player": "ken",
+      "score": "138"
+    },
+    {
+      "player": "phil",
+      "score": "106"
+    }
+  ]
+}

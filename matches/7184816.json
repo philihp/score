@@ -1,0 +1,32 @@
+{
+  "id": "7184816",
+  "createdAt": "5/29/2014 22:07",
+  "updatedAt": "6/2/2014 18:45",
+  "description": "Cunts",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "133"
+    },
+    {
+      "player": "ken",
+      "score": "127"
+    },
+    {
+      "player": "aaron",
+      "score": "99"
+    }
+  ]
+}

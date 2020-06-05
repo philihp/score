@@ -1,0 +1,32 @@
+{
+  "id": "7122762",
+  "createdAt": "10/15/2013 16:01",
+  "updatedAt": "10/18/2013 14:52",
+  "description": "TTA 10-6: The Masonry-Dixon Line",
+  "game": "tta",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": "150"
+    },
+    {
+      "player": "ken",
+      "score": "126"
+    },
+    {
+      "player": "aaron",
+      "score": "104"
+    }
+  ]
+}

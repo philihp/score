@@ -1,0 +1,32 @@
+{
+  "id": "7149710",
+  "createdAt": "1/16/2014 21:34",
+  "updatedAt": "1/18/2014 18:31",
+  "description": "Episode XVIII: Cooke: A recipe for disaster",
+  "game": "tta",
+  "players": [
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    }
+  ],
+  "results": [
+    {
+      "player": "aaron",
+      "score": "122"
+    },
+    {
+      "player": "phil",
+      "score": "121"
+    },
+    {
+      "player": "ken",
+      "score": "113"
+    }
+  ]
+}

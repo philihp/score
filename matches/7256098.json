@@ -1,0 +1,39 @@
+{
+  "id": "7256098",
+  "createdAt": "5/11/2015 18:42",
+  "updatedAt": "5/28/2015 3:02",
+  "description": "Phil is why we ken't have nice things. (18)",
+  "game": "tta",
+  "players": [
+    {
+      "id": "ville"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "aaron"
+    }
+  ],
+  "results": [
+    {
+      "player": "ville",
+      "score": "154"
+    },
+    {
+      "player": "ken",
+      "score": "125"
+    },
+    {
+      "player": "phil",
+      "score": "125"
+    },
+    {
+      "player": "aaron",
+      "score": "-"
+    }
+  ]
+}
