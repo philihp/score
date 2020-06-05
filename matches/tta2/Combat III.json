@@ -1,0 +1,40 @@
+{
+  "id": "Combat III",
+  "createdAt": "2020-05-04T00:00:00.000Z",
+  "updatedAt": "2020-05-04T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "Combat III",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "matt"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "adam"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": 265
+    },
+    {
+      "player": "adam",
+      "score": 224
+    },
+    {
+      "player": "matt",
+      "score": 204
+    },
+    {
+      "player": "phil",
+      "score": 200
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "match",
   "type": "object",
-  "required": ["id"],
+  "required": ["id", "game"],
   "properties": {
     "id": {
       "type": ["integer", "string"],
@@ -12,6 +12,10 @@
     "description": {
       "type": "string",
       "description": "Game name or human-readable descriptor"
+    },
+    "location": {
+      "type": "string",
+      "description": "Where the game was played"
     },
     "game": {
       "type": "string",
@@ -23,7 +27,7 @@
     },
     "updatedAt": {
       "type": "string",
-      "description": "ISO8601 date or date-time of when the game was started"
+      "description": "ISO8601 date or date-time of when the game was last updated or ended, whichever came first"
     },
     "players": {
       "type": "array",

@@ -5,4 +5,5 @@ One match per json file, with the form of `match.schema.json`. Folder structure 
 - Created At - should be the approximate ISO 8601 date/time the match started, if available
 - Updated At - should be the approximate ISO 8601 date/time the match ended, but if it's still ongoing or incomplete, the last time a move was made
 - Players - a list of the players, in starting order if possible.
-- Result - a list of each player and their final score. Two players with the same score are considered tied, they should have the same score. Sorting the players by their score should give the final result, for example: `[50, 42.002, 42.001, 40]`
+- Result - a list of each player and their final score.
+  - Score - Try to make these a number/float, can be either a number/float, string, or any of `DNS`, `DSQ`, or `DNF`. Two players with the same score are considered tied, they should have the same score, however if the game has a tie-breaker, append this. For example append seating order in TTA, e.g. `240.1`, `240.2`.

@@ -1,0 +1,40 @@
+{
+  "id": "Now That's What I Call Combat V",
+  "createdAt": "2020-06-02T00:00:00.000Z",
+  "updatedAt": "2020-06-02T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "Now That's What I Call Combat V",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "matt"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "aaron"
+    },
+    {
+      "id": "adam"
+    }
+  ],
+  "results": [
+    {
+      "player": "adam",
+      "score": 299
+    },
+    {
+      "player": "aaron",
+      "score": 274
+    },
+    {
+      "player": "ken",
+      "score": 266
+    },
+    {
+      "player": "matt",
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "The Wobbly H of Life",
+  "createdAt": "2020-05-18T00:00:00.000Z",
+  "updatedAt": "2020-05-18T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "The Wobbly H of Life",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "phil"
+    },
+    {
+      "id": "ken"
+    },
+    {
+      "id": "adam"
+    }
+  ],
+  "results": [
+    {
+      "player": "ken",
+      "score": 180
+    },
+    {
+      "player": "phil",
+      "score": 169
+    },
+    {
+      "player": "adam",
+      "score": 138
+    }
+  ]
+}

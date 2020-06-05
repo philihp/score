@@ -1,0 +1,33 @@
+{
+  "id": "Wobbly Eiffel Tower goes Limp, The",
+  "createdAt": "2020-05-23T00:00:00.000Z",
+  "updatedAt": "2020-05-23T00:00:00.000Z",
+  "location": "TTA App",
+  "description": "Wobbly Eiffel Tower goes Limp, The",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ken"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "adam"
+    }
+  ],
+  "results": [
+    {
+      "player": "phil",
+      "score": 198
+    },
+    {
+      "player": "ken",
+      "score": 179
+    },
+    {
+      "player": "adam",
+      "score": 0
+    }
+  ]
+}
