@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "test": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/team-combat/game-database.git"
@@ -15,8 +17,33 @@
     "url": "https://github.com/team-combat/game-database/issues"
   },
   "homepage": "https://github.com/team-combat/game-database#readme",
-  "dependencies": {},
+  "dependencies": {
+    "csv-parser": "2.3.2",
+    "fast-shuffle": "3.0.0"
+  },
   "devDependencies": {
-    "csv-parser": "2.3.2"
+    "@philihp/eslint-config": "1.0.0",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.9"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "trailingComma": "es5"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json}": [
+      "eslint --fix"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "@philihp"
+    ]
   }
 }
