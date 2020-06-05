@@ -27,25 +27,22 @@
     },
     "players": {
       "type": "array",
-      "items": { "$ref": "#/definitions/player" }
+      "items": {
+        "type": "object",
+        "required": ["id"],
+        "properties": {
+          "id": {
+            "type": ["integer", "string"],
+            "description": "Player ID or unique username"
+          }
+        }
+      }
     },
     "result": {
       "type": "object",
       "properties": {
         "player": { "type": "string" },
         "score": { "type": "number" }
-      }
-    }
-  },
-  "definitions": {
-    "player": {
-      "type": "object",
-      "required": ["id"],
-      "properties": {
-        "id": {
-          "type": ["integer", "string"],
-          "description": "Player ID or unique username"
-        }
       }
     }
   }
