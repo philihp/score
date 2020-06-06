@@ -5,6 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
+    "build": "harp compile src build",
     "test": "eslint ."
   },
   "repository": {
@@ -19,7 +20,8 @@
   "homepage": "https://github.com/team-combat/game-database#readme",
   "dependencies": {
     "csv-parser": "2.3.2",
-    "fast-shuffle": "3.0.0"
+    "fast-shuffle": "3.0.0",
+    "harp": "0.32.0"
   },
   "devDependencies": {
     "@philihp/eslint-config": "1.0.0",
