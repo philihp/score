@@ -1,0 +1,4 @@
+_data.json
+*.ejs
+!_nav.ejs
+!_index.ejs

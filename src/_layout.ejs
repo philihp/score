@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>OK</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <nav>
+      <%- partial("/_nav") %> <%- partial(current.path[0] + "/_nav") %>
+    </nav>
+    <%- yield %>
+    <hr />
+    <footer>
+      Generated
+      <time datetime="<%= new Date().toISOString() %>">
+        <%= new Date().toISOString().substring(0,10) %>
+      </time>
+    </footer>
+  </body>
+</html>
