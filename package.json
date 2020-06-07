@@ -38,7 +38,7 @@
     "trailingComma": "es5"
   },
   "lint-staged": {
-    "src/**/*.{js,jsx,json}": [
+    "**/*.{js,jsx,json}": [
       "eslint --fix"
     ]
   },
