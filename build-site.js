@@ -9,10 +9,12 @@ const {
   where,
   equals,
   any,
+  tap,
   mergeAll,
   sortBy,
   view,
   lens,
+  lensPath,
   prop,
   zip,
   flatten,
@@ -62,12 +64,30 @@ const gameRatings = map(
   data.games
 )
 
-const sortedRankings = pipe(
-  map((r) => ({ ...r, ordinal: ordinal(r) })),
-  toPairs,
-  compose(sortBy, view, lens, prop)('ordinal'), // i, too, hate me for writing this.
-  reverse
-)
+const friendly = (float) => float.toFixed(3)
+
+const friendlyRating = (rating) => ({
+  mu: friendly(rating.mu),
+  sigma: friendly(rating.sigma),
+  ordinal: friendly(rating.ordinal),
+  variance: friendly(rating.sigma * rating.sigma),
+})
+const addFriendlyRating = ([name, rating]) => [
+  name,
+  rating,
+  friendlyRating(rating),
+]
+
+const sortedRankings = (ranks) => {
+  const o = pipe(
+    map((r) => ({ ...r, ordinal: ordinal(r) })),
+    toPairs,
+    compose(sortBy, view, lensPath)([1, 'ordinal']), // i, too, hate me for writing this.
+    reverse,
+    map(addFriendlyRating)
+  )(ranks)
+  return o
+}
 
 const data2 = {
   ...data,
