@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "build": "node build-site.js && harp compile src build",
-    "test": "eslint ."
+    "test": "eslint .",
+    "server": "node build-site.js && harp server src"
   },
   "repository": {
     "type": "git",
