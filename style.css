@@ -1,0 +1,1 @@
+nav ul{margin:0;padding:0;list-style:none}nav ul li:before{content:'| '}nav ul li:first-child:before{content:'[ '}nav ul li{display:inline}nav ul li:last-child:after{content:' ]'}
