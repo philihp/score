@@ -1,0 +1,19 @@
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    li:before {
+      content: '| ';
+    }
+    li:first-child:before {
+      content: '[ ';
+    }
+    li {
+      display: inline;
+    }
+    li:last-child:after {
+      content: ' ]';
+    }
+  }
+}
