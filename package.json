@@ -29,7 +29,6 @@
   },
   "devDependencies": {
     "@philihp/eslint-config": "1.1.0",
-    "eslint": "^6.8.0",
     "husky": "4.2.5",
     "lint-staged": "10.2.9"
   },
