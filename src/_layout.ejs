@@ -3,18 +3,18 @@
   <head>
     <title>OK</title>
     <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/octocat.css" />
   </head>
   <body>
+    <%- partial("/_octocat") %>
     <nav>
       <%- partial("/_nav") %> <%- partial(current.path[0] + "/_nav") %>
     </nav>
     <%- yield %> <%- partial(current.path[0] + "/_doc") %>
     <hr />
-    <footer>
-      Generated
-      <time datetime="<%= new Date().toISOString() %>">
-        <%= new Date().toISOString().substring(0,10) %>
-      </time>
-    </footer>
+    <%- partial("/_footer") %>
+    <!--
+<%= JSON.stringify(process.env) %>
+    -->
   </body>
 </html>
