@@ -23,7 +23,7 @@ const {
 const { rate, rating, ordinal } = require('openskill')
 
 const forPlayer = (matches) => (player) =>
-  filter((m) => any((p) => p.id == player.id, m.players), matches)
+  filter((m) => any((p) => p.id === player.id, m.players), matches)
 
 const forGame = (matches) => (game) =>
   sortBy(prop('updatedAt'), filter(where({ game: equals(game.id) }))(matches))
@@ -51,15 +51,16 @@ const data = {
   games: reconstitute(forGame(matches))('games/**/*.json'),
 }
 
-const gameRatings = map((game) => {
-  const ratings = reduce((ratings, match) => {
-    const players = map((p) => p.id, match.players)
-    const oldRatings = map((p) => [ratings[p] || rating()], players)
-    const newRatings = rate(oldRatings)
-    return { ...ratings, ...fromPairs(zip(players, flatten(newRatings))) }
-  }, {})(game.matches)
-  return ratings
-}, data.games)
+const gameRatings = map(
+  (game) =>
+    reduce((ratings, match) => {
+      const players = map((p) => p.id, match.players)
+      const oldRatings = map((p) => [ratings[p] || rating()], players)
+      const newRatings = rate(oldRatings)
+      return { ...ratings, ...fromPairs(zip(players, flatten(newRatings))) }
+    }, {})(game.matches),
+  data.games
+)
 
 const sortedRankings = pipe(
   map((r) => ({ ...r, ordinal: ordinal(r) })),
@@ -80,10 +81,10 @@ const createStubsForGame = (game) => {
   fs.writeFileSync(`./src/games/${game.id}.ejs`, '')
   fs.writeFileSync('./src/games/_data.json', JSON.stringify(game, null, 2))
 }
-map(createStubsForGame, data.games)
+map(createStubsForGame, data2.games)
 
 const createStubsForPlayer = (player) => {
   fs.writeFileSync(`./src/players/${player.id}.ejs`, '')
   fs.writeFileSync('./src/players/_data.json', JSON.stringify(player, null, 2))
 }
-map(createStubsForPlayer, data.players)
+map(createStubsForPlayer, data2.players)
