@@ -23,8 +23,8 @@
     "fast-shuffle": "3.0.0",
     "glob": "7.1.6",
     "harp": "0.32.0",
-    "openskill": "^1.0.1",
-    "ramda": "^0.27.0"
+    "openskill": "1.0.1",
+    "ramda": "0.27.0"
   },
   "devDependencies": {
     "@philihp/eslint-config": "1.0.0",
