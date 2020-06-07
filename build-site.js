@@ -64,17 +64,13 @@ const gameRatings = map(
 
 const friendly = (float) => float.toFixed(3)
 
-const friendlyRating = (rating) => ({
-  mu: friendly(rating.mu),
-  sigma: friendly(rating.sigma),
-  ordinal: friendly(rating.ordinal),
-  variance: friendly(rating.sigma * rating.sigma),
+const friendlyRating = (r) => ({
+  mu: friendly(r.mu),
+  sigma: friendly(r.sigma),
+  ordinal: friendly(r.ordinal),
+  variance: friendly(r.sigma * r.sigma),
 })
-const addFriendlyRating = ([name, rating]) => [
-  name,
-  rating,
-  friendlyRating(rating),
-]
+const addFriendlyRating = ([name, r]) => [name, rating, friendlyRating(r)]
 
 const sortedRankings = (ranks) => {
   const o = pipe(
