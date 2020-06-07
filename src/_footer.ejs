@@ -1,0 +1,11 @@
+<footer>
+  Generated
+  <time datetime="<%= new Date().toISOString() %>">
+    <%= new Date().toISOString() // .substring(0,10) %>
+  </time>
+  from
+  <a
+    href="https://github.com/team-combat/game-database/tree/<%= process.env.GITHUB_SHA %>"
+    >0x<%= (process.env.GITHUB_SHA || "DECAFBAD").substring(0, 8) %></a
+  >
+</footer>
