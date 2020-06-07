@@ -6,4 +6,4 @@ This exists as a record of otherwise ephemeral board games played amongst friend
 - npm install
 - npm run server
 
-Make sure you have the same node installed as in [.tool-versions](https://github.com/team-combat/game-database/blob/master/.tool-versions)
+Make sure you have the same node installed as in [.tool-versions](https://github.com/team-combat/game-database/blob/master/.tool-versions). Changes to files in `src` are picked up automatically. To regenerate ranking data, run `node build-site.js` again, or kill and restart your server with the above command.
