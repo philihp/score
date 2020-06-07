@@ -8,7 +8,7 @@
     <nav>
       <%- partial("/_nav") %> <%- partial(current.path[0] + "/_nav") %>
     </nav>
-    <%- yield %>
+    <%- yield %> <%- partial(current.path[0] + "/_doc") %>
     <hr />
     <footer>
       Generated

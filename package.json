@@ -28,7 +28,7 @@
     "ramda": "0.27.0"
   },
   "devDependencies": {
-    "@philihp/eslint-config": "1.0.0",
+    "@philihp/eslint-config": "1.1.0",
     "husky": "4.2.5",
     "lint-staged": "10.2.9"
   },
@@ -38,8 +38,11 @@
     "trailingComma": "es5"
   },
   "lint-staged": {
-    "src/**/*.{js,jsx,json}": [
+    "**/*.{js,jsx}": [
       "eslint --fix"
+    ],
+    "**/*.{md,json,css,scss}": [
+      "prettier --write"
     ]
   },
   "husky": {
