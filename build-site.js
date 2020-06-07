@@ -79,12 +79,15 @@ const data2 = {
 
 const createStubsForGame = (game) => {
   fs.writeFileSync(`./src/games/${game.id}.ejs`, '')
-  fs.writeFileSync('./src/games/_data.json', JSON.stringify(game, null, 2))
 }
 map(createStubsForGame, data2.games)
+fs.writeFileSync('./src/games/_data.json', JSON.stringify(data2.games, null, 2))
 
 const createStubsForPlayer = (player) => {
   fs.writeFileSync(`./src/players/${player.id}.ejs`, '')
-  fs.writeFileSync('./src/players/_data.json', JSON.stringify(player, null, 2))
 }
 map(createStubsForPlayer, data2.players)
+fs.writeFileSync(
+  './src/players/_data.json',
+  JSON.stringify(data2.players, null, 2)
+)

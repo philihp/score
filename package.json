@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "build": "node tabulate.js && harp compile src build",
+    "build": "node build-site.js && harp compile src build",
     "test": "eslint ."
   },
   "repository": {
