@@ -29,8 +29,10 @@
   },
   "devDependencies": {
     "@philihp/eslint-config": "1.1.0",
+    "eslint": "7.2.0",
     "husky": "4.2.5",
-    "lint-staged": "10.2.9"
+    "lint-staged": "10.2.9",
+    "prettier": "2.0.5"
   },
   "prettier": {
     "singleQuote": true,
