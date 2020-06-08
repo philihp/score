@@ -1,0 +1,12 @@
+{
+  "id": "2020-05-22C",
+  "createdAt": "2020-05-22T00:00:02.00Z",
+  "updatedAt": "2020-05-22T00:00:02.00Z",
+  "description": "A game played on 2020-05-22",
+  "game": "ttr",
+  "players": [{ "id": "billy" }, { "id": "jelle" }],
+  "results": [
+    { "player": "billy", "score": 145 },
+    { "player": "jelle", "score": 123 }
+  ]
+}
