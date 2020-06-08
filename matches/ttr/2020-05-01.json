@@ -1,0 +1,21 @@
+{
+  "id": "2020-05-01",
+  "createdAt": "2020-05-01T00:00:00.000Z",
+  "updatedAt": "2020-05-01T00:00:00.000Z",
+  "description": "A game played on 2020-05-01 over Zoom",
+  "game": "ttr",
+  "players": [
+    { "id": "billy" },
+    { "id": "jelle" },
+    { "id": "jess" },
+    { "id": "katie" },
+    { "id": "phil" }
+  ],
+  "results": [
+    { "player": "jelle", "score": 52 },
+    { "player": "billy", "score": 82 },
+    { "player": "phil", "score": 152 },
+    { "player": "jess", "score": 103 },
+    { "player": "katie", "score": 67 }
+  ]
+}

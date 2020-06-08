@@ -1,1 +1,1 @@
-Players listed here are considered relevant for score tracking.
+Players listed here are considered relevant for score tracking. Everyone has a rating, but it will be hidden unless a file is created for them. Please ask a person's permission before publishing any PII.
