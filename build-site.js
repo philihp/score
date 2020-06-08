@@ -70,7 +70,7 @@ const friendlyRating = (r) => ({
   ordinal: friendly(r.ordinal),
   variance: friendly(r.sigma * r.sigma),
 })
-const addFriendlyRating = ([name, r]) => [name, rating, friendlyRating(r)]
+const addFriendlyRating = ([name, r]) => [name, r, friendlyRating(r)]
 
 const sortedRankings = (ranks) => {
   const o = pipe(
