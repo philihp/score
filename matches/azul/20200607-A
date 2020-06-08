@@ -1,0 +1,19 @@
+{
+  "id": "20200607-A",
+  "createdAt": "2020-06-08T01:00:00.000Z",
+  "updatedAt": "2020-06-08T02:00:00.000Z",
+  "description": "Played on Tabletop Simulator, standard board",
+  "game": "azul",
+  "players": [
+    { "id": "ken" },
+    { "id": "matt" },
+    { "id": "eric" },
+    { "id": "aaron" }
+  ],
+  "results": [
+    { "player": "matt", "score": 66 },
+    { "player": "ken", "score": 65 },
+    { "player": "aaron", "score": 62 },
+    { "player": "eric", "score": 28 }
+  ]
+}
