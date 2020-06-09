@@ -1,5 +1,5 @@
 {
-  "name": "@team-combat/game-database",
+  "name": "@philihp/score",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/team-combat/game-database.git"
+    "url": "git+https://github.com/philihp/score.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/team-combat/game-database/issues"
+    "url": "https://github.com/philihp/score/issues"
   },
-  "homepage": "https://github.com/team-combat/game-database#readme",
+  "homepage": "https://github.com/philihp/score#readme",
   "dependencies": {
     "csv-parser": "2.3.2",
     "fast-shuffle": "3.0.0",
