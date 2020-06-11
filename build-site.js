@@ -14,13 +14,11 @@ const {
   view,
   lensPath,
   prop,
-  zip,
-  flatten,
   toPairs,
-  fromPairs,
   reverse,
 } = require('ramda')
-const { rate, rating, ordinal } = require('openskill')
+const { ordinal } = require('openskill')
+const reduceRating = require('./reduce-rating')
 
 const forPlayer = (matches) => (player) =>
   filter((m) => any((p) => p.id === player.id, m.players), matches)
@@ -52,13 +50,7 @@ const data = {
 }
 
 const gameRatings = map(
-  (game) =>
-    reduce((ratings, match) => {
-      const players = map((p) => p.id, match.players)
-      const oldRatings = map((p) => [ratings[p] || rating()], players)
-      const newRatings = rate(oldRatings)
-      return { ...ratings, ...fromPairs(zip(players, flatten(newRatings))) }
-    }, {})(game.matches),
+  (game) => reduce(reduceRating, {})(game.matches),
   data.games
 )
 
