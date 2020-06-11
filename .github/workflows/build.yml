@@ -15,9 +15,6 @@ jobs:
           node-version: 13.x
       - run: npm install
       - run: npm run build --if-present
-      - run: npm test
-        env:
-          CI: true
       - uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
