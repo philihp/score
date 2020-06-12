@@ -5,36 +5,11 @@
   "location": "TTA App",
   "description": "Now That's What I Call Combat V",
   "game": "tta2",
-  "players": [
-    {
-      "id": "matt"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "adam"
-    }
-  ],
+  "players": ["matt", "ken", "aaron", "adam"],
   "results": [
-    {
-      "player": "adam",
-      "score": 299
-    },
-    {
-      "player": "aaron",
-      "score": 274
-    },
-    {
-      "player": "ken",
-      "score": 266
-    },
-    {
-      "player": "matt",
-      "score": 0
-    }
+    { "player": "adam", "score": 299 },
+    { "player": "aaron", "score": 274 },
+    { "player": "ken", "score": 266 },
+    { "player": "matt", "score": 0 }
   ]
 }

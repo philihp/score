@@ -4,29 +4,10 @@
   "updatedAt": "2016-05-16T21:59:00.000Z",
   "description": "See 3p ohh",
   "game": "tta2",
-  "players": [
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["aaron", "ken", "phil"],
   "results": [
-    {
-      "player": "aaron",
-      "score": "136"
-    },
-    {
-      "player": "ken",
-      "score": "120"
-    },
-    {
-      "player": "phil",
-      "score": "-"
-    }
+    { "player": "aaron", "score": "136" },
+    { "player": "ken", "score": "120" },
+    { "player": "phil", "score": "-" }
   ]
 }

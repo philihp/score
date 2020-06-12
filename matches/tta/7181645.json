@@ -4,29 +4,10 @@
   "updatedAt": "2014-05-21T12:29:00.000Z",
   "description": "That last game was merely a setback!",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "177"
-    },
-    {
-      "player": "phil",
-      "score": "169"
-    },
-    {
-      "player": "aaron",
-      "score": "169"
-    }
+    { "player": "ken", "score": "177" },
+    { "player": "phil", "score": "169" },
+    { "player": "aaron", "score": "169" }
   ]
 }

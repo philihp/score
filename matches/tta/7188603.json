@@ -4,36 +4,11 @@
   "updatedAt": "2014-06-25T11:13:00.000Z",
   "description": "The enemy of my enemy is... Phil",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ville"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["phil", "ville", "ken", "aaron"],
   "results": [
-    {
-      "player": "phil",
-      "score": "207"
-    },
-    {
-      "player": "ville",
-      "score": "205"
-    },
-    {
-      "player": "ken",
-      "score": "158"
-    },
-    {
-      "player": "aaron",
-      "score": "152"
-    }
+    { "player": "phil", "score": "207" },
+    { "player": "ville", "score": "205" },
+    { "player": "ken", "score": "158" },
+    { "player": "aaron", "score": "152" }
   ]
 }

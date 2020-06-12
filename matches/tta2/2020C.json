@@ -5,36 +5,11 @@
   "location": "TTA App",
   "description": "2020C",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "matt"
-    },
-    {
-      "id": "adam"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "matt", "adam", "phil"],
   "results": [
-    {
-      "player": "phil",
-      "score": 174
-    },
-    {
-      "player": "adam",
-      "score": 158
-    },
-    {
-      "player": "matt",
-      "score": 0
-    },
-    {
-      "player": "ken",
-      "score": 0
-    }
+    { "player": "phil", "score": 174 },
+    { "player": "adam", "score": 158 },
+    { "player": "matt", "score": 0 },
+    { "player": "ken", "score": 0 }
   ]
 }

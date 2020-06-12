@@ -4,36 +4,11 @@
   "updatedAt": "2013-08-06T17:37:00.000Z",
   "description": "Act V: Matt of Destruction",
   "game": "tta",
-  "players": [
-    {
-      "id": "matt"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["matt", "aaron", "phil", "ken"],
   "results": [
-    {
-      "player": "matt",
-      "score": "190"
-    },
-    {
-      "player": "aaron",
-      "score": "137"
-    },
-    {
-      "player": "phil",
-      "score": "130"
-    },
-    {
-      "player": "ken",
-      "score": "-"
-    }
+    { "player": "matt", "score": "190" },
+    { "player": "aaron", "score": "137" },
+    { "player": "phil", "score": "130" },
+    { "player": "ken", "score": "-" }
   ]
 }

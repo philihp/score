@@ -4,29 +4,10 @@
   "updatedAt": "2014-02-14T17:58:00.000Z",
   "description": "You know nothing, Snow",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "aaron", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "122"
-    },
-    {
-      "player": "aaron",
-      "score": "103"
-    },
-    {
-      "player": "phil",
-      "score": "94"
-    }
+    { "player": "ken", "score": "122" },
+    { "player": "aaron", "score": "103" },
+    { "player": "phil", "score": "94" }
   ]
 }

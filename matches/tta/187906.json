@@ -4,36 +4,11 @@
   "updatedAt": "2013-05-13T18:31:00.000Z",
   "description": "we require more vesphene gas",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "sean"
-    }
-  ],
+  "players": ["phil", "ken", "aaron", "sean"],
   "results": [
-    {
-      "player": "phil",
-      "score": "242"
-    },
-    {
-      "player": "ken",
-      "score": "153"
-    },
-    {
-      "player": "aaron",
-      "score": "104"
-    },
-    {
-      "player": "sean",
-      "score": "-"
-    }
+    { "player": "phil", "score": "242" },
+    { "player": "ken", "score": "153" },
+    { "player": "aaron", "score": "104" },
+    { "player": "sean", "score": "-" }
   ]
 }

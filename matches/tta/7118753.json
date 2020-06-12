@@ -4,29 +4,10 @@
   "updatedAt": "2013-10-09T17:51:00.000Z",
   "description": "TTA 10-6: Aaron's Revenge",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["phil", "ken", "aaron"],
   "results": [
-    {
-      "player": "phil",
-      "score": "193"
-    },
-    {
-      "player": "ken",
-      "score": "166"
-    },
-    {
-      "player": "aaron",
-      "score": "152"
-    }
+    { "player": "phil", "score": "193" },
+    { "player": "ken", "score": "166" },
+    { "player": "aaron", "score": "152" }
   ]
 }

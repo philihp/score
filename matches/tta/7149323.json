@@ -4,29 +4,10 @@
   "updatedAt": "2014-01-16T13:31:00.000Z",
   "description": "Episode XVII: Dark Heart of Phil (3)",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "177"
-    },
-    {
-      "player": "phil",
-      "score": "153"
-    },
-    {
-      "player": "aaron",
-      "score": "129"
-    }
+    { "player": "ken", "score": "177" },
+    { "player": "phil", "score": "153" },
+    { "player": "aaron", "score": "129" }
   ]
 }

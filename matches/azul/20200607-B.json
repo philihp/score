@@ -4,14 +4,9 @@
   "updatedAt": "2020-06-08T03:00:00.000Z",
   "description": "Played on Tabletop Simulator, grey board",
   "game": "azul",
-  "players": [
-    { "id": "matt" },
-    { "id": "eric" },
-    { "id": "aaron" },
-    { "id": "ken" }
-  ],
+  "players": ["matt", "eric", "aaron", "ken"],
   "results": [
-    { "player": "ken", "score": 94}, 
+    { "player": "ken", "score": 94 },
     { "player": "aaron", "score": 92 },
     { "player": "matt", "score": 69 },
     { "player": "eric", "score": 38 }

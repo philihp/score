@@ -5,36 +5,11 @@
   "location": "TTA App",
   "description": "Combat IV",
   "game": "tta2",
-  "players": [
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "matt"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["aaron", "ken", "matt", "phil"],
   "results": [
-    {
-      "player": "aaron",
-      "score": 279
-    },
-    {
-      "player": "ken",
-      "score": 258
-    },
-    {
-      "player": "phil",
-      "score": 258
-    },
-    {
-      "player": "matt",
-      "score": 208
-    }
+    { "player": "aaron", "score": 279 },
+    { "player": "ken", "score": 258 },
+    { "player": "phil", "score": 258 },
+    { "player": "matt", "score": 208 }
   ]
 }

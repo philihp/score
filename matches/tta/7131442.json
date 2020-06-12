@@ -4,29 +4,10 @@
   "updatedAt": "2013-11-21T15:05:00.000Z",
   "description": "The Best Offense is a Good Defensive Army",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["phil", "ken", "aaron"],
   "results": [
-    {
-      "player": "phil",
-      "score": "126"
-    },
-    {
-      "player": "ken",
-      "score": "123"
-    },
-    {
-      "player": "aaron",
-      "score": "80"
-    }
+    { "player": "phil", "score": "126" },
+    { "player": "ken", "score": "123" },
+    { "player": "aaron", "score": "80" }
   ]
 }

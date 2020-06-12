@@ -4,29 +4,10 @@
   "updatedAt": "2013-09-06T13:43:00.000Z",
   "description": "TTA 9 to 5: A-Wing vs. TIE Fighters",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "95"
-    },
-    {
-      "player": "phil",
-      "score": "91"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    }
+    { "player": "ken", "score": "95" },
+    { "player": "phil", "score": "91" },
+    { "player": "aaron", "score": "-" }
   ]
 }

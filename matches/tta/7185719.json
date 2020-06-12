@@ -4,29 +4,10 @@
   "updatedAt": "2014-06-03T19:44:00.000Z",
   "description": "Fffffffuuuuuuuuuuuuu",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "aaron", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "27"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    },
-    {
-      "player": "phil",
-      "score": "-"
-    }
+    { "player": "ken", "score": "27" },
+    { "player": "aaron", "score": "-" },
+    { "player": "phil", "score": "-" }
   ]
 }

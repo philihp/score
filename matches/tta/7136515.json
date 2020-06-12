@@ -4,29 +4,10 @@
   "updatedAt": "2013-12-03T15:44:00.000Z",
   "description": "\"You know what makes a good loser? Practice.\"",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "155"
-    },
-    {
-      "player": "phil",
-      "score": "113"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    }
+    { "player": "ken", "score": "155" },
+    { "player": "phil", "score": "113" },
+    { "player": "aaron", "score": "-" }
   ]
 }

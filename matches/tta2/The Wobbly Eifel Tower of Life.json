@@ -5,29 +5,10 @@
   "location": "TTA App",
   "description": "The Wobbly Eifel Tower of Life",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "adam"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "adam", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": 194
-    },
-    {
-      "player": "phil",
-      "score": 179
-    },
-    {
-      "player": "adam",
-      "score": 158
-    }
+    { "player": "ken", "score": 194 },
+    { "player": "phil", "score": 179 },
+    { "player": "adam", "score": 158 }
   ]
 }

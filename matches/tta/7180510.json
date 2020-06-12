@@ -4,29 +4,10 @@
   "updatedAt": "2014-05-16T13:26:00.000Z",
   "description": "Too soon, Executus!",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "195"
-    },
-    {
-      "player": "phil",
-      "score": "128"
-    },
-    {
-      "player": "aaron",
-      "score": "127"
-    }
+    { "player": "ken", "score": "195" },
+    { "player": "phil", "score": "128" },
+    { "player": "aaron", "score": "127" }
   ]
 }

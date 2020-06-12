@@ -4,13 +4,7 @@
   "updatedAt": "2020-05-01T00:00:00.000Z",
   "description": "A game played on 2020-05-01 over Zoom",
   "game": "ttr",
-  "players": [
-    { "id": "billy" },
-    { "id": "jelle" },
-    { "id": "jess" },
-    { "id": "katie" },
-    { "id": "phil" }
-  ],
+  "players": ["billy", "jelle", "jess", "katie", "phil"],
   "results": [
     { "player": "jelle", "score": 52 },
     { "player": "billy", "score": 82 },

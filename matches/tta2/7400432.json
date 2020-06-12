@@ -4,36 +4,11 @@
   "updatedAt": "2017-10-05T09:07:00.000Z",
   "description": "2017Fuuuuuu",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ville"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ville", "ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ville",
-      "score": "253"
-    },
-    {
-      "player": "ken",
-      "score": "228"
-    },
-    {
-      "player": "phil",
-      "score": "218"
-    },
-    {
-      "player": "aaron",
-      "score": "188"
-    }
+    { "player": "ville", "score": "253" },
+    { "player": "ken", "score": "228" },
+    { "player": "phil", "score": "218" },
+    { "player": "aaron", "score": "188" }
   ]
 }

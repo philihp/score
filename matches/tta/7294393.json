@@ -4,36 +4,11 @@
   "updatedAt": "2016-01-08T14:27:00.000Z",
   "description": "Always help Phil! Or Philihp! .. or Fil.. or Phill",
   "game": "tta",
-  "players": [
-    {
-      "id": "ville"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ville", "ken", "aaron", "phil"],
   "results": [
-    {
-      "player": "ville",
-      "score": "167"
-    },
-    {
-      "player": "ken",
-      "score": "162"
-    },
-    {
-      "player": "aaron",
-      "score": "155"
-    },
-    {
-      "player": "phil",
-      "score": "-"
-    }
+    { "player": "ville", "score": "167" },
+    { "player": "ken", "score": "162" },
+    { "player": "aaron", "score": "155" },
+    { "player": "phil", "score": "-" }
   ]
 }

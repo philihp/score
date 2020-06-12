@@ -4,22 +4,9 @@
   "updatedAt": "2013-04-04T22:05:00.000Z",
   "description": "test game",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["phil", "ken"],
   "results": [
-    {
-      "player": "phil",
-      "score": "134"
-    },
-    {
-      "player": "ken",
-      "score": "110"
-    }
+    { "player": "phil", "score": "134" },
+    { "player": "ken", "score": "110" }
   ]
 }

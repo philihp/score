@@ -4,29 +4,10 @@
   "updatedAt": "2013-08-12T11:45:00.000Z",
   "description": "TTA 9 to 5: People took off today, so deadline postponed 'til Monday!",
   "game": "tta",
-  "players": [
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["aaron", "ken", "phil"],
   "results": [
-    {
-      "player": "aaron",
-      "score": "140"
-    },
-    {
-      "player": "ken",
-      "score": "138"
-    },
-    {
-      "player": "phil",
-      "score": "106"
-    }
+    { "player": "aaron", "score": "140" },
+    { "player": "ken", "score": "138" },
+    { "player": "phil", "score": "106" }
   ]
 }

@@ -5,29 +5,10 @@
   "location": "TTA App",
   "description": "Wobbly Eiffel Tower goes Limp, The",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "adam"
-    }
-  ],
+  "players": ["ken", "phil", "adam"],
   "results": [
-    {
-      "player": "phil",
-      "score": 198
-    },
-    {
-      "player": "ken",
-      "score": 179
-    },
-    {
-      "player": "adam",
-      "score": 0
-    }
+    { "player": "phil", "score": 198 },
+    { "player": "ken", "score": 179 },
+    { "player": "adam", "score": 0 }
   ]
 }

@@ -4,29 +4,10 @@
   "updatedAt": "2013-04-06T12:05:00.000Z",
   "description": "Aaron Dixon's Game",
   "game": "tta",
-  "players": [
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["aaron", "phil", "ken"],
   "results": [
-    {
-      "player": "aaron",
-      "score": "121"
-    },
-    {
-      "player": "phil",
-      "score": "113"
-    },
-    {
-      "player": "ken",
-      "score": "-"
-    }
+    { "player": "aaron", "score": "121" },
+    { "player": "phil", "score": "113" },
+    { "player": "ken", "score": "-" }
   ]
 }

@@ -4,36 +4,11 @@
   "updatedAt": "2014-07-02T13:25:00.000Z",
   "description": "Ken learns War determines who is left, not who is right. And Phil's a whore",
   "game": "tta",
-  "players": [
-    {
-      "id": "ville"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["ville", "phil", "aaron", "ken"],
   "results": [
-    {
-      "player": "ville",
-      "score": "233"
-    },
-    {
-      "player": "phil",
-      "score": "221"
-    },
-    {
-      "player": "aaron",
-      "score": "191"
-    },
-    {
-      "player": "ken",
-      "score": "186"
-    }
+    { "player": "ville", "score": "233" },
+    { "player": "phil", "score": "221" },
+    { "player": "aaron", "score": "191" },
+    { "player": "ken", "score": "186" }
   ]
 }

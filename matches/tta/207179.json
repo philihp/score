@@ -4,22 +4,9 @@
   "updatedAt": "2013-07-06T19:18:00.000Z",
   "description": "this game name is too short",
   "game": "tta",
-  "players": [
-    {
-      "id": "matt"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["matt", "phil"],
   "results": [
-    {
-      "player": "matt",
-      "score": "92"
-    },
-    {
-      "player": "phil",
-      "score": "76"
-    }
+    { "player": "matt", "score": "92" },
+    { "player": "phil", "score": "76" }
   ]
 }

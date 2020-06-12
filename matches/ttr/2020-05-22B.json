@@ -4,7 +4,7 @@
   "updatedAt": "2020-05-22T00:00:01.00Z",
   "description": "A game played on 2020-05-22",
   "game": "ttr",
-  "players": [{ "id": "billy" }, { "id": "jelle" }, { "id": "ryan" }],
+  "players": ["billy", "jelle", "ryan"],
   "results": [
     { "player": "billy", "score": 129 },
     { "player": "ryan", "score": 114 },

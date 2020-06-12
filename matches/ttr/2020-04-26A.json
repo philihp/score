@@ -4,13 +4,7 @@
   "updatedAt": "2020-04-26T00:00:00.000Z",
   "description": "A game played on 2020-04-26 over Zoom",
   "game": "ttr",
-  "players": [
-    { "id": "koop" },
-    { "id": "jelle" },
-    { "id": "jess" },
-    { "id": "katie" },
-    { "id": "phil" }
-  ],
+  "players": ["koop", "jelle", "jess", "katie", "phil"],
   "results": [
     { "player": "jess", "score": 142 },
     { "player": "katie", "score": 130 },

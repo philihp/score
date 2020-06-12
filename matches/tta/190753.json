@@ -4,29 +4,10 @@
   "updatedAt": "2013-05-13T00:37:00.000Z",
   "description": "slow ass bitches",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "155"
-    },
-    {
-      "player": "phil",
-      "score": "145"
-    },
-    {
-      "player": "aaron",
-      "score": "98"
-    }
+    { "player": "ken", "score": "155" },
+    { "player": "phil", "score": "145" },
+    { "player": "aaron", "score": "98" }
   ]
 }
