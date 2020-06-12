@@ -4,29 +4,10 @@
   "updatedAt": "2013-12-10T15:15:00.000Z",
   "description": "Episode 6: Aaron Strikes Back",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "aaron", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "107"
-    },
-    {
-      "player": "aaron",
-      "score": "92"
-    },
-    {
-      "player": "phil",
-      "score": "-"
-    }
+    { "player": "ken", "score": "107" },
+    { "player": "aaron", "score": "92" },
+    { "player": "phil", "score": "-" }
   ]
 }

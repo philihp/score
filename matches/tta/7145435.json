@@ -4,29 +4,10 @@
   "updatedAt": "2014-01-03T14:39:00.000Z",
   "description": "Episode XIV: Remember that time Phil got 11 CAs?",
   "game": "tta",
-  "players": [
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["aaron", "phil", "ken"],
   "results": [
-    {
-      "player": "aaron",
-      "score": "145"
-    },
-    {
-      "player": "phil",
-      "score": "143"
-    },
-    {
-      "player": "ken",
-      "score": "109"
-    }
+    { "player": "aaron", "score": "145" },
+    { "player": "phil", "score": "143" },
+    { "player": "ken", "score": "109" }
   ]
 }

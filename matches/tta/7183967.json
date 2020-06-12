@@ -4,36 +4,11 @@
   "updatedAt": "2014-06-04T14:37:00.000Z",
   "description": "Philihp ?'s Game",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ville"
-    }
-  ],
+  "players": ["ken", "phil", "aaron", "ville"],
   "results": [
-    {
-      "player": "ken",
-      "score": "263"
-    },
-    {
-      "player": "phil",
-      "score": "249"
-    },
-    {
-      "player": "aaron",
-      "score": "218"
-    },
-    {
-      "player": "ville",
-      "score": "204"
-    }
+    { "player": "ken", "score": "263" },
+    { "player": "phil", "score": "249" },
+    { "player": "aaron", "score": "218" },
+    { "player": "ville", "score": "204" }
   ]
 }

@@ -4,36 +4,11 @@
   "updatedAt": "2014-07-09T18:15:00.000Z",
   "description": "Cooking up trouble",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ville"
-    }
-  ],
+  "players": ["ken", "phil", "aaron", "ville"],
   "results": [
-    {
-      "player": "ken",
-      "score": "309"
-    },
-    {
-      "player": "phil",
-      "score": "259"
-    },
-    {
-      "player": "aaron",
-      "score": "245"
-    },
-    {
-      "player": "ville",
-      "score": "219"
-    }
+    { "player": "ken", "score": "309" },
+    { "player": "phil", "score": "259" },
+    { "player": "aaron", "score": "245" },
+    { "player": "ville", "score": "219" }
   ]
 }

@@ -5,43 +5,12 @@
   "location": "TTS",
   "description": "Matt's Birthday Game",
   "game": "tmars",
-  "players": [
-    {
-      "id": "adam"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "matt"
-    },
-    {
-      "id": "eric"
-    }
-  ],
+  "players": ["adam", "ken", "aaron", "matt", "eric"],
   "results": [
-    {
-      "player": "eric",
-      "score": 62
-    },
-    {
-      "player": "matt",
-      "score": 57
-    },
-    {
-      "player": "aaron",
-      "score": 56
-    },
-    {
-      "player": "adam",
-      "score": 55
-    },
-    {
-      "player": "ken",
-      "score": 51
-    }
+    { "player": "eric", "score": 62 },
+    { "player": "matt", "score": 57 },
+    { "player": "aaron", "score": 56 },
+    { "player": "adam", "score": 55 },
+    { "player": "ken", "score": 51 }
   ]
 }

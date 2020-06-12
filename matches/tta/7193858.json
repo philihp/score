@@ -4,36 +4,11 @@
   "updatedAt": "2014-08-03T14:24:00.000Z",
   "description": "The 300 club (Spoilers they died)",
   "game": "tta",
-  "players": [
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ville"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["aaron", "ville", "phil", "ken"],
   "results": [
-    {
-      "player": "aaron",
-      "score": "289"
-    },
-    {
-      "player": "ville",
-      "score": "280"
-    },
-    {
-      "player": "phil",
-      "score": "200"
-    },
-    {
-      "player": "ken",
-      "score": "-"
-    }
+    { "player": "aaron", "score": "289" },
+    { "player": "ville", "score": "280" },
+    { "player": "phil", "score": "200" },
+    { "player": "ken", "score": "-" }
   ]
 }

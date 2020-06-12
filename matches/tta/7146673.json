@@ -4,29 +4,10 @@
   "updatedAt": "2014-01-08T13:51:00.000Z",
   "description": "Episode XV: ( . Y . )",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["phil", "aaron", "ken"],
   "results": [
-    {
-      "player": "phil",
-      "score": "123"
-    },
-    {
-      "player": "aaron",
-      "score": "115"
-    },
-    {
-      "player": "ken",
-      "score": "-"
-    }
+    { "player": "phil", "score": "123" },
+    { "player": "aaron", "score": "115" },
+    { "player": "ken", "score": "-" }
   ]
 }

@@ -4,36 +4,11 @@
   "updatedAt": "2015-02-02T18:56:00.000Z",
   "description": "Phil's back party's over",
   "game": "tta",
-  "players": [
-    {
-      "id": "ville"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["ville", "phil", "aaron", "ken"],
   "results": [
-    {
-      "player": "ville",
-      "score": "142"
-    },
-    {
-      "player": "phil",
-      "score": "107"
-    },
-    {
-      "player": "aaron",
-      "score": "99"
-    },
-    {
-      "player": "ken",
-      "score": "-"
-    }
+    { "player": "ville", "score": "142" },
+    { "player": "phil", "score": "107" },
+    { "player": "aaron", "score": "99" },
+    { "player": "ken", "score": "-" }
   ]
 }

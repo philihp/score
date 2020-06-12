@@ -4,29 +4,10 @@
   "updatedAt": "2014-11-10T13:29:00.000Z",
   "description": "For England, James?",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["phil", "aaron", "ken"],
   "results": [
-    {
-      "player": "phil",
-      "score": "113"
-    },
-    {
-      "player": "aaron",
-      "score": "95"
-    },
-    {
-      "player": "ken",
-      "score": "94"
-    }
+    { "player": "phil", "score": "113" },
+    { "player": "aaron", "score": "95" },
+    { "player": "ken", "score": "94" }
   ]
 }

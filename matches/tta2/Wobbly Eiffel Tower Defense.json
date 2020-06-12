@@ -5,36 +5,11 @@
   "location": "TTA App",
   "description": "Wobbly Eiffel Tower Defense",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "mattkahn"
-    },
-    {
-      "id": "adam"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "mattkahn", "adam", "phil"],
   "results": [
-    {
-      "player": "mattkahn",
-      "score": 166
-    },
-    {
-      "player": "ken",
-      "score": 148
-    },
-    {
-      "player": "phil",
-      "score": 133
-    },
-    {
-      "player": "adam",
-      "score": 0
-    }
+    { "player": "mattkahn", "score": 166 },
+    { "player": "ken", "score": 148 },
+    { "player": "phil", "score": 133 },
+    { "player": "adam", "score": 0 }
   ]
 }

@@ -4,29 +4,10 @@
   "updatedAt": "2014-01-14T14:49:00.000Z",
   "description": "Episode XVI: Fuck Phil (2)",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["phil", "aaron", "ken"],
   "results": [
-    {
-      "player": "phil",
-      "score": "202"
-    },
-    {
-      "player": "aaron",
-      "score": "200"
-    },
-    {
-      "player": "ken",
-      "score": "183"
-    }
+    { "player": "phil", "score": "202" },
+    { "player": "aaron", "score": "200" },
+    { "player": "ken", "score": "183" }
   ]
 }

@@ -4,29 +4,10 @@
   "updatedAt": "2013-12-17T11:43:00.000Z",
   "description": "Episode 8b: This time's for real",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "aaron", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "136"
-    },
-    {
-      "player": "aaron",
-      "score": "114"
-    },
-    {
-      "player": "phil",
-      "score": "104"
-    }
+    { "player": "ken", "score": "136" },
+    { "player": "aaron", "score": "114" },
+    { "player": "phil", "score": "104" }
   ]
 }

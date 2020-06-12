@@ -5,36 +5,11 @@
   "location": "TTA App",
   "description": "My Victry",
   "game": "tta2",
-  "players": [
-    {
-      "id": "jenn"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "adam"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["jenn", "ken", "adam", "aaron"],
   "results": [
-    {
-      "player": "aaron",
-      "score": 114
-    },
-    {
-      "player": "ken",
-      "score": 106
-    },
-    {
-      "player": "adam",
-      "score": 103
-    },
-    {
-      "player": "jenn",
-      "score": 61
-    }
+    { "player": "aaron", "score": 114 },
+    { "player": "ken", "score": 106 },
+    { "player": "adam", "score": 103 },
+    { "player": "jenn", "score": 61 }
   ]
 }

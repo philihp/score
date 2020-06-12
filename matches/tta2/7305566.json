@@ -4,36 +4,11 @@
   "updatedAt": "2016-03-14T15:55:00.000Z",
   "description": "I love the smell of napalm in the morning",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ville"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["ville", "aaron", "phil", "ken"],
   "results": [
-    {
-      "player": "ville",
-      "score": "173"
-    },
-    {
-      "player": "aaron",
-      "score": "137"
-    },
-    {
-      "player": "phil",
-      "score": "136"
-    },
-    {
-      "player": "ken",
-      "score": "-"
-    }
+    { "player": "ville", "score": "173" },
+    { "player": "aaron", "score": "137" },
+    { "player": "phil", "score": "136" },
+    { "player": "ken", "score": "-" }
   ]
 }

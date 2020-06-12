@@ -5,7 +5,7 @@
   "description": "Game played over the board where Phil made a roadblock down the Mississippi",
   "location": "Steiner",
   "game": "ttr",
-  "players": [{ "id": "jess" }, { "id": "phil" }],
+  "players": ["jess", "phil"],
   "results": [
     { "player": "phil", "score": 107 },
     { "player": "jess", "score": 13 }

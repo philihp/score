@@ -4,29 +4,10 @@
   "updatedAt": "2013-12-15T22:13:00.000Z",
   "description": "Episode 8: The Ocho",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "aaron", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "48"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    },
-    {
-      "player": "phil",
-      "score": "-"
-    }
+    { "player": "ken", "score": "48" },
+    { "player": "aaron", "score": "-" },
+    { "player": "phil", "score": "-" }
   ]
 }

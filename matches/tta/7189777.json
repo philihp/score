@@ -4,29 +4,10 @@
   "updatedAt": "2014-06-21T14:07:00.000Z",
   "description": "3p is the best p",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["phil", "aaron", "ken"],
   "results": [
-    {
-      "player": "phil",
-      "score": "109"
-    },
-    {
-      "player": "aaron",
-      "score": "92"
-    },
-    {
-      "player": "ken",
-      "score": "90"
-    }
+    { "player": "phil", "score": "109" },
+    { "player": "aaron", "score": "92" },
+    { "player": "ken", "score": "90" }
   ]
 }

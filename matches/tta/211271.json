@@ -4,29 +4,10 @@
   "updatedAt": "2013-07-23T14:07:00.000Z",
   "description": "TTA 9 to 5: Round Two, Fight!",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "176"
-    },
-    {
-      "player": "phil",
-      "score": "172"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    }
+    { "player": "ken", "score": "176" },
+    { "player": "phil", "score": "172" },
+    { "player": "aaron", "score": "-" }
   ]
 }

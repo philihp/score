@@ -4,29 +4,10 @@
   "updatedAt": "2013-09-04T11:04:00.000Z",
   "description": "TTA 9 to 5: 4 day workweek ohfuckyes",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["phil", "ken", "aaron"],
   "results": [
-    {
-      "player": "phil",
-      "score": "122"
-    },
-    {
-      "player": "ken",
-      "score": "122"
-    },
-    {
-      "player": "aaron",
-      "score": "82"
-    }
+    { "player": "phil", "score": "122" },
+    { "player": "ken", "score": "122" },
+    { "player": "aaron", "score": "82" }
   ]
 }

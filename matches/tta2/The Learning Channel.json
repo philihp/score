@@ -5,29 +5,10 @@
   "location": "TTA App",
   "description": "The Learning Channel",
   "game": "tta2",
-  "players": [
-    {
-      "id": "jenn"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "adam"
-    }
-  ],
+  "players": ["jenn", "ken", "adam"],
   "results": [
-    {
-      "player": "adam",
-      "score": 192
-    },
-    {
-      "player": "ken",
-      "score": 189
-    },
-    {
-      "player": "jenn",
-      "score": 131
-    }
+    { "player": "adam", "score": 192 },
+    { "player": "ken", "score": 189 },
+    { "player": "jenn", "score": 131 }
   ]
 }

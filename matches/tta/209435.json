@@ -4,29 +4,10 @@
   "updatedAt": "2013-07-17T15:53:00.000Z",
   "description": "TTA 9 to 5",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "133"
-    },
-    {
-      "player": "phil",
-      "score": "132"
-    },
-    {
-      "player": "aaron",
-      "score": "64"
-    }
+    { "player": "ken", "score": "133" },
+    { "player": "phil", "score": "132" },
+    { "player": "aaron", "score": "64" }
   ]
 }

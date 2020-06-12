@@ -4,22 +4,9 @@
   "updatedAt": "2013-04-05T02:20:00.000Z",
   "description": "secnod game",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    }
-  ],
+  "players": ["phil", "ken"],
   "results": [
-    {
-      "player": "phil",
-      "score": "149"
-    },
-    {
-      "player": "ken",
-      "score": "122"
-    }
+    { "player": "phil", "score": "149" },
+    { "player": "ken", "score": "122" }
   ]
 }

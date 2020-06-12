@@ -4,29 +4,10 @@
   "updatedAt": "2013-10-22T16:45:00.000Z",
   "description": "TTA 10-6: It's all the Buzzby",
   "game": "tta",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["phil", "ken", "aaron"],
   "results": [
-    {
-      "player": "phil",
-      "score": "213"
-    },
-    {
-      "player": "ken",
-      "score": "157"
-    },
-    {
-      "player": "aaron",
-      "score": "140"
-    }
+    { "player": "phil", "score": "213" },
+    { "player": "ken", "score": "157" },
+    { "player": "aaron", "score": "140" }
   ]
 }

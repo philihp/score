@@ -4,22 +4,9 @@
   "updatedAt": "2013-04-08T01:31:00.000Z",
   "description": "PHILIHP BUSBY's Game",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "107"
-    },
-    {
-      "player": "phil",
-      "score": "70"
-    }
+    { "player": "ken", "score": "107" },
+    { "player": "phil", "score": "70" }
   ]
 }

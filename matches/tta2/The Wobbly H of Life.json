@@ -5,29 +5,10 @@
   "location": "TTA App",
   "description": "The Wobbly H of Life",
   "game": "tta2",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "adam"
-    }
-  ],
+  "players": ["phil", "ken", "adam"],
   "results": [
-    {
-      "player": "ken",
-      "score": 180
-    },
-    {
-      "player": "phil",
-      "score": 169
-    },
-    {
-      "player": "adam",
-      "score": 138
-    }
+    { "player": "ken", "score": 180 },
+    { "player": "phil", "score": 169 },
+    { "player": "adam", "score": 138 }
   ]
 }

@@ -4,29 +4,10 @@
   "updatedAt": "2013-12-07T17:16:00.000Z",
   "description": "\"Victory has a thousand fathers.\" Basically, victory's mother is a whore.",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "214"
-    },
-    {
-      "player": "phil",
-      "score": "183"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    }
+    { "player": "ken", "score": "214" },
+    { "player": "phil", "score": "183" },
+    { "player": "aaron", "score": "-" }
   ]
 }

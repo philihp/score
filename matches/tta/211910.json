@@ -4,22 +4,9 @@
   "updatedAt": "2013-07-26T15:33:00.000Z",
   "description": "Hurrrrrr",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ken", "phil"],
   "results": [
-    {
-      "player": "ken",
-      "score": "92"
-    },
-    {
-      "player": "phil",
-      "score": "-"
-    }
+    { "player": "ken", "score": "92" },
+    { "player": "phil", "score": "-" }
   ]
 }

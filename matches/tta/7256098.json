@@ -4,36 +4,11 @@
   "updatedAt": "2015-05-28T03:02:00.000Z",
   "description": "Phil is why we ken't have nice things. (18)",
   "game": "tta",
-  "players": [
-    {
-      "id": "ville"
-    },
-    {
-      "id": "ken"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ville", "ken", "phil", "aaron"],
   "results": [
-    {
-      "player": "ville",
-      "score": "154"
-    },
-    {
-      "player": "ken",
-      "score": "125"
-    },
-    {
-      "player": "phil",
-      "score": "125"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    }
+    { "player": "ville", "score": "154" },
+    { "player": "ken", "score": "125" },
+    { "player": "phil", "score": "125" },
+    { "player": "aaron", "score": "-" }
   ]
 }

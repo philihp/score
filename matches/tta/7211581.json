@@ -4,36 +4,11 @@
   "updatedAt": "2014-10-13T17:47:00.000Z",
   "description": "This is why we can't have nice things. (5)",
   "game": "tta",
-  "players": [
-    {
-      "id": "ken"
-    },
-    {
-      "id": "ville"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "aaron"
-    }
-  ],
+  "players": ["ken", "ville", "phil", "aaron"],
   "results": [
-    {
-      "player": "ken",
-      "score": "188"
-    },
-    {
-      "player": "ville",
-      "score": "172"
-    },
-    {
-      "player": "phil",
-      "score": "118"
-    },
-    {
-      "player": "aaron",
-      "score": "-"
-    }
+    { "player": "ken", "score": "188" },
+    { "player": "ville", "score": "172" },
+    { "player": "phil", "score": "118" },
+    { "player": "aaron", "score": "-" }
   ]
 }

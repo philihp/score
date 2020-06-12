@@ -4,36 +4,11 @@
   "updatedAt": "2016-04-08T15:45:00.000Z",
   "description": "Lets give this a try",
   "game": "tta2",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "jonathan wilcox"
-    },
-    {
-      "id": "Iron James"
-    },
-    {
-      "id": "Lee Nicholas"
-    }
-  ],
+  "players": ["phil", "jonathan wilcox", "Iron James", "Lee Nicholas"],
   "results": [
-    {
-      "player": "phil",
-      "score": "244"
-    },
-    {
-      "player": "jonathan wilcox",
-      "score": "243"
-    },
-    {
-      "player": "Iron James",
-      "score": "-"
-    },
-    {
-      "player": "Lee Nicholas",
-      "score": "-"
-    }
+    { "player": "phil", "score": "244" },
+    { "player": "jonathan wilcox", "score": "243" },
+    { "player": "Iron James", "score": "-" },
+    { "player": "Lee Nicholas", "score": "-" }
   ]
 }
