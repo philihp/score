@@ -1,0 +1,15 @@
+{
+  "id": "20200613B",
+  "createdAt": "2020-06-14T02:20:00.000Z",
+  "updatedAt": "2020-06-14T05:00:00.000Z",
+  "location": "TTS",
+  "description": "Eric-Inventrix,Aaron-Mining,Ken-Thorgate,Matt-Saturn",
+  "game": "tmars",
+  "players": ["eric", "aaron", "ken", "matt"],
+  "results": [
+    { "player": "eric", "score": 81 },
+    { "player": "aaron", "score": 73 },
+    { "player": "ken", "score": 70 },
+    { "player": "matt", "score": 61 }
+  ]
+}
