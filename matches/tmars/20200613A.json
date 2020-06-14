@@ -1,0 +1,14 @@
+{
+  "id": "20200613A",
+  "createdAt": "2020-06-13T10:45:00.000Z",
+  "updatedAt": "2020-06-14T01:45:00.000Z",
+  "location": "TTS",
+  "description": "Matt-Splice,Aaron-Tharsis,Eric-Econoline",
+  "game": "tmars",
+  "players": ["matt", "eric", "aaron"],
+  "results": [
+    { "player": "matt", "score": 75 },
+    { "player": "aaron", "score": 73 },
+    { "player": "eric", "score": 61 }
+  ]
+}
