@@ -1,0 +1,16 @@
+{
+  "id": "20200527",
+  "createdAt": "2020-05-27T02:00:00.000Z",
+  "updatedAt": "2020-05-27T06:00:00.000Z",
+  "location": "TTS",
+  "description": "rando game",
+  "game": "tmars",
+  "players": ["phil", "ken", "aaron", "eric", "matt"],
+  "results": [
+    { "player": "ken", "score": 68 },
+    { "player": "matt", "score": 62 },
+    { "player": "aaron", "score": 58 },
+    { "player": "eric", "score": 57 },
+    { "player": "phil", "score": 56 }
+  ]
+}
