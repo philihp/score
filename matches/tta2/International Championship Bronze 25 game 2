@@ -1,0 +1,14 @@
+{
+  "id": "International Championship Bronze 25 game 2",
+  "createdAt": "2020-06-02T00:00:00.000Z",
+  "updatedAt": "2020-06-15T18:00:00.000Z",
+  "location": "TTA App",
+  "description": "International Championship Bronze 25 game 2",
+  "game": "tta2",
+  "players": ["phil", "albinsix", "LadyWhale"],
+  "results": [
+    { "player": "LadyWhale", "score": 222 },
+    { "player": "phil", "score": 183 },
+    { "player": "albinsix", "score": 111 }
+  ]
+}
