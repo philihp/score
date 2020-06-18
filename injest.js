@@ -62,6 +62,8 @@ fs.createReadStream(`${__dirname}/tta.csv`)
     }
     dat.players = shuffle(dat.players)
     dat.results.sort((a, b) => b.score - a.score)
-    const str = JSON.stringify(dat, null, 2)
-    fs.writeFileSync(`matches/tta2/${data.name}.json`, str)
+    fs.writeFileSync(
+      `matches/tta2/${data.name}.json`,
+      JSON.stringify(dat, undefined, 2)
+    )
   })
