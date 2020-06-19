@@ -7,7 +7,7 @@
   "scripts": {
     "build": "node build-site.js && harp compile src build",
     "test": "jest",
-    "lint": "eslint .",
+    "lint": "eslint . --ext js,json",
     "server": "node build-site.js && harp server src"
   },
   "repository": {
@@ -57,8 +57,10 @@
   },
   "eslintConfig": {
     "extends": [
-      "@philihp",
-      "plugin:jest/all"
-    ]
+      "@philihp"
+    ],
+    "rules": {
+      "unicorn/filename-case": 0
+    }
   }
 }
