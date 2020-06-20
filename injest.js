@@ -4,7 +4,7 @@
 
 const csv = require('csv-parser')
 const fs = require('fs')
-const shuffle = require('fast-shuffle').default
+const { shuffle } = require('fast-shuffle')
 
 const players = {
   'Ken ?': 'ken',
