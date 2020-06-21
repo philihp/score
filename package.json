@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "build": "node build-site.js && harp compile src build",
-    "test": "jest",
+    "test": "jest && npm run lint",
     "lint": "eslint . --ext js,json",
     "server": "node build-site.js && harp server src"
   },
@@ -29,10 +29,8 @@
     "ramda": "0.27.0"
   },
   "devDependencies": {
-    "@philihp/eslint-config": "2.1.0",
-    "eslint-plugin-jest": "23.14.0",
+    "@philihp/eslint-config": "2.2.0",
     "husky": "4.2.5",
-    "jest": "26.0.1",
     "lint-staged": "10.2.11",
     "prettier": "2.0.5"
   },
