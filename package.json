@@ -29,7 +29,7 @@
     "ramda": "0.27.0"
   },
   "devDependencies": {
-    "@philihp/eslint-config": "2.1.0",
+    "@philihp/eslint-config": "2.2.0",
     "eslint-plugin-jest": "23.14.0",
     "husky": "4.2.5",
     "jest": "26.0.1",
