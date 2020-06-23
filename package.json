@@ -22,7 +22,7 @@
   "homepage": "https://github.com/philihp/score#readme",
   "dependencies": {
     "csv-parser": "2.3.3",
-    "fast-shuffle": "4.1.0",
+    "fast-shuffle": "4.2.0",
     "glob": "7.1.6",
     "harp": "0.32.0",
     "openskill": "1.0.1",
