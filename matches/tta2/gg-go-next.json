@@ -1,0 +1,10 @@
+{
+  "id": "doodoo-caca",
+  "createdAt": "2020-06-24T02:50:00.000Z",
+  "updatedAt": "2020-06-24T02:50:00.000Z",
+  "location": "TTA App",
+  "description": "mistakes were made",
+  "game": "tta2",
+  "players": ["jenn", "phil", "adam", "aaron"],
+  "results": []
+}
