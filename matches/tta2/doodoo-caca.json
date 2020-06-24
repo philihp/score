@@ -1,0 +1,15 @@
+{
+  "id": "doodoo-caca",
+  "createdAt": "2020-06-17T00:00:00.000Z",
+  "updatedAt": "2020-06-24T02:40:00.000Z",
+  "location": "TTA App",
+  "description": "mistakes were made",
+  "game": "tta2",
+  "players": ["jenn", "phil", "adam", "aaron"],
+  "results": [
+    { "player": "phil", "score": 271 },
+    { "player": "aaron", "score": 238 },
+    { "player": "adam", "score": 196 },
+    { "player": "jenn", "score": 160 }
+  ]
+}
