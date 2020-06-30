@@ -4,7 +4,11 @@
   "updatedAt": "2020-05-25T23:30:00.000Z",
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1832",
-  "game": "tta2",
+  "game": "18xx",
   "players": ["talbatross", "kelvin-ho", "chichi"],
-  "results": []
+  "results": [
+    { "player": "talbatross", "score": null },
+    { "player": "kelvin-ho", "score": null },
+    { "player": "chichi", "score": null }
+  ]
 }

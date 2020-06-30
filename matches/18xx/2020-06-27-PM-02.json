@@ -4,7 +4,7 @@
   "updatedAt": "2020-05-27T23:30:00.000Z",
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1882",
-  "game": "tta2",
+  "game": "18xx",
   "players": ["shaz", "thecardboardbox", "outsidepasser"],
   "results": [
     { "player": "outsidepasser", "score": 1428 },

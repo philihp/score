@@ -18,7 +18,7 @@ fs.createReadStream(`./18xx.csv`)
       updatedAt,
       location: '22nd Annual Portland 18xx Convention',
       description: data.game,
-      game: data.game === 'Through the Ages' ? 'tta' : 'tta2',
+      game: '18xx',
       players: [],
       results: [],
     }

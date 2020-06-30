@@ -4,7 +4,12 @@
   "updatedAt": "2020-05-25T23:30:00.000Z",
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1846",
-  "game": "tta2",
+  "game": "18xx",
   "players": ["shirleydulcey", "beardbru", "thecardboardbox", "ex-raven"],
-  "results": []
+  "results": [
+    { "player": "shirleydulcey", "score": null },
+    { "player": "beardbru", "score": null },
+    { "player": "thecardboardbox", "score": null },
+    { "player": "ex-raven", "score": null }
+  ]
 }
