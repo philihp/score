@@ -7,6 +7,44 @@ const fs = require('fs')
 
 const players = []
 
+const lookup = {
+  '18xxperson': 'jonathan-work',
+  abnrgr: 'michael-monical',
+  adam1515: 'adam-mcdiarmid',
+  'andy-mesa': 'andy-mesa',
+  beardbru: 'bruce-beard',
+  cheesinglee: 'chee-sing-lee',
+  chichi: 'chisholm-gentry',
+  claudius: 'nathan-wagner',
+  clayton: 'greg-clayton',
+  daroj: 'christopher-rao',
+  deniz: 'deniz-bucak',
+  dix: 'bill-dixon',
+  espee: 'dave-blanchard',
+  'ex-raven': 'paul-work',
+  islandia: 'stephen-yu',
+  jaysixa: 'joshua-gottesman',
+  jeffheuer: 'jeff-heuer',
+  jon_g: 'jonathan-geruntho',
+  karazak: 'keith-williams',
+  kelly: 'kelly-krieble',
+  markmenm: 'tom-rodriguez',
+  mikewill: 'mike-williams',
+  mjshaver: 'mike-shaver',
+  neutron: 'mike-brumm',
+  'orca-willy': 'derek-yeung',
+  outsidepasser: 'michael-alexander',
+  pgh_gamer: 'dean-brandt',
+  'rail-baron': 'mark-derrick',
+  shaz: 'shaz-iqbal',
+  shirleydulcey: 'shirley-dulcey',
+  stormcrow: 'scott-ellis',
+  talbatross: 'chris-talbot',
+  thecardboardbox: 'sterling-tian',
+  triplejalltheway: 'jonathan-jang',
+  phil: 'philihp-busby',
+}
+
 fs.createReadStream(`./18xx.csv`)
   .pipe(csv())
   .on('data', (data) => {
@@ -22,61 +60,71 @@ fs.createReadStream(`./18xx.csv`)
       players: [],
       results: [],
     }
+
     if (data.p1.length > 1) {
-      dat.players.push(data.p1)
-      players.push(data.p1)
+      dat.players.push(lookup[data.p1] || data.p1)
+      players.push(lookup[data.p1] || data.p1)
       dat.results.push({
-        player: data.p1,
+        player: lookup[data.p1] || data.p1,
         score: Number.parseInt(data.s1, 10),
       })
     }
     if (data.p2.length > 1) {
-      dat.players.push(data.p2)
-      players.push(data.p2)
+      dat.players.push(lookup[data.p2] || data.p2)
+      players.push(lookup[data.p2] || data.p2)
       dat.results.push({
-        player: data.p2,
+        player: lookup[data.p2] || data.p2,
         score: Number.parseInt(data.s2, 10),
       })
     }
     if (data.p3.length > 1) {
-      dat.players.push(data.p3)
-      players.push(data.p3)
+      dat.players.push(lookup[data.p3] || data.p3)
+      players.push(lookup[data.p3] || data.p3)
       dat.results.push({
-        player: data.p3,
+        player: lookup[data.p3] || data.p3,
         score: Number.parseInt(data.s3, 10),
       })
     }
     if (data.p4.length > 1) {
-      dat.players.push(data.p4)
-      players.push(data.p4)
+      dat.players.push(lookup[data.p4] || data.p4)
+      players.push(lookup[data.p4] || data.p4)
       dat.results.push({
-        player: data.p4,
+        player: lookup[data.p4] || data.p4,
         score: Number.parseInt(data.s4, 10),
       })
     }
     if (data.p5.length > 1) {
-      dat.players.push(data.p5)
-      players.push(data.p5)
+      dat.players.push(lookup[data.p5] || data.p5)
+      players.push(lookup[data.p5] || data.p5)
       dat.results.push({
-        player: data.p5,
+        player: lookup[data.p5] || data.p5,
         score: Number.parseInt(data.s5, 10),
       })
     }
     if (data.p6.length > 1) {
-      dat.players.push(data.p6)
-      players.push(data.p6)
+      dat.players.push(lookup[data.p6] || data.p6)
+      players.push(lookup[data.p6] || data.p6)
       dat.results.push({
-        player: data.p6,
+        player: lookup[data.p6] || data.p6,
         score: Number.parseInt(data.s6, 10),
       })
     }
     dat.results.sort((a, b) => b.score - a.score)
+    if (!dat.results[0].score) {
+      dat.results = []
+    }
     fs.writeFileSync(`matches/18xx/${data.id}.json`, JSON.stringify(dat))
   })
   .on('finish', () => {
     players.sort()
     players.forEach((id) => {
-      console.log(id)
-      fs.writeFileSync(`players/18xx/${id}.json`, JSON.stringify({ id }))
+      const gname =
+        id.split('-')[0][0].toUpperCase() + id.split('-')[0].slice(1)
+      const sname =
+        id.split('-')[1][0].toUpperCase() + id.split('-')[1].slice(1)
+      fs.writeFileSync(
+        `players/18xx/${id}.json`,
+        JSON.stringify({ id, name: `${gname} ${sname}` })
+      )
     })
   })
