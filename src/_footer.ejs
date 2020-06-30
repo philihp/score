@@ -4,7 +4,9 @@
     <%= new Date().toISOString() // .substring(0,10) %>
   </time>
   from
-  <a href="https://github.com/philihp/score/tree/<%= process.env.GITHUB_SHA %>"
-    >0x<%= (process.env.GITHUB_SHA || "DECAFBAD").substring(0, 8) %></a
+  <a
+    href="https://github.com/philihp/score/tree/<%= process.env.npm_package_gitHead %>"
+    >0x<%= (process.env.npm_package_gitHead || "DECAFBAD").substring(0, 8) %></a
   >
+  by <%= process.env.npm_package_author_name %>
 </footer>
