@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-26-PM-02",
+  "createdAt": "2020-05-26T23:30:00.000Z",
+  "updatedAt": "2020-05-26T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Mex",
+  "game": "18xx",
+  "players": ["18xxperson", "pgh_gamer", "orca-willy", "talbatross"],
+  "results": [
+    { "player": "18xxperson", "score": 1120 },
+    { "player": "orca-willy", "score": 822 },
+    { "player": "pgh_gamer", "score": 717 },
+    { "player": "talbatross", "score": 495 }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2020-06-27-PM-02",
+  "createdAt": "2020-05-27T23:30:00.000Z",
+  "updatedAt": "2020-05-27T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1882",
+  "game": "18xx",
+  "players": ["shaz", "thecardboardbox", "outsidepasser"],
+  "results": [
+    { "player": "outsidepasser", "score": 1428 },
+    { "player": "shaz", "score": 1214 },
+    { "player": "thecardboardbox", "score": 794 }
+  ]
+}

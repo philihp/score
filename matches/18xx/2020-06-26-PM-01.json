@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-26-PM-01",
+  "createdAt": "2020-05-26T23:30:00.000Z",
+  "updatedAt": "2020-05-26T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1846",
+  "game": "18xx",
+  "players": [
+    "cheesinglee",
+    "shirleydulcey",
+    "beardbru",
+    "espee",
+    "rail-baron"
+  ],
+  "results": [
+    { "player": "beardbru", "score": 7083 },
+    { "player": "rail-baron", "score": 6703 },
+    { "player": "shirleydulcey", "score": 5972 },
+    { "player": "cheesinglee", "score": 5376 },
+    { "player": "espee", "score": 4883 }
+  ]
+}

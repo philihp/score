@@ -1,0 +1,14 @@
+{
+  "id": "2020-06-25-AM-04",
+  "createdAt": "2020-05-25T15:30:00.000Z",
+  "updatedAt": "2020-05-25T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1835",
+  "game": "18xx",
+  "players": ["ex-raven", "shirleydulcey", "phil"],
+  "results": [
+    { "player": "ex-raven", "score": null },
+    { "player": "shirleydulcey", "score": null },
+    { "player": "phil", "score": null }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2020-06-28-PM-01",
+  "createdAt": "2020-05-28T23:30:00.000Z",
+  "updatedAt": "2020-05-28T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Chesapeake",
+  "game": "18xx",
+  "players": ["phil", "ex-raven", "deniz", "espee", "kelly"],
+  "results": [
+    { "player": "ex-raven", "score": 5459 },
+    { "player": "phil", "score": 5365 },
+    { "player": "espee", "score": 4921 },
+    { "player": "deniz", "score": 4916 },
+    { "player": "kelly", "score": 4904 }
+  ]
+}

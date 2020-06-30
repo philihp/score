@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-27-AM-01",
+  "createdAt": "2020-05-27T15:30:00.000Z",
+  "updatedAt": "2020-05-27T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1849",
+  "game": "18xx",
+  "players": ["thecardboardbox", "chichi", "andy-mesa", "mjshaver"],
+  "results": [
+    { "player": "mjshaver", "score": 1072 },
+    { "player": "thecardboardbox", "score": 1033 },
+    { "player": "andy-mesa", "score": 963 },
+    { "player": "chichi", "score": 938 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-26-AM-05",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1830",
+  "game": "18xx",
+  "players": ["andy-mesa", "phil", "ex-raven", "triplejalltheway"],
+  "results": [
+    { "player": "phil", "score": 1665 },
+    { "player": "andy-mesa", "score": 1309 },
+    { "player": "ex-raven", "score": 1106 },
+    { "player": "triplejalltheway", "score": 116 }
+  ]
+}

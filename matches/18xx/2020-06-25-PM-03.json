@@ -1,0 +1,16 @@
+{
+  "id": "2020-06-25-PM-03",
+  "createdAt": "2020-05-25T23:30:00.000Z",
+  "updatedAt": "2020-05-25T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18EU",
+  "game": "18xx",
+  "players": ["jaysixa", "18xxperson", "mikewill", "karazak", "espee"],
+  "results": [
+    { "player": "18xxperson", "score": 7827 },
+    { "player": "mikewill", "score": 6265 },
+    { "player": "espee", "score": 5914 },
+    { "player": "jaysixa", "score": 5209 },
+    { "player": "karazak", "score": 4589 }
+  ]
+}

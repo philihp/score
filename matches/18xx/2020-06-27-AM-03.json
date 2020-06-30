@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-27-AM-03",
+  "createdAt": "2020-05-27T15:30:00.000Z",
+  "updatedAt": "2020-05-27T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NE",
+  "game": "18xx",
+  "players": ["abnrgr", "scott-petersen", "markmenm", "espee"],
+  "results": [
+    { "player": "scott-petersen", "score": 10596 },
+    { "player": "espee", "score": 10074 },
+    { "player": "abnrgr", "score": 10011 },
+    { "player": "markmenm", "score": 9598 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2020-06-26-AM-03",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NY",
+  "game": "18xx",
+  "players": ["jon_g", "pgh_gamer", "beardbru", "chichi", "cheesinglee"],
+  "results": [
+    { "player": "beardbru", "score": 9827 },
+    { "player": "jon_g", "score": 8131 },
+    { "player": "cheesinglee", "score": 7944 },
+    { "player": "pgh_gamer", "score": 6487 },
+    { "player": "chichi", "score": 5474 }
+  ]
+}

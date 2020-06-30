@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-28-AM-01",
+  "createdAt": "2020-05-28T15:30:00.000Z",
+  "updatedAt": "2020-05-28T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1832",
+  "game": "18xx",
+  "players": ["triplejalltheway", "mjshaver", "jon_g", "pgh_gamer"],
+  "results": [
+    { "player": "jon_g", "score": 9151 },
+    { "player": "triplejalltheway", "score": 7794 },
+    { "player": "pgh_gamer", "score": 7392 },
+    { "player": "mjshaver", "score": 7206 }
+  ]
+}
