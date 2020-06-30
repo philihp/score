@@ -10,7 +10,7 @@
     <nav>
       <%- partial("/_nav") %> <%- partial(current.path[0] + "/_nav") %>
     </nav>
-    <%- yield %> <%- partial(current.path[0] + "/_doc") %>
+    <%- partial(current.path[0] + "/_doc") %> <%- yield %>
     <hr />
     <%- partial("/_footer") %>
   </body>

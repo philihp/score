@@ -60,7 +60,6 @@ const friendlyRating = (r) => ({
   mu: friendly(r.mu),
   sigma: friendly(r.sigma),
   ordinal: friendly(r.ordinal),
-  variance: friendly(r.sigma * r.sigma),
 })
 const addFriendlyRating = ([name, r]) => [name, r, friendlyRating(r)]
 
@@ -84,6 +83,7 @@ const data2 = {
 }
 
 const createStubsForGame = (game) => {
+  if (fs.existsSync(`./src/games/${game.id}.ejs`)) return
   fs.writeFileSync(`./src/games/${game.id}.ejs`, '')
 }
 map(createStubsForGame, data2.games)
