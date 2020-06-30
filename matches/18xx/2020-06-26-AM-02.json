@@ -6,17 +6,17 @@
   "description": "18Chesapeake",
   "game": "18xx",
   "players": [
-    "thecardboardbox",
-    "espee",
-    "rail-baron",
-    "claudius",
-    "jeffheuer"
+    "sterling-tian",
+    "dave-blanchard",
+    "mark-derrick",
+    "nathan-wagner",
+    "jeff-heuer"
   ],
   "results": [
-    { "player": "jeffheuer", "score": 6478 },
-    { "player": "espee", "score": 5837 },
-    { "player": "rail-baron", "score": 5741 },
-    { "player": "claudius", "score": 5519 },
-    { "player": "thecardboardbox", "score": 4255 }
+    { "player": "jeff-heuer", "score": 6478 },
+    { "player": "dave-blanchard", "score": 5837 },
+    { "player": "mark-derrick", "score": 5741 },
+    { "player": "nathan-wagner", "score": 5519 },
+    { "player": "sterling-tian", "score": 4255 }
   ]
 }

@@ -7,16 +7,16 @@
   "game": "18xx",
   "players": [
     "chris-shaffer",
-    "talbatross",
-    "jeffheuer",
-    "stormcrow",
+    "chris-talbot",
+    "jeff-heuer",
+    "scott-ellis",
     "ken-boucher"
   ],
   "results": [
     { "player": "ken-boucher", "score": 3242 },
-    { "player": "jeffheuer", "score": 2097 },
+    { "player": "jeff-heuer", "score": 2097 },
     { "player": "chris-shaffer", "score": 2028 },
-    { "player": "talbatross", "score": 1947 },
-    { "player": "stormcrow", "score": 1569 }
+    { "player": "chris-talbot", "score": 1947 },
+    { "player": "scott-ellis", "score": 1569 }
   ]
 }

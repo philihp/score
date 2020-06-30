@@ -5,12 +5,18 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1861",
   "game": "18xx",
-  "players": ["stormcrow", "chris-shaffer", "phil", "beardbru", "ex-raven"],
+  "players": [
+    "scott-ellis",
+    "chris-shaffer",
+    "philihp-busby",
+    "bruce-beard",
+    "paul-work"
+  ],
   "results": [
-    { "player": "beardbru", "score": 5067 },
+    { "player": "bruce-beard", "score": 5067 },
     { "player": "chris-shaffer", "score": 4235 },
-    { "player": "stormcrow", "score": 4129 },
-    { "player": "ex-raven", "score": 3697 },
-    { "player": "phil", "score": 3344 }
+    { "player": "scott-ellis", "score": 4129 },
+    { "player": "paul-work", "score": 3697 },
+    { "player": "philihp-busby", "score": 3344 }
   ]
 }

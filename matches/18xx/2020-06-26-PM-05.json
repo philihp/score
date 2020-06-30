@@ -5,10 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1837Jr",
   "game": "18xx",
-  "players": ["scott-petersen", "jeffheuer", "abnrgr"],
+  "players": ["scott-petersen", "jeff-heuer", "michael-monical"],
   "results": [
-    { "player": "abnrgr", "score": 1260 },
-    { "player": "jeffheuer", "score": 1133 },
+    { "player": "michael-monical", "score": 1260 },
+    { "player": "jeff-heuer", "score": 1133 },
     { "player": "scott-petersen", "score": 969 }
   ]
 }

@@ -6,17 +6,17 @@
   "description": "1846",
   "game": "18xx",
   "players": [
-    "cheesinglee",
-    "shirleydulcey",
-    "beardbru",
-    "espee",
-    "rail-baron"
+    "chee-sing-lee",
+    "shirley-dulcey",
+    "bruce-beard",
+    "dave-blanchard",
+    "mark-derrick"
   ],
   "results": [
-    { "player": "beardbru", "score": 7083 },
-    { "player": "rail-baron", "score": 6703 },
-    { "player": "shirleydulcey", "score": 5972 },
-    { "player": "cheesinglee", "score": 5376 },
-    { "player": "espee", "score": 4883 }
+    { "player": "bruce-beard", "score": 7083 },
+    { "player": "mark-derrick", "score": 6703 },
+    { "player": "shirley-dulcey", "score": 5972 },
+    { "player": "chee-sing-lee", "score": 5376 },
+    { "player": "dave-blanchard", "score": 4883 }
   ]
 }

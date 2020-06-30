@@ -5,10 +5,6 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1832",
   "game": "18xx",
-  "players": ["talbatross", "kelvin-ho", "chichi"],
-  "results": [
-    { "player": "talbatross", "score": null },
-    { "player": "kelvin-ho", "score": null },
-    { "player": "chichi", "score": null }
-  ]
+  "players": ["chris-talbot", "kelvin-ho", "chisholm-gentry"],
+  "results": []
 }

@@ -5,11 +5,6 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1880",
   "game": "18xx",
-  "players": ["triplejalltheway", "beardbru", "jeffheuer", "kelvin-ho"],
-  "results": [
-    { "player": "triplejalltheway", "score": null },
-    { "player": "beardbru", "score": null },
-    { "player": "jeffheuer", "score": null },
-    { "player": "kelvin-ho", "score": null }
-  ]
+  "players": ["jonathan-jang", "bruce-beard", "jeff-heuer", "kelvin-ho"],
+  "results": []
 }

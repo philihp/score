@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1849",
   "game": "18xx",
-  "players": ["thecardboardbox", "chichi", "andy-mesa", "mjshaver"],
+  "players": ["sterling-tian", "chisholm-gentry", "andy-mesa", "mike-shaver"],
   "results": [
-    { "player": "mjshaver", "score": 1072 },
-    { "player": "thecardboardbox", "score": 1033 },
+    { "player": "mike-shaver", "score": 1072 },
+    { "player": "sterling-tian", "score": 1033 },
     { "player": "andy-mesa", "score": 963 },
-    { "player": "chichi", "score": 938 }
+    { "player": "chisholm-gentry", "score": 938 }
   ]
 }

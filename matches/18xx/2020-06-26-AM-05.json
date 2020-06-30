@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1830",
   "game": "18xx",
-  "players": ["andy-mesa", "phil", "ex-raven", "triplejalltheway"],
+  "players": ["andy-mesa", "philihp-busby", "paul-work", "jonathan-jang"],
   "results": [
-    { "player": "phil", "score": 1665 },
+    { "player": "philihp-busby", "score": 1665 },
     { "player": "andy-mesa", "score": 1309 },
-    { "player": "ex-raven", "score": 1106 },
-    { "player": "triplejalltheway", "score": 116 }
+    { "player": "paul-work", "score": 1106 },
+    { "player": "jonathan-jang", "score": 116 }
   ]
 }

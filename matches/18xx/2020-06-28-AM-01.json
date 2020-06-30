@@ -5,11 +5,16 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1832",
   "game": "18xx",
-  "players": ["triplejalltheway", "mjshaver", "jon_g", "pgh_gamer"],
+  "players": [
+    "jonathan-jang",
+    "mike-shaver",
+    "jonathan-geruntho",
+    "dean-brandt"
+  ],
   "results": [
-    { "player": "jon_g", "score": 9151 },
-    { "player": "triplejalltheway", "score": 7794 },
-    { "player": "pgh_gamer", "score": 7392 },
-    { "player": "mjshaver", "score": 7206 }
+    { "player": "jonathan-geruntho", "score": 9151 },
+    { "player": "jonathan-jang", "score": 7794 },
+    { "player": "dean-brandt", "score": 7392 },
+    { "player": "mike-shaver", "score": 7206 }
   ]
 }

@@ -6,19 +6,19 @@
   "description": "1882",
   "game": "18xx",
   "players": [
-    "cheesinglee",
-    "jon_g",
-    "pgh_gamer",
-    "chichi",
+    "chee-sing-lee",
+    "jonathan-geruntho",
+    "dean-brandt",
+    "chisholm-gentry",
     "scott-petersen",
-    "orca-willy"
+    "derek-yeung"
   ],
   "results": [
     { "player": "scott-petersen", "score": 4774 },
-    { "player": "jon_g", "score": 3688 },
-    { "player": "cheesinglee", "score": 3544 },
-    { "player": "orca-willy", "score": 3497 },
-    { "player": "pgh_gamer", "score": 3445 },
-    { "player": "chichi", "score": 3419 }
+    { "player": "jonathan-geruntho", "score": 3688 },
+    { "player": "chee-sing-lee", "score": 3544 },
+    { "player": "derek-yeung", "score": 3497 },
+    { "player": "dean-brandt", "score": 3445 },
+    { "player": "chisholm-gentry", "score": 3419 }
   ]
 }

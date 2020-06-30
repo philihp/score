@@ -5,10 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1889",
   "game": "18xx",
-  "players": ["phil", "andy-mesa", "deniz"],
+  "players": ["philihp-busby", "andy-mesa", "deniz-bucak"],
   "results": [
-    { "player": "deniz", "score": 2599 },
+    { "player": "deniz-bucak", "score": 2599 },
     { "player": "andy-mesa", "score": 2132 },
-    { "player": "phil", "score": 2061 }
+    { "player": "philihp-busby", "score": 2061 }
   ]
 }

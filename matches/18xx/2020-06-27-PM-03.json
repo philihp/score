@@ -5,10 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1860",
   "game": "18xx",
-  "players": ["jaysixa", "18xxperson", "mjshaver"],
+  "players": ["joshua-gottesman", "jonathan-work", "mike-shaver"],
   "results": [
-    { "player": "18xxperson", "score": 9277 },
-    { "player": "jaysixa", "score": 8376 },
-    { "player": "mjshaver", "score": 5939 }
+    { "player": "jonathan-work", "score": 9277 },
+    { "player": "joshua-gottesman", "score": 8376 },
+    { "player": "mike-shaver", "score": 5939 }
   ]
 }

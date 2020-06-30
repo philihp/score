@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1862EA",
   "game": "18xx",
-  "players": ["ex-raven", "beardbru", "outsidepasser", "stormcrow"],
+  "players": ["paul-work", "bruce-beard", "michael-alexander", "scott-ellis"],
   "results": [
-    { "player": "beardbru", "score": 8798 },
-    { "player": "ex-raven", "score": 6271 },
-    { "player": "outsidepasser", "score": 4212 },
-    { "player": "stormcrow", "score": 2395 }
+    { "player": "bruce-beard", "score": 8798 },
+    { "player": "paul-work", "score": 6271 },
+    { "player": "michael-alexander", "score": 4212 },
+    { "player": "scott-ellis", "score": 2395 }
   ]
 }

@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18OE",
   "game": "18xx",
-  "players": ["abnrgr", "chichi", "clayton", "neutron"],
-  "results": [
-    { "player": "abnrgr", "score": null },
-    { "player": "chichi", "score": null },
-    { "player": "clayton", "score": null },
-    { "player": "neutron", "score": null }
-  ]
+  "players": [
+    "michael-monical",
+    "chisholm-gentry",
+    "greg-clayton",
+    "mike-brumm"
+  ],
+  "results": []
 }

@@ -5,12 +5,18 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1822MRS",
   "game": "18xx",
-  "players": ["neutron", "clayton", "adam1515", "jon-draper", "jeffheuer"],
+  "players": [
+    "mike-brumm",
+    "greg-clayton",
+    "adam-mcdiarmid",
+    "jon-draper",
+    "jeff-heuer"
+  ],
   "results": [
     { "player": "jon-draper", "score": 8703 },
-    { "player": "neutron", "score": 6561 },
-    { "player": "adam1515", "score": 5802 },
-    { "player": "jeffheuer", "score": 5614 },
-    { "player": "clayton", "score": 5469 }
+    { "player": "mike-brumm", "score": 6561 },
+    { "player": "adam-mcdiarmid", "score": 5802 },
+    { "player": "jeff-heuer", "score": 5614 },
+    { "player": "greg-clayton", "score": 5469 }
   ]
 }

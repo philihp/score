@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1822MX",
   "game": "18xx",
-  "players": ["18xxperson", "mjshaver", "orca-willy", "espee"],
+  "players": ["jonathan-work", "mike-shaver", "derek-yeung", "dave-blanchard"],
   "results": [
-    { "player": "mjshaver", "score": 9370 },
-    { "player": "orca-willy", "score": 8621 },
-    { "player": "18xxperson", "score": 8104 },
-    { "player": "espee", "score": 6362 }
+    { "player": "mike-shaver", "score": 9370 },
+    { "player": "derek-yeung", "score": 8621 },
+    { "player": "jonathan-work", "score": 8104 },
+    { "player": "dave-blanchard", "score": 6362 }
   ]
 }

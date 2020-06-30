@@ -5,12 +5,18 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1822+",
   "game": "18xx",
-  "players": ["chris-shaffer", "18xxperson", "kelvin-ho", "shaz", "daroj"],
+  "players": [
+    "chris-shaffer",
+    "jonathan-work",
+    "kelvin-ho",
+    "shaz-iqbal",
+    "christopher-rao"
+  ],
   "results": [
     { "player": "kelvin-ho", "score": 11719 },
-    { "player": "daroj", "score": 10976 },
+    { "player": "christopher-rao", "score": 10976 },
     { "player": "chris-shaffer", "score": 8468 },
-    { "player": "shaz", "score": 7895 },
-    { "player": "18xxperson", "score": 7221 }
+    { "player": "shaz-iqbal", "score": 7895 },
+    { "player": "jonathan-work", "score": 7221 }
   ]
 }

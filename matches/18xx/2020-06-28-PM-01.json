@@ -5,12 +5,18 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18Chesapeake",
   "game": "18xx",
-  "players": ["phil", "ex-raven", "deniz", "espee", "kelly"],
+  "players": [
+    "philihp-busby",
+    "paul-work",
+    "deniz-bucak",
+    "dave-blanchard",
+    "kelly-krieble"
+  ],
   "results": [
-    { "player": "ex-raven", "score": 5459 },
-    { "player": "phil", "score": 5365 },
-    { "player": "espee", "score": 4921 },
-    { "player": "deniz", "score": 4916 },
-    { "player": "kelly", "score": 4904 }
+    { "player": "paul-work", "score": 5459 },
+    { "player": "philihp-busby", "score": 5365 },
+    { "player": "dave-blanchard", "score": 4921 },
+    { "player": "deniz-bucak", "score": 4916 },
+    { "player": "kelly-krieble", "score": 4904 }
   ]
 }

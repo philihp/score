@@ -5,11 +5,6 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1832",
   "game": "18xx",
-  "players": ["triplejalltheway", "espee", "andy-mesa", "markmenm"],
-  "results": [
-    { "player": "triplejalltheway", "score": null },
-    { "player": "espee", "score": null },
-    { "player": "andy-mesa", "score": null },
-    { "player": "markmenm", "score": null }
-  ]
+  "players": ["jonathan-jang", "dave-blanchard", "andy-mesa", "tom-rodriguez"],
+  "results": []
 }

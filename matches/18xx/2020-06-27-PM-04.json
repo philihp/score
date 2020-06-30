@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1817",
   "game": "18xx",
-  "players": ["islandia", "talbatross", "andy-mesa", "markmenm"],
+  "players": ["stephen-yu", "chris-talbot", "andy-mesa", "tom-rodriguez"],
   "results": [
-    { "player": "islandia", "score": 5510 },
+    { "player": "stephen-yu", "score": 5510 },
     { "player": "andy-mesa", "score": 3630 },
-    { "player": "talbatross", "score": 3521 },
-    { "player": "markmenm", "score": 2107 }
+    { "player": "chris-talbot", "score": 3521 },
+    { "player": "tom-rodriguez", "score": 2107 }
   ]
 }

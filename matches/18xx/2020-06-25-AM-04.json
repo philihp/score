@@ -5,10 +5,6 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1835",
   "game": "18xx",
-  "players": ["ex-raven", "shirleydulcey", "phil"],
-  "results": [
-    { "player": "ex-raven", "score": null },
-    { "player": "shirleydulcey", "score": null },
-    { "player": "phil", "score": null }
-  ]
+  "players": ["paul-work", "shirley-dulcey", "philihp-busby"],
+  "results": []
 }

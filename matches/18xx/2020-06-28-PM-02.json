@@ -6,17 +6,17 @@
   "description": "1848",
   "game": "18xx",
   "players": [
-    "orca-willy",
-    "shaz",
-    "shirleydulcey",
-    "markmenm",
-    "thecardboardbox"
+    "derek-yeung",
+    "shaz-iqbal",
+    "shirley-dulcey",
+    "tom-rodriguez",
+    "sterling-tian"
   ],
   "results": [
-    { "player": "shirleydulcey", "score": 5771 },
-    { "player": "shaz", "score": 5432 },
-    { "player": "markmenm", "score": 4426 },
-    { "player": "orca-willy", "score": 4031 },
-    { "player": "thecardboardbox", "score": 3513 }
+    { "player": "shirley-dulcey", "score": 5771 },
+    { "player": "shaz-iqbal", "score": 5432 },
+    { "player": "tom-rodriguez", "score": 4426 },
+    { "player": "derek-yeung", "score": 4031 },
+    { "player": "sterling-tian", "score": 3513 }
   ]
 }

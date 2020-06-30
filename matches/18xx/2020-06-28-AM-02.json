@@ -5,12 +5,18 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18Chesapeake",
   "game": "18xx",
-  "players": ["18xxperson", "claudius", "deniz", "phil", "dix"],
+  "players": [
+    "jonathan-work",
+    "nathan-wagner",
+    "deniz-bucak",
+    "philihp-busby",
+    "bill-dixon"
+  ],
   "results": [
-    { "player": "deniz", "score": 5011 },
-    { "player": "18xxperson", "score": 4649 },
-    { "player": "phil", "score": 3838 },
-    { "player": "claudius", "score": 3722 },
-    { "player": "dix", "score": 2724 }
+    { "player": "deniz-bucak", "score": 5011 },
+    { "player": "jonathan-work", "score": 4649 },
+    { "player": "philihp-busby", "score": 3838 },
+    { "player": "nathan-wagner", "score": 3722 },
+    { "player": "bill-dixon", "score": 2724 }
   ]
 }

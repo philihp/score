@@ -5,11 +5,16 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "2038",
   "game": "18xx",
-  "players": ["18xxperson", "abnrgr", "jaysixa", "islandia"],
+  "players": [
+    "jonathan-work",
+    "michael-monical",
+    "joshua-gottesman",
+    "stephen-yu"
+  ],
   "results": [
-    { "player": "islandia", "score": 12876 },
-    { "player": "18xxperson", "score": 11936 },
-    { "player": "jaysixa", "score": 10801 },
-    { "player": "abnrgr", "score": 10601 }
+    { "player": "stephen-yu", "score": 12876 },
+    { "player": "jonathan-work", "score": 11936 },
+    { "player": "joshua-gottesman", "score": 10801 },
+    { "player": "michael-monical", "score": 10601 }
   ]
 }

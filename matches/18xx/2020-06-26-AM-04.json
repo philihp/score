@@ -6,19 +6,19 @@
   "description": "1880",
   "game": "18xx",
   "players": [
-    "outsidepasser",
-    "kelly",
-    "mjshaver",
-    "stormcrow",
-    "orca-willy",
+    "michael-alexander",
+    "kelly-krieble",
+    "mike-shaver",
+    "scott-ellis",
+    "derek-yeung",
     "jon-draper"
   ],
   "results": [
-    { "player": "orca-willy", "score": 6248 },
+    { "player": "derek-yeung", "score": 6248 },
     { "player": "jon-draper", "score": 6049 },
-    { "player": "kelly", "score": 5543 },
-    { "player": "outsidepasser", "score": 4303 },
-    { "player": "mjshaver", "score": 3645 },
-    { "player": "stormcrow", "score": 3427 }
+    { "player": "kelly-krieble", "score": 5543 },
+    { "player": "michael-alexander", "score": 4303 },
+    { "player": "mike-shaver", "score": 3645 },
+    { "player": "scott-ellis", "score": 3427 }
   ]
 }
