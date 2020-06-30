@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "build": "node build-site.js && harp compile src build",
+    "build": "node build-site.js && harp compile src public",
     "test": "jest && npm run lint",
     "lint": "eslint . --ext js,json",
     "server": "node build-site.js && harp server src"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/philihp/score.git"
   },
-  "author": "",
+  "author": "Philihp Busby <philihp@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/philihp/score/issues"
