@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1835",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ex-raven"
-    },
-    {
-      "id": "mjshaver"
-    },
-    {
-      "id": "markmenm"
-    },
-    {
-      "id": "chichi"
-    }
-  ],
+  "players": ["ex-raven", "mjshaver", "markmenm", "chichi"],
   "results": [
-    {
-      "player": "ex-raven",
-      "score": 7681
-    },
-    {
-      "player": "markmenm",
-      "score": 6404
-    },
-    {
-      "player": "mjshaver",
-      "score": 5976
-    },
-    {
-      "player": "chichi",
-      "score": 4081
-    }
+    { "player": "ex-raven", "score": 7681 },
+    { "player": "markmenm", "score": 6404 },
+    { "player": "mjshaver", "score": 5976 },
+    { "player": "chichi", "score": 4081 }
   ]
 }

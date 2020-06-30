@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1846",
   "game": "tta2",
-  "players": [
-    {
-      "id": "shirleydulcey"
-    },
-    {
-      "id": "beardbru"
-    },
-    {
-      "id": "thecardboardbox"
-    },
-    {
-      "id": "ex-raven"
-    }
-  ],
+  "players": ["shirleydulcey", "beardbru", "thecardboardbox", "ex-raven"],
   "results": [
-    {
-      "player": "shirleydulcey",
-      "score": null
-    },
-    {
-      "player": "beardbru",
-      "score": null
-    },
-    {
-      "player": "thecardboardbox",
-      "score": null
-    },
-    {
-      "player": "ex-raven",
-      "score": null
-    }
+    { "player": "shirleydulcey", "score": null },
+    { "player": "beardbru", "score": null },
+    { "player": "thecardboardbox", "score": null },
+    { "player": "ex-raven", "score": null }
   ]
 }

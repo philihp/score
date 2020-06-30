@@ -6,42 +6,17 @@
   "description": "1844",
   "game": "tta2",
   "players": [
-    {
-      "id": "chris-shaffer"
-    },
-    {
-      "id": "talbatross"
-    },
-    {
-      "id": "jeffheuer"
-    },
-    {
-      "id": "stormcrow"
-    },
-    {
-      "id": "ken-boucher"
-    }
+    "chris-shaffer",
+    "talbatross",
+    "jeffheuer",
+    "stormcrow",
+    "ken-boucher"
   ],
   "results": [
-    {
-      "player": "ken-boucher",
-      "score": 3242
-    },
-    {
-      "player": "jeffheuer",
-      "score": 2097
-    },
-    {
-      "player": "chris-shaffer",
-      "score": 2028
-    },
-    {
-      "player": "talbatross",
-      "score": 1947
-    },
-    {
-      "player": "stormcrow",
-      "score": 1569
-    }
+    { "player": "ken-boucher", "score": 3242 },
+    { "player": "jeffheuer", "score": 2097 },
+    { "player": "chris-shaffer", "score": 2028 },
+    { "player": "talbatross", "score": 1947 },
+    { "player": "stormcrow", "score": 1569 }
   ]
 }

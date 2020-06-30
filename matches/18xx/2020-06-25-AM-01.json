@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18OE",
   "game": "tta2",
-  "players": [
-    {
-      "id": "abnrgr"
-    },
-    {
-      "id": "chichi"
-    },
-    {
-      "id": "clayton"
-    },
-    {
-      "id": "neutron"
-    }
-  ],
+  "players": ["abnrgr", "chichi", "clayton", "neutron"],
   "results": [
-    {
-      "player": "abnrgr",
-      "score": null
-    },
-    {
-      "player": "chichi",
-      "score": null
-    },
-    {
-      "player": "clayton",
-      "score": null
-    },
-    {
-      "player": "neutron",
-      "score": null
-    }
+    { "player": "abnrgr", "score": null },
+    { "player": "chichi", "score": null },
+    { "player": "clayton", "score": null },
+    { "player": "neutron", "score": null }
   ]
 }

@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1862EA",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ex-raven"
-    },
-    {
-      "id": "beardbru"
-    },
-    {
-      "id": "outsidepasser"
-    },
-    {
-      "id": "stormcrow"
-    }
-  ],
+  "players": ["ex-raven", "beardbru", "outsidepasser", "stormcrow"],
   "results": [
-    {
-      "player": "beardbru",
-      "score": 8798
-    },
-    {
-      "player": "ex-raven",
-      "score": 6271
-    },
-    {
-      "player": "outsidepasser",
-      "score": 4212
-    },
-    {
-      "player": "stormcrow",
-      "score": 2395
-    }
+    { "player": "beardbru", "score": 8798 },
+    { "player": "ex-raven", "score": 6271 },
+    { "player": "outsidepasser", "score": 4212 },
+    { "player": "stormcrow", "score": 2395 }
   ]
 }

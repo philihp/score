@@ -32,43 +32,40 @@ fs.createReadStream(`./18xx.csv`)
       results: [],
     }
     if (data.p1.length > 1) {
-      dat.players.push({ id: players[data.p1] || data.p1 })
+      dat.players.push(players[data.p1] || data.p1)
       dat.results.push({
         player: players[data.p1] || data.p1,
         score: Number.parseInt(data.s1, 10),
       })
     }
     if (data.p2.length > 1) {
-      dat.players.push({ id: players[data.p2] || data.p2 })
+      dat.players.push(players[data.p2] || data.p2)
       dat.results.push({
         player: players[data.p2] || data.p2,
         score: Number.parseInt(data.s2, 10),
       })
     }
     if (data.p3.length > 1) {
-      dat.players.push({ id: players[data.p3] || data.p3 })
+      dat.players.push(players[data.p3] || data.p3)
       dat.results.push({
         player: players[data.p3] || data.p3,
         score: Number.parseInt(data.s3, 10),
       })
     }
     if (data.p4.length > 1) {
-      dat.players.push({ id: players[data.p4] || data.p4 })
+      dat.players.push(players[data.p4] || data.p4)
       dat.results.push({
         player: players[data.p4] || data.p4,
         score: Number.parseInt(data.s4, 10),
       })
     }
     if (data.p5.length > 1) {
-      dat.players.push({ id: players[data.p5] || data.p5 })
+      dat.players.push(players[data.p5] || data.p5)
       dat.results.push({
         player: players[data.p5] || data.p5,
         score: Number.parseInt(data.s5, 10),
       })
     }
     dat.results.sort((a, b) => b.score - a.score)
-    fs.writeFileSync(
-      `matches/18xx/${data.id}.json`,
-      JSON.stringify(dat, undefined, 2)
-    )
+    fs.writeFileSync(`matches/18xx/${data.id}.json`, JSON.stringify(dat))
   })

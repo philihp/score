@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18EU",
   "game": "tta2",
-  "players": [
-    {
-      "id": "jaysixa"
-    },
-    {
-      "id": "18xxperson"
-    },
-    {
-      "id": "mikewill"
-    },
-    {
-      "id": "karazak"
-    },
-    {
-      "id": "espee"
-    }
-  ],
+  "players": ["jaysixa", "18xxperson", "mikewill", "karazak", "espee"],
   "results": [
-    {
-      "player": "18xxperson",
-      "score": 7827
-    },
-    {
-      "player": "mikewill",
-      "score": 6265
-    },
-    {
-      "player": "espee",
-      "score": 5914
-    },
-    {
-      "player": "jaysixa",
-      "score": 5209
-    },
-    {
-      "player": "karazak",
-      "score": 4589
-    }
+    { "player": "18xxperson", "score": 7827 },
+    { "player": "mikewill", "score": 6265 },
+    { "player": "espee", "score": 5914 },
+    { "player": "jaysixa", "score": 5209 },
+    { "player": "karazak", "score": 4589 }
   ]
 }

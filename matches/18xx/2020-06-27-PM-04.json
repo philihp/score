@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1817",
   "game": "tta2",
-  "players": [
-    {
-      "id": "islandia"
-    },
-    {
-      "id": "talbatross"
-    },
-    {
-      "id": "andy-mesa"
-    },
-    {
-      "id": "markmenm"
-    }
-  ],
+  "players": ["islandia", "talbatross", "andy-mesa", "markmenm"],
   "results": [
-    {
-      "player": "islandia",
-      "score": 5510
-    },
-    {
-      "player": "andy-mesa",
-      "score": 3630
-    },
-    {
-      "player": "talbatross",
-      "score": 3521
-    },
-    {
-      "player": "markmenm",
-      "score": 2107
-    }
+    { "player": "islandia", "score": 5510 },
+    { "player": "andy-mesa", "score": 3630 },
+    { "player": "talbatross", "score": 3521 },
+    { "player": "markmenm", "score": 2107 }
   ]
 }

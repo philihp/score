@@ -6,42 +6,17 @@
   "description": "18Chesapeake",
   "game": "tta2",
   "players": [
-    {
-      "id": "thecardboardbox"
-    },
-    {
-      "id": "espee"
-    },
-    {
-      "id": "rail-baron"
-    },
-    {
-      "id": "claudius"
-    },
-    {
-      "id": "jeffheuer"
-    }
+    "thecardboardbox",
+    "espee",
+    "rail-baron",
+    "claudius",
+    "jeffheuer"
   ],
   "results": [
-    {
-      "player": "jeffheuer",
-      "score": 6478
-    },
-    {
-      "player": "espee",
-      "score": 5837
-    },
-    {
-      "player": "rail-baron",
-      "score": 5741
-    },
-    {
-      "player": "claudius",
-      "score": 5519
-    },
-    {
-      "player": "thecardboardbox",
-      "score": 4255
-    }
+    { "player": "jeffheuer", "score": 6478 },
+    { "player": "espee", "score": 5837 },
+    { "player": "rail-baron", "score": 5741 },
+    { "player": "claudius", "score": 5519 },
+    { "player": "thecardboardbox", "score": 4255 }
   ]
 }

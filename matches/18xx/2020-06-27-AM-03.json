@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18NE",
   "game": "tta2",
-  "players": [
-    {
-      "id": "abnrgr"
-    },
-    {
-      "id": "scott-petersen"
-    },
-    {
-      "id": "markmenm"
-    },
-    {
-      "id": "espee"
-    }
-  ],
+  "players": ["abnrgr", "scott-petersen", "markmenm", "espee"],
   "results": [
-    {
-      "player": "scott-petersen",
-      "score": 10596
-    },
-    {
-      "player": "espee",
-      "score": 10074
-    },
-    {
-      "player": "abnrgr",
-      "score": 10011
-    },
-    {
-      "player": "markmenm",
-      "score": 9598
-    }
+    { "player": "scott-petersen", "score": 10596 },
+    { "player": "espee", "score": 10074 },
+    { "player": "abnrgr", "score": 10011 },
+    { "player": "markmenm", "score": 9598 }
   ]
 }

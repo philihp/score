@@ -5,29 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1835",
   "game": "tta2",
-  "players": [
-    {
-      "id": "ex-raven"
-    },
-    {
-      "id": "shirleydulcey"
-    },
-    {
-      "id": "phil"
-    }
-  ],
+  "players": ["ex-raven", "shirleydulcey", "phil"],
   "results": [
-    {
-      "player": "ex-raven",
-      "score": null
-    },
-    {
-      "player": "shirleydulcey",
-      "score": null
-    },
-    {
-      "player": "phil",
-      "score": null
-    }
+    { "player": "ex-raven", "score": null },
+    { "player": "shirleydulcey", "score": null },
+    { "player": "phil", "score": null }
   ]
 }

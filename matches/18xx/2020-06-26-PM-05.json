@@ -5,29 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1837Jr",
   "game": "tta2",
-  "players": [
-    {
-      "id": "scott-petersen"
-    },
-    {
-      "id": "jeffheuer"
-    },
-    {
-      "id": "abnrgr"
-    }
-  ],
+  "players": ["scott-petersen", "jeffheuer", "abnrgr"],
   "results": [
-    {
-      "player": "abnrgr",
-      "score": 1260
-    },
-    {
-      "player": "jeffheuer",
-      "score": 1133
-    },
-    {
-      "player": "scott-petersen",
-      "score": 969
-    }
+    { "player": "abnrgr", "score": 1260 },
+    { "player": "jeffheuer", "score": 1133 },
+    { "player": "scott-petersen", "score": 969 }
   ]
 }

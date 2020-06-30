@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18NEB",
   "game": "tta2",
-  "players": [
-    {
-      "id": "18xxperson"
-    },
-    {
-      "id": "islandia"
-    },
-    {
-      "id": "beardbru"
-    },
-    {
-      "id": "abnrgr"
-    }
-  ],
+  "players": ["18xxperson", "islandia", "beardbru", "abnrgr"],
   "results": [
-    {
-      "player": "islandia",
-      "score": 5357
-    },
-    {
-      "player": "18xxperson",
-      "score": 4740
-    },
-    {
-      "player": "beardbru",
-      "score": 4524
-    },
-    {
-      "player": "abnrgr",
-      "score": 4288
-    }
+    { "player": "islandia", "score": 5357 },
+    { "player": "18xxperson", "score": 4740 },
+    { "player": "beardbru", "score": 4524 },
+    { "player": "abnrgr", "score": 4288 }
   ]
 }

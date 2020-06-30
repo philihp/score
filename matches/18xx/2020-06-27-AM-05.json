@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1822MRS",
   "game": "tta2",
-  "players": [
-    {
-      "id": "neutron"
-    },
-    {
-      "id": "clayton"
-    },
-    {
-      "id": "adam1515"
-    },
-    {
-      "id": "jon-draper"
-    },
-    {
-      "id": "jeffheuer"
-    }
-  ],
+  "players": ["neutron", "clayton", "adam1515", "jon-draper", "jeffheuer"],
   "results": [
-    {
-      "player": "jon-draper",
-      "score": 8703
-    },
-    {
-      "player": "neutron",
-      "score": 6561
-    },
-    {
-      "player": "adam1515",
-      "score": 5802
-    },
-    {
-      "player": "jeffheuer",
-      "score": 5614
-    },
-    {
-      "player": "clayton",
-      "score": 5469
-    }
+    { "player": "jon-draper", "score": 8703 },
+    { "player": "neutron", "score": 6561 },
+    { "player": "adam1515", "score": 5802 },
+    { "player": "jeffheuer", "score": 5614 },
+    { "player": "clayton", "score": 5469 }
   ]
 }

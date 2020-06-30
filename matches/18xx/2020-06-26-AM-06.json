@@ -5,29 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1830",
   "game": "tta2",
-  "players": [
-    {
-      "id": "markmenm"
-    },
-    {
-      "id": "mikewill"
-    },
-    {
-      "id": "adam1515"
-    }
-  ],
+  "players": ["markmenm", "mikewill", "adam1515"],
   "results": [
-    {
-      "player": "mikewill",
-      "score": 800
-    },
-    {
-      "player": "adam1515",
-      "score": 791
-    },
-    {
-      "player": "markmenm",
-      "score": 300
-    }
+    { "player": "mikewill", "score": 800 },
+    { "player": "adam1515", "score": 791 },
+    { "player": "markmenm", "score": 300 }
   ]
 }

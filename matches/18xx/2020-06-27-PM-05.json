@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1861",
   "game": "tta2",
-  "players": [
-    {
-      "id": "stormcrow"
-    },
-    {
-      "id": "chris-shaffer"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "beardbru"
-    },
-    {
-      "id": "ex-raven"
-    }
-  ],
+  "players": ["stormcrow", "chris-shaffer", "phil", "beardbru", "ex-raven"],
   "results": [
-    {
-      "player": "beardbru",
-      "score": 5067
-    },
-    {
-      "player": "chris-shaffer",
-      "score": 4235
-    },
-    {
-      "player": "stormcrow",
-      "score": 4129
-    },
-    {
-      "player": "ex-raven",
-      "score": 3697
-    },
-    {
-      "player": "phil",
-      "score": 3344
-    }
+    { "player": "beardbru", "score": 5067 },
+    { "player": "chris-shaffer", "score": 4235 },
+    { "player": "stormcrow", "score": 4129 },
+    { "player": "ex-raven", "score": 3697 },
+    { "player": "phil", "score": 3344 }
   ]
 }

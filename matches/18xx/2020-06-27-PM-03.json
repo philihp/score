@@ -5,29 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1860",
   "game": "tta2",
-  "players": [
-    {
-      "id": "jaysixa"
-    },
-    {
-      "id": "18xxperson"
-    },
-    {
-      "id": "mjshaver"
-    }
-  ],
+  "players": ["jaysixa", "18xxperson", "mjshaver"],
   "results": [
-    {
-      "player": "18xxperson",
-      "score": 9277
-    },
-    {
-      "player": "jaysixa",
-      "score": 8376
-    },
-    {
-      "player": "mjshaver",
-      "score": 5939
-    }
+    { "player": "18xxperson", "score": 9277 },
+    { "player": "jaysixa", "score": 8376 },
+    { "player": "mjshaver", "score": 5939 }
   ]
 }

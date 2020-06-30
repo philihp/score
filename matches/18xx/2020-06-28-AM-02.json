@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18Chesapeake",
   "game": "tta2",
-  "players": [
-    {
-      "id": "18xxperson"
-    },
-    {
-      "id": "claudius"
-    },
-    {
-      "id": "deniz"
-    },
-    {
-      "id": "phil"
-    },
-    {
-      "id": "dix"
-    }
-  ],
+  "players": ["18xxperson", "claudius", "deniz", "phil", "dix"],
   "results": [
-    {
-      "player": "deniz",
-      "score": 5011
-    },
-    {
-      "player": "18xxperson",
-      "score": 4649
-    },
-    {
-      "player": "phil",
-      "score": 3838
-    },
-    {
-      "player": "claudius",
-      "score": 3722
-    },
-    {
-      "player": "dix",
-      "score": 2724
-    }
+    { "player": "deniz", "score": 5011 },
+    { "player": "18xxperson", "score": 4649 },
+    { "player": "phil", "score": 3838 },
+    { "player": "claudius", "score": 3722 },
+    { "player": "dix", "score": 2724 }
   ]
 }

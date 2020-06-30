@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18Chesapeake",
   "game": "tta2",
-  "players": [
-    {
-      "id": "phil"
-    },
-    {
-      "id": "ex-raven"
-    },
-    {
-      "id": "deniz"
-    },
-    {
-      "id": "espee"
-    },
-    {
-      "id": "kelly"
-    }
-  ],
+  "players": ["phil", "ex-raven", "deniz", "espee", "kelly"],
   "results": [
-    {
-      "player": "ex-raven",
-      "score": 5459
-    },
-    {
-      "player": "phil",
-      "score": 5365
-    },
-    {
-      "player": "espee",
-      "score": 4921
-    },
-    {
-      "player": "deniz",
-      "score": 4916
-    },
-    {
-      "player": "kelly",
-      "score": 4904
-    }
+    { "player": "ex-raven", "score": 5459 },
+    { "player": "phil", "score": 5365 },
+    { "player": "espee", "score": 4921 },
+    { "player": "deniz", "score": 4916 },
+    { "player": "kelly", "score": 4904 }
   ]
 }

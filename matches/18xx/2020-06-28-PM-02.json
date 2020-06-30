@@ -6,42 +6,17 @@
   "description": "1848",
   "game": "tta2",
   "players": [
-    {
-      "id": "orca-willy"
-    },
-    {
-      "id": "shaz"
-    },
-    {
-      "id": "shirleydulcey"
-    },
-    {
-      "id": "markmenm"
-    },
-    {
-      "id": "thecardboardbox"
-    }
+    "orca-willy",
+    "shaz",
+    "shirleydulcey",
+    "markmenm",
+    "thecardboardbox"
   ],
   "results": [
-    {
-      "player": "shirleydulcey",
-      "score": 5771
-    },
-    {
-      "player": "shaz",
-      "score": 5432
-    },
-    {
-      "player": "markmenm",
-      "score": 4426
-    },
-    {
-      "player": "orca-willy",
-      "score": 4031
-    },
-    {
-      "player": "thecardboardbox",
-      "score": 3513
-    }
+    { "player": "shirleydulcey", "score": 5771 },
+    { "player": "shaz", "score": 5432 },
+    { "player": "markmenm", "score": 4426 },
+    { "player": "orca-willy", "score": 4031 },
+    { "player": "thecardboardbox", "score": 3513 }
   ]
 }

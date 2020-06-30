@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1880",
   "game": "tta2",
-  "players": [
-    {
-      "id": "outsidepasser"
-    },
-    {
-      "id": "kelly"
-    },
-    {
-      "id": "mjshaver"
-    },
-    {
-      "id": "stormcrow"
-    },
-    {
-      "id": "orca-willy"
-    }
-  ],
+  "players": ["outsidepasser", "kelly", "mjshaver", "stormcrow", "orca-willy"],
   "results": [
-    {
-      "player": "orca-willy",
-      "score": 6248
-    },
-    {
-      "player": "kelly",
-      "score": 5543
-    },
-    {
-      "player": "outsidepasser",
-      "score": 4303
-    },
-    {
-      "player": "mjshaver",
-      "score": 3645
-    },
-    {
-      "player": "stormcrow",
-      "score": 3427
-    }
+    { "player": "orca-willy", "score": 6248 },
+    { "player": "kelly", "score": 5543 },
+    { "player": "outsidepasser", "score": 4303 },
+    { "player": "mjshaver", "score": 3645 },
+    { "player": "stormcrow", "score": 3427 }
   ]
 }

@@ -5,36 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18Mex",
   "game": "tta2",
-  "players": [
-    {
-      "id": "18xxperson"
-    },
-    {
-      "id": "pgh_gamer"
-    },
-    {
-      "id": "orca-willy"
-    },
-    {
-      "id": "talbatross"
-    }
-  ],
+  "players": ["18xxperson", "pgh_gamer", "orca-willy", "talbatross"],
   "results": [
-    {
-      "player": "18xxperson",
-      "score": 1120
-    },
-    {
-      "player": "orca-willy",
-      "score": 822
-    },
-    {
-      "player": "pgh_gamer",
-      "score": 717
-    },
-    {
-      "player": "talbatross",
-      "score": 495
-    }
+    { "player": "18xxperson", "score": 1120 },
+    { "player": "orca-willy", "score": 822 },
+    { "player": "pgh_gamer", "score": 717 },
+    { "player": "talbatross", "score": 495 }
   ]
 }

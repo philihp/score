@@ -5,43 +5,12 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1882",
   "game": "tta2",
-  "players": [
-    {
-      "id": "cheesinglee"
-    },
-    {
-      "id": "jon_g"
-    },
-    {
-      "id": "pgh_gamer"
-    },
-    {
-      "id": "chichi"
-    },
-    {
-      "id": "scott-petersen"
-    }
-  ],
+  "players": ["cheesinglee", "jon_g", "pgh_gamer", "chichi", "scott-petersen"],
   "results": [
-    {
-      "player": "scott-petersen",
-      "score": 4774
-    },
-    {
-      "player": "jon_g",
-      "score": 3688
-    },
-    {
-      "player": "cheesinglee",
-      "score": 3544
-    },
-    {
-      "player": "pgh_gamer",
-      "score": 3445
-    },
-    {
-      "player": "chichi",
-      "score": 3419
-    }
+    { "player": "scott-petersen", "score": 4774 },
+    { "player": "jon_g", "score": 3688 },
+    { "player": "cheesinglee", "score": 3544 },
+    { "player": "pgh_gamer", "score": 3445 },
+    { "player": "chichi", "score": 3419 }
   ]
 }

@@ -6,42 +6,17 @@
   "description": "1846",
   "game": "tta2",
   "players": [
-    {
-      "id": "cheesinglee"
-    },
-    {
-      "id": "shirleydulcey"
-    },
-    {
-      "id": "beardbru"
-    },
-    {
-      "id": "espee"
-    },
-    {
-      "id": "rail-baron"
-    }
+    "cheesinglee",
+    "shirleydulcey",
+    "beardbru",
+    "espee",
+    "rail-baron"
   ],
   "results": [
-    {
-      "player": "beardbru",
-      "score": 7083
-    },
-    {
-      "player": "rail-baron",
-      "score": 6703
-    },
-    {
-      "player": "shirleydulcey",
-      "score": 5972
-    },
-    {
-      "player": "cheesinglee",
-      "score": 5376
-    },
-    {
-      "player": "espee",
-      "score": 4883
-    }
+    { "player": "beardbru", "score": 7083 },
+    { "player": "rail-baron", "score": 6703 },
+    { "player": "shirleydulcey", "score": 5972 },
+    { "player": "cheesinglee", "score": 5376 },
+    { "player": "espee", "score": 4883 }
   ]
 }
