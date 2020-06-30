@@ -5,7 +5,7 @@
   </time>
   from
   <a href="https://github.com/philihp/score/tree/<%= process.env.GITHUB_SHA %>"
-    >0x<%= (process.env.VERCEL_GITHUB_COMMIT_SHA || "DECAFBAD").substring(0, 8) %></a
+    >0x<%= (process.env.npm_package_gitHead || "DECAFBAD").substring(0, 8) %></a
   >
-  by <%= process.env.VERCEL_GITHUB_COMMIT_AUTHOR_LOGIN %>
+  by <%= process.env.npm_package_author_name %>
 </footer>
