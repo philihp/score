@@ -71,7 +71,7 @@ fs.createReadStream(`./18xx.csv`)
       })
     }
     dat.results.sort((a, b) => b.score - a.score)
-    fs.writeFileSync(`players/${data.id}.json`, JSON.stringify(dat))
+    fs.writeFileSync(`matches/18xx/${data.id}.json`, JSON.stringify(dat))
   })
   .on('finish', () => {
     players.sort()
