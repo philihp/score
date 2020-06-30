@@ -5,9 +5,17 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1880",
   "game": "tta2",
-  "players": ["outsidepasser", "kelly", "mjshaver", "stormcrow", "orca-willy"],
+  "players": [
+    "outsidepasser",
+    "kelly",
+    "mjshaver",
+    "stormcrow",
+    "orca-willy",
+    "jon-draper"
+  ],
   "results": [
     { "player": "orca-willy", "score": 6248 },
+    { "player": "jon-draper", "score": 6049 },
     { "player": "kelly", "score": 5543 },
     { "player": "outsidepasser", "score": 4303 },
     { "player": "mjshaver", "score": 3645 },

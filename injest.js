@@ -5,16 +5,7 @@
 const csv = require('csv-parser')
 const fs = require('fs')
 
-const players = {
-  'Ken ?': 'ken',
-  'Philihp ?': 'phil',
-  'Philihp Busby': 'phil',
-  'Aaron Dixon': 'aaron',
-  'Ville Helio': 'ville',
-  'Sean George': 'sean',
-  'Matt Johnson': 'matt',
-  'A C': 'adam',
-}
+const players = []
 
 fs.createReadStream(`./18xx.csv`)
   .pipe(csv())
@@ -32,40 +23,60 @@ fs.createReadStream(`./18xx.csv`)
       results: [],
     }
     if (data.p1.length > 1) {
-      dat.players.push(players[data.p1] || data.p1)
+      dat.players.push(data.p1)
+      players.push(data.p1)
       dat.results.push({
-        player: players[data.p1] || data.p1,
+        player: data.p1,
         score: Number.parseInt(data.s1, 10),
       })
     }
     if (data.p2.length > 1) {
-      dat.players.push(players[data.p2] || data.p2)
+      dat.players.push(data.p2)
+      players.push(data.p2)
       dat.results.push({
-        player: players[data.p2] || data.p2,
+        player: data.p2,
         score: Number.parseInt(data.s2, 10),
       })
     }
     if (data.p3.length > 1) {
-      dat.players.push(players[data.p3] || data.p3)
+      dat.players.push(data.p3)
+      players.push(data.p3)
       dat.results.push({
-        player: players[data.p3] || data.p3,
+        player: data.p3,
         score: Number.parseInt(data.s3, 10),
       })
     }
     if (data.p4.length > 1) {
-      dat.players.push(players[data.p4] || data.p4)
+      dat.players.push(data.p4)
+      players.push(data.p4)
       dat.results.push({
-        player: players[data.p4] || data.p4,
+        player: data.p4,
         score: Number.parseInt(data.s4, 10),
       })
     }
     if (data.p5.length > 1) {
-      dat.players.push(players[data.p5] || data.p5)
+      dat.players.push(data.p5)
+      players.push(data.p5)
       dat.results.push({
-        player: players[data.p5] || data.p5,
+        player: data.p5,
         score: Number.parseInt(data.s5, 10),
       })
     }
+    if (data.p6.length > 1) {
+      dat.players.push(data.p6)
+      players.push(data.p6)
+      dat.results.push({
+        player: data.p6,
+        score: Number.parseInt(data.s6, 10),
+      })
+    }
     dat.results.sort((a, b) => b.score - a.score)
-    fs.writeFileSync(`matches/18xx/${data.id}.json`, JSON.stringify(dat))
+    fs.writeFileSync(`players/${data.id}.json`, JSON.stringify(dat))
+  })
+  .on('finish', () => {
+    players.sort()
+    players.forEach((id) => {
+      console.log(id)
+      fs.writeFileSync(`players/18xx/${id}.json`, JSON.stringify({ id }))
+    })
   })

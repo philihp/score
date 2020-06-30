@@ -5,10 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1889",
   "game": "tta2",
-  "players": ["philihp", "andy-mesa", "deniz"],
+  "players": ["phil", "andy-mesa", "deniz"],
   "results": [
     { "player": "deniz", "score": 2599 },
     { "player": "andy-mesa", "score": 2132 },
-    { "player": "philihp", "score": 2061 }
+    { "player": "phil", "score": 2061 }
   ]
 }
