@@ -1,0 +1,40 @@
+{
+  "id": "2020-06-25-AM-02",
+  "createdAt": "2020-05-25T15:30:00.000Z",
+  "updatedAt": "2020-05-25T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1822MX",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "18xxperson"
+    },
+    {
+      "id": "mjshaver"
+    },
+    {
+      "id": "orca-willy"
+    },
+    {
+      "id": "espee"
+    }
+  ],
+  "results": [
+    {
+      "player": "mjshaver",
+      "score": 9370
+    },
+    {
+      "player": "orca-willy",
+      "score": 8621
+    },
+    {
+      "player": "18xxperson",
+      "score": 8104
+    },
+    {
+      "player": "espee",
+      "score": 6362
+    }
+  ]
+}

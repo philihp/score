@@ -1,0 +1,33 @@
+{
+  "id": "2020-06-27-PM-03",
+  "createdAt": "2020-05-27T23:30:00.000Z",
+  "updatedAt": "2020-05-27T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1860",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "jaysixa"
+    },
+    {
+      "id": "18xxperson"
+    },
+    {
+      "id": "mjshaver"
+    }
+  ],
+  "results": [
+    {
+      "player": "18xxperson",
+      "score": 9277
+    },
+    {
+      "player": "jaysixa",
+      "score": 8376
+    },
+    {
+      "player": "mjshaver",
+      "score": 5939
+    }
+  ]
+}

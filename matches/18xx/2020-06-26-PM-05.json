@@ -1,0 +1,33 @@
+{
+  "id": "2020-06-26-PM-05",
+  "createdAt": "2020-05-26T23:30:00.000Z",
+  "updatedAt": "2020-05-26T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1837Jr",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "scott-petersen"
+    },
+    {
+      "id": "jeffheuer"
+    },
+    {
+      "id": "abnrgr"
+    }
+  ],
+  "results": [
+    {
+      "player": "abnrgr",
+      "score": 1260
+    },
+    {
+      "player": "jeffheuer",
+      "score": 1133
+    },
+    {
+      "player": "scott-petersen",
+      "score": 969
+    }
+  ]
+}

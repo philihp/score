@@ -1,0 +1,40 @@
+{
+  "id": "2020-06-26-PM-03",
+  "createdAt": "2020-05-26T23:30:00.000Z",
+  "updatedAt": "2020-05-26T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1835",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "ex-raven"
+    },
+    {
+      "id": "mjshaver"
+    },
+    {
+      "id": "markmenm"
+    },
+    {
+      "id": "chichi"
+    }
+  ],
+  "results": [
+    {
+      "player": "ex-raven",
+      "score": 7681
+    },
+    {
+      "player": "markmenm",
+      "score": 6404
+    },
+    {
+      "player": "mjshaver",
+      "score": 5976
+    },
+    {
+      "player": "chichi",
+      "score": 4081
+    }
+  ]
+}

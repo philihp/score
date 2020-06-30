@@ -4,7 +4,6 @@
 
 const csv = require('csv-parser')
 const fs = require('fs')
-const { shuffle } = require('fast-shuffle')
 
 const players = {
   'Ken ?': 'ken',
@@ -17,53 +16,59 @@ const players = {
   'A C': 'adam',
 }
 
-fs.createReadStream(`${__dirname}/tta.csv`)
+fs.createReadStream(`./18xx.csv`)
   .pipe(csv())
   .on('data', (data) => {
-    const createdAt = new Date(data.date).toISOString()
+    const createdAt = new Date(data.start).toISOString()
     const updatedAt = createdAt
     const dat = {
-      id: data.name,
+      id: data.id,
       createdAt,
       updatedAt,
-      location: 'TTA App',
-      description: data.name,
+      location: '22nd Annual Portland 18xx Convention',
+      description: data.game,
       game: data.game === 'Through the Ages' ? 'tta' : 'tta2',
       players: [],
       results: [],
     }
-    if (data.g1.length > 1) {
-      dat.players.push({ id: players[data.g1] || data.g1 })
+    if (data.p1.length > 1) {
+      dat.players.push({ id: players[data.p1] || data.p1 })
       dat.results.push({
-        player: players[data.g1] || data.g1,
+        player: players[data.p1] || data.p1,
         score: Number.parseInt(data.s1, 10),
       })
     }
-    if (data.g2.length > 1) {
-      dat.players.push({ id: players[data.g2] || data.g2 })
+    if (data.p2.length > 1) {
+      dat.players.push({ id: players[data.p2] || data.p2 })
       dat.results.push({
-        player: players[data.g2] || data.g2,
+        player: players[data.p2] || data.p2,
         score: Number.parseInt(data.s2, 10),
       })
     }
-    if (data.g3.length > 1) {
-      dat.players.push({ id: players[data.g3] || data.g3 })
+    if (data.p3.length > 1) {
+      dat.players.push({ id: players[data.p3] || data.p3 })
       dat.results.push({
-        player: players[data.g3] || data.g3,
+        player: players[data.p3] || data.p3,
         score: Number.parseInt(data.s3, 10),
       })
     }
-    if (data.g4.length > 1) {
-      dat.players.push({ id: players[data.g4] || data.g4 })
+    if (data.p4.length > 1) {
+      dat.players.push({ id: players[data.p4] || data.p4 })
       dat.results.push({
-        player: players[data.g4] || data.g4,
+        player: players[data.p4] || data.p4,
         score: Number.parseInt(data.s4, 10),
       })
     }
-    dat.players = shuffle(dat.players)
+    if (data.p5.length > 1) {
+      dat.players.push({ id: players[data.p5] || data.p5 })
+      dat.results.push({
+        player: players[data.p5] || data.p5,
+        score: Number.parseInt(data.s5, 10),
+      })
+    }
     dat.results.sort((a, b) => b.score - a.score)
     fs.writeFileSync(
-      `matches/tta2/${data.name}.json`,
+      `matches/18xx/${data.id}.json`,
       JSON.stringify(dat, undefined, 2)
     )
   })

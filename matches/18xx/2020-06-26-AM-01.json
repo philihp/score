@@ -1,0 +1,40 @@
+{
+  "id": "2020-06-26-AM-01",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "2038",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "18xxperson"
+    },
+    {
+      "id": "abnrgr"
+    },
+    {
+      "id": "jaysixa"
+    },
+    {
+      "id": "islandia"
+    }
+  ],
+  "results": [
+    {
+      "player": "islandia",
+      "score": 12876
+    },
+    {
+      "player": "18xxperson",
+      "score": 11936
+    },
+    {
+      "player": "jaysixa",
+      "score": 10801
+    },
+    {
+      "player": "abnrgr",
+      "score": 10601
+    }
+  ]
+}

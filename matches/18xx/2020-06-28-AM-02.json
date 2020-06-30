@@ -1,0 +1,47 @@
+{
+  "id": "2020-06-28-AM-02",
+  "createdAt": "2020-05-28T15:30:00.000Z",
+  "updatedAt": "2020-05-28T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Chesapeake",
+  "game": "tta2",
+  "players": [
+    {
+      "id": "18xxperson"
+    },
+    {
+      "id": "claudius"
+    },
+    {
+      "id": "deniz"
+    },
+    {
+      "id": "phil"
+    },
+    {
+      "id": "dix"
+    }
+  ],
+  "results": [
+    {
+      "player": "deniz",
+      "score": 5011
+    },
+    {
+      "player": "18xxperson",
+      "score": 4649
+    },
+    {
+      "player": "phil",
+      "score": 3838
+    },
+    {
+      "player": "claudius",
+      "score": 3722
+    },
+    {
+      "player": "dix",
+      "score": 2724
+    }
+  ]
+}
