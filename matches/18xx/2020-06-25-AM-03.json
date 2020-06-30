@@ -6,10 +6,5 @@
   "description": "1880",
   "game": "tta2",
   "players": ["triplejalltheway", "beardbru", "jeffheuer", "kelvin-ho"],
-  "results": [
-    { "player": "triplejalltheway", "score": null },
-    { "player": "beardbru", "score": null },
-    { "player": "jeffheuer", "score": null },
-    { "player": "kelvin-ho", "score": null }
-  ]
+  "results": []
 }

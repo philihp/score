@@ -6,10 +6,5 @@
   "description": "18OE",
   "game": "tta2",
   "players": ["abnrgr", "chichi", "clayton", "neutron"],
-  "results": [
-    { "player": "abnrgr", "score": null },
-    { "player": "chichi", "score": null },
-    { "player": "clayton", "score": null },
-    { "player": "neutron", "score": null }
-  ]
+  "results": []
 }

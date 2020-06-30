@@ -6,9 +6,5 @@
   "description": "1832",
   "game": "tta2",
   "players": ["talbatross", "kelvin-ho", "chichi"],
-  "results": [
-    { "player": "talbatross", "score": null },
-    { "player": "kelvin-ho", "score": null },
-    { "player": "chichi", "score": null }
-  ]
+  "results": []
 }

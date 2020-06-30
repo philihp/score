@@ -6,9 +6,5 @@
   "description": "1835",
   "game": "tta2",
   "players": ["ex-raven", "shirleydulcey", "phil"],
-  "results": [
-    { "player": "ex-raven", "score": null },
-    { "player": "shirleydulcey", "score": null },
-    { "player": "phil", "score": null }
-  ]
+  "results": []
 }

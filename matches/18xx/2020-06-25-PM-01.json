@@ -6,10 +6,5 @@
   "description": "1846",
   "game": "tta2",
   "players": ["shirleydulcey", "beardbru", "thecardboardbox", "ex-raven"],
-  "results": [
-    { "player": "shirleydulcey", "score": null },
-    { "player": "beardbru", "score": null },
-    { "player": "thecardboardbox", "score": null },
-    { "player": "ex-raven", "score": null }
-  ]
+  "results": []
 }
