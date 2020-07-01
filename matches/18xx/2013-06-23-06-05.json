@@ -1,0 +1,20 @@
+{
+  "id": "2013-06-23-06-05",
+  "createdAt": "2013-06-23T01:00:00.000Z",
+  "updatedAt": "2013-06-23T01:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1830",
+  "game": "18xx",
+  "players": [
+    "daniel-barnes",
+    "joe-gray",
+    "jonathan-anderson",
+    "felix-anderson"
+  ],
+  "results": [
+    { "player": "daniel-barnes", "score": 1080 },
+    { "player": "joe-gray", "score": 932 },
+    { "player": "felix-anderson", "score": 799 },
+    { "player": "jonathan-anderson", "score": 280 }
+  ]
+}

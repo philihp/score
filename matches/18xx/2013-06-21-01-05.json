@@ -1,0 +1,14 @@
+{
+  "id": "2013-06-21-01-05",
+  "createdAt": "2013-06-21T15:30:00.000Z",
+  "updatedAt": "2013-06-21T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NY",
+  "game": "18xx",
+  "players": ["pierre-lebouf", "jonathan-flagg", "mike-monical"],
+  "results": [
+    { "player": "pierre-lebouf", "score": 8063 },
+    { "player": "mike-monical", "score": 7048 },
+    { "player": "jonathan-flagg", "score": 6438 }
+  ]
+}

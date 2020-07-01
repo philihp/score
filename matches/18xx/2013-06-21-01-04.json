@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-01-04",
+  "createdAt": "2013-06-21T15:30:00.000Z",
+  "updatedAt": "2013-06-21T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1861",
+  "game": "18xx",
+  "players": ["bruce-beard", "christopher-rao", "bruce-beard", "jeff-heuer"],
+  "results": [
+    { "player": "bruce-beard", "score": 12668 },
+    { "player": "jeff-heuer", "score": 9352 },
+    { "player": "christopher-rao", "score": 9171 },
+    { "player": "bruce-beard", "score": 8415 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-22-04-02",
+  "createdAt": "2013-06-22T16:20:00.000Z",
+  "updatedAt": "2013-06-22T21:15:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18OE",
+  "game": "18xx",
+  "players": ["mike-monical", "david-lease", "jeff-heuer", "mark-geary"],
+  "results": [
+    { "player": "jeff-heuer", "score": 14944 },
+    { "player": "mark-geary", "score": 14934 },
+    { "player": "david-lease", "score": 14469 },
+    { "player": "mike-monical", "score": 13576 }
+  ]
+}

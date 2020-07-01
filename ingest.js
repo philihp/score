@@ -49,7 +49,8 @@ fs.createReadStream(`./18xx.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()
-    const updatedAt = createdAt
+    const updatedAt =
+      data.end !== '' ? new Date(data.end).toISOString() : createdAt
     const dat = {
       id: data.id,
       createdAt,

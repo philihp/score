@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-03-02",
+  "createdAt": "2013-06-22T04:00:00.000Z",
+  "updatedAt": "2013-06-22T07:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1861",
+  "game": "18xx",
+  "players": ["pierre-lebouf", "jonathan-work", "ken-boucher", "rick-dutton"],
+  "results": [
+    { "player": "ken-boucher", "score": 7812 },
+    { "player": "jonathan-work", "score": 7044 },
+    { "player": "rick-dutton", "score": 6484 },
+    { "player": "pierre-lebouf", "score": 6173 }
+  ]
+}

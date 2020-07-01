@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-01-02",
+  "createdAt": "2013-06-21T15:30:00.000Z",
+  "updatedAt": "2013-06-21T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1880",
+  "game": "18xx",
+  "players": [
+    "stephen-yu",
+    "andrew-nisbet",
+    "jason-ley",
+    "todd-vanderpluym",
+    "gary-norton"
+  ],
+  "results": [
+    { "player": "jason-ley", "score": 7761 },
+    { "player": "gary-norton", "score": 7535 },
+    { "player": "todd-vanderpluym", "score": 7223 },
+    { "player": "stephen-yu", "score": 6766 },
+    { "player": "andrew-nisbet", "score": 5561 }
+  ]
+}

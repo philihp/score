@@ -1,0 +1,20 @@
+{
+  "id": "2013-06-23-06-02",
+  "createdAt": "2013-06-23T01:00:00.000Z",
+  "updatedAt": "2013-06-23T06:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18PA",
+  "game": "18xx",
+  "players": [
+    "dave-blanchard",
+    "mark-geary",
+    "jose-corsilles",
+    "daniel-barnes"
+  ],
+  "results": [
+    { "player": "dave-blanchard", "score": 6634 },
+    { "player": "mark-geary", "score": 6001 },
+    { "player": "daniel-barnes", "score": 5942 },
+    { "player": "jose-corsilles", "score": 5463 }
+  ]
+}

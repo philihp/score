@@ -1,0 +1,20 @@
+{
+  "id": "2013-06-22-05-01",
+  "createdAt": "2013-06-22T21:30:00.000Z",
+  "updatedAt": "2013-06-23T00:40:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1846",
+  "game": "18xx",
+  "players": [
+    "jonathan-anderson",
+    "andrew-nisbet",
+    "aliza-panitz",
+    "dave-blanchard"
+  ],
+  "results": [
+    { "player": "aliza-panitz", "score": 6701 },
+    { "player": "dave-blanchard", "score": 6425 },
+    { "player": "jonathan-anderson", "score": 6289 },
+    { "player": "andrew-nisbet", "score": 3032 }
+  ]
+}

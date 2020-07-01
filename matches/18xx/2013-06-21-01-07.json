@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-01-07",
+  "createdAt": "2013-06-21T15:30:00.000Z",
+  "updatedAt": "2013-06-21T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1844",
+  "game": "18xx",
+  "players": [
+    "david-simmonds",
+    "tyler-harvey",
+    "ken-boucher",
+    "david-lease",
+    "jonathan-flagg"
+  ],
+  "results": [
+    { "player": "ken-boucher", "score": 7209 },
+    { "player": "david-lease", "score": 5135 },
+    { "player": "jonathan-flagg", "score": 4690 },
+    { "player": "david-simmonds", "score": 4483 },
+    { "player": "tyler-harvey", "score": 3410 }
+  ]
+}

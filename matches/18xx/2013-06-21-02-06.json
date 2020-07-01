@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-02-06",
+  "createdAt": "2013-06-21T21:00:00.000Z",
+  "updatedAt": "2013-06-21T21:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1880",
+  "game": "18xx",
+  "players": ["jonathan-anderson", "jason-ley", "rick-dutton", "pierre-lebouf"],
+  "results": [
+    { "player": "rick-dutton", "score": 10567 },
+    { "player": "jonathan-anderson", "score": 8300 },
+    { "player": "pierre-lebouf", "score": 8201 },
+    { "player": "jason-ley", "score": 7685 }
+  ]
+}

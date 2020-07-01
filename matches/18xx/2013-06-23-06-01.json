@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-23-06-01",
+  "createdAt": "2013-06-23T01:00:00.000Z",
+  "updatedAt": "2013-06-23T06:15:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1880",
+  "game": "18xx",
+  "players": [
+    "stephen-yu",
+    "tyler-harvey",
+    "jose-corsilles",
+    "jeff-heuer",
+    "william-gallagher"
+  ],
+  "results": [
+    { "player": "jeff-heuer", "score": 7611 },
+    { "player": "stephen-yu", "score": 7608 },
+    { "player": "tyler-harvey", "score": 6629 },
+    { "player": "jose-corsilles", "score": 5756 },
+    { "player": "william-gallagher", "score": 4650 }
+  ]
+}
