@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-AM-03",
+  "createdAt": "2013-06-21T15:30:00.000Z",
+  "updatedAt": "2013-06-21T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18PA",
+  "game": "18xx",
+  "players": ["felix-anderson", "bruce-beard", "joe-gray", "william-gallagher"],
+  "results": [
+    { "player": "bruce-beard", "score": 7456 },
+    { "player": "felix-anderson", "score": 7216 },
+    { "player": "joe-gray", "score": 5840 },
+    { "player": "william-gallagher", "score": 5566 }
+  ]
+}

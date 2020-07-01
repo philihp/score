@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-NOON-05",
+  "createdAt": "2013-06-21T21:00:00.000Z",
+  "updatedAt": "2013-06-21T21:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18ARD",
+  "game": "18xx",
+  "players": [
+    "stephen-yu",
+    "dave-blanchard",
+    "jonathan-work",
+    "mark-geary",
+    "david-lease"
+  ],
+  "results": [
+    { "player": "stephen-yu", "score": 6435 },
+    { "player": "mark-geary", "score": 6144 },
+    { "player": "david-lease", "score": 5521 },
+    { "player": "dave-blanchard", "score": 4309 },
+    { "player": "jonathan-work", "score": 3857 }
+  ]
+}

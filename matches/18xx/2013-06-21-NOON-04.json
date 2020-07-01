@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-NOON-04",
+  "createdAt": "2013-06-21T21:00:00.000Z",
+  "updatedAt": "2013-06-21T21:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1844",
+  "game": "18xx",
+  "players": [
+    "felix-anderson",
+    "christopher-rao",
+    "daniel-barnes",
+    "jose-corsilles",
+    "william-gallagher"
+  ],
+  "results": [
+    { "player": "christopher-rao", "score": 9522 },
+    { "player": "daniel-barnes", "score": 8689 },
+    { "player": "felix-anderson", "score": 8605 },
+    { "player": "jose-corsilles", "score": 8389 },
+    { "player": "william-gallagher", "score": 6268 }
+  ]
+}

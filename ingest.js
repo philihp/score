@@ -61,7 +61,7 @@ fs.createReadStream(`./18xx.csv`)
       results: [],
     }
 
-    if (data.p1.length > 1) {
+    if (data.p1 && data.p1.length > 1) {
       dat.players.push(lookup[data.p1] || data.p1)
       players.push(lookup[data.p1] || data.p1)
       dat.results.push({
@@ -69,7 +69,7 @@ fs.createReadStream(`./18xx.csv`)
         score: Number.parseInt(data.s1, 10),
       })
     }
-    if (data.p2.length > 1) {
+    if (data.p2 && data.p2.length > 1) {
       dat.players.push(lookup[data.p2] || data.p2)
       players.push(lookup[data.p2] || data.p2)
       dat.results.push({
@@ -77,7 +77,7 @@ fs.createReadStream(`./18xx.csv`)
         score: Number.parseInt(data.s2, 10),
       })
     }
-    if (data.p3.length > 1) {
+    if (data.p3 && data.p3.length > 1) {
       dat.players.push(lookup[data.p3] || data.p3)
       players.push(lookup[data.p3] || data.p3)
       dat.results.push({
@@ -85,7 +85,7 @@ fs.createReadStream(`./18xx.csv`)
         score: Number.parseInt(data.s3, 10),
       })
     }
-    if (data.p4.length > 1) {
+    if (data.p4 && data.p4.length > 1) {
       dat.players.push(lookup[data.p4] || data.p4)
       players.push(lookup[data.p4] || data.p4)
       dat.results.push({
@@ -93,7 +93,7 @@ fs.createReadStream(`./18xx.csv`)
         score: Number.parseInt(data.s4, 10),
       })
     }
-    if (data.p5.length > 1) {
+    if (data.p5 && data.p5.length > 1) {
       dat.players.push(lookup[data.p5] || data.p5)
       players.push(lookup[data.p5] || data.p5)
       dat.results.push({
@@ -101,7 +101,7 @@ fs.createReadStream(`./18xx.csv`)
         score: Number.parseInt(data.s5, 10),
       })
     }
-    if (data.p6.length > 1) {
+    if (data.p6 && data.p6.length > 1) {
       dat.players.push(lookup[data.p6] || data.p6)
       players.push(lookup[data.p6] || data.p6)
       dat.results.push({

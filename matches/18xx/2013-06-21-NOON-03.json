@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-NOON-03",
+  "createdAt": "2013-06-21T21:00:00.000Z",
+  "updatedAt": "2013-06-21T21:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18PA",
+  "game": "18xx",
+  "players": ["david-hecht", "aliza-panitz", "jeff-heuer", "ken-boucher"],
+  "results": [
+    { "player": "aliza-panitz", "score": 5831 },
+    { "player": "jeff-heuer", "score": 5747 },
+    { "player": "david-hecht", "score": 5638 },
+    { "player": "ken-boucher", "score": 5143 }
+  ]
+}
