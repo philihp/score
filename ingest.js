@@ -119,13 +119,10 @@ fs.createReadStream(`./18xx.csv`)
   .on('finish', () => {
     players.sort()
     players.forEach((id) => {
-      const gname =
-        id.split('-')[0][0].toUpperCase() + id.split('-')[0].slice(1)
-      const sname =
-        id.split('-')[1][0].toUpperCase() + id.split('-')[1].slice(1)
-      fs.writeFileSync(
-        `players/18xx/${id}.json`,
-        JSON.stringify({ id, name: `${gname} ${sname}` })
-      )
+      const name = id
+        .split('-')
+        .map((s) => s[0].toUpperCase() + s.slice(1))
+        .join(' ')
+      fs.writeFileSync(`players/18xx/${id}.json`, JSON.stringify({ id, name }))
     })
   })
