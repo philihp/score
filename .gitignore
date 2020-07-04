@@ -5,3 +5,5 @@ coverage/
 *.swp
 build/
 public/
+.DS_Store
+**/.DS_Store
