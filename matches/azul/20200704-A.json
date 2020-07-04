@@ -1,0 +1,14 @@
+{
+  "id": "20200704-A",
+  "createdAt": "2020-07-04T01:59:00.000Z",
+  "updatedAt": "2020-07-04T03:11:00.000Z",
+  "description": "Standard game",
+  "game": "azul",
+  "players": ["phil", "adam", "hillary", "tyler"],
+  "results": [
+    { "player": "phil", "score": 77 },
+    { "player": "adam", "score": 55 },
+    { "player": "hillary", "score": 26 },
+    { "player": "tyler", "score": 54 }
+  ]
+}
