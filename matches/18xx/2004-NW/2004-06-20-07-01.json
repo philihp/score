@@ -1,0 +1,22 @@
+{
+  "id": "2004-06-20-07-01",
+  "createdAt": "2004-06-20T15:30:00.000Z",
+  "updatedAt": "2004-06-20T19:15:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "james-robinson",
+    "jeremy-vipperman",
+    "chris-kolenda",
+    "anthony-carver",
+    "jim-mcdanold"
+  ],
+  "results": [
+    { "player": "james-robinson", "score": 58254 },
+    { "player": "jeremy-vipperman", "score": 5587 },
+    { "player": "anthony-carver", "score": 5313 },
+    { "player": "chris-kolenda", "score": 5264 },
+    { "player": "jim-mcdanold", "score": 4527 }
+  ]
+}

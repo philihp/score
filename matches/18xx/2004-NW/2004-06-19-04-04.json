@@ -1,0 +1,24 @@
+{
+  "id": "2004-06-19-04-04",
+  "createdAt": "2004-06-19T16:00:00.000Z",
+  "updatedAt": "2004-06-20T03:50:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "18C2C",
+  "game": "18xx",
+  "players": [
+    "anthony-carver",
+    "daniel-barnes",
+    "dave-blanchard",
+    "bill-bold",
+    "jon-flagg",
+    "brian-diggs"
+  ],
+  "results": [
+    { "player": "anthony-carver", "score": 17720 },
+    { "player": "daniel-barnes", "score": 17294 },
+    { "player": "dave-blanchard", "score": 15975 },
+    { "player": "bill-bold", "score": 13803 },
+    { "player": "jon-flagg", "score": 12939 },
+    { "player": "brian-diggs", "score": 12862 }
+  ]
+}

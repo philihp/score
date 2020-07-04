@@ -1,0 +1,20 @@
+{
+  "id": "2004-06-19-06-03",
+  "createdAt": "2004-06-20T01:00:00.000Z",
+  "updatedAt": "2004-06-20T06:20:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1870",
+  "game": "18xx",
+  "players": [
+    "ron-sapolsky",
+    "ian-booth",
+    "tristan-jenkins",
+    "jeremy-vipperman"
+  ],
+  "results": [
+    { "player": "ron-sapolsky", "score": 10871 },
+    { "player": "ian-booth", "score": 10630 },
+    { "player": "tristan-jenkins", "score": 9596 },
+    { "player": "jeremy-vipperman", "score": 8367 }
+  ]
+}

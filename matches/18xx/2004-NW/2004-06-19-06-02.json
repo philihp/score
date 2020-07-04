@@ -1,0 +1,22 @@
+{
+  "id": "2004-06-19-06-02",
+  "createdAt": "2004-06-20T01:00:00.000Z",
+  "updatedAt": "2004-06-20T06:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "mark-geary",
+    "james-robinson",
+    "chris-kolenda",
+    "john-galt",
+    "andrew-nisbet"
+  ],
+  "results": [
+    { "player": "mark-geary", "score": 6102 },
+    { "player": "james-robinson", "score": 5460 },
+    { "player": "chris-kolenda", "score": 4179 },
+    { "player": "john-galt", "score": 3679 },
+    { "player": "andrew-nisbet", "score": 3418 }
+  ]
+}

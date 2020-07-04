@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-18-01-02",
+  "createdAt": "2004-06-18T15:00:00.000Z",
+  "updatedAt": "2004-06-18T19:50:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1826",
+  "game": "18xx",
+  "players": ["mark-derrick", "mark-geary", "dave-blanchard", "jon-flagg"],
+  "results": [
+    { "player": "mark-derrick", "score": 5633 },
+    { "player": "mark-geary", "score": 5122 },
+    { "player": "dave-blanchard", "score": 3442 },
+    { "player": "jon-flagg", "score": 3391 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-18-02-02",
+  "createdAt": "2004-06-18T21:00:00.000Z",
+  "updatedAt": "2004-06-18T22:54:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "18Mex",
+  "game": "18xx",
+  "players": ["anthony-carver", "mark-derrick", "jim-mcdanold", "doug-walker"],
+  "results": [
+    { "player": "anthony-carver", "score": 723 },
+    { "player": "mark-derrick", "score": 716 },
+    { "player": "jim-mcdanold", "score": 565 },
+    { "player": "doug-walker", "score": 480 }
+  ]
+}

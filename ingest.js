@@ -45,7 +45,7 @@ const lookup = {
   phil: 'philihp-busby',
 }
 
-fs.createReadStream(`./18xx.csv`)
+fs.createReadStream(`./18xx2004.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()

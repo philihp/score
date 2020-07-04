@@ -1,0 +1,24 @@
+{
+  "id": "2004-06-18-03-01",
+  "createdAt": "2004-06-19T02:00:00.000Z",
+  "updatedAt": "2004-06-19T08:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1844",
+  "game": "18xx",
+  "players": [
+    "james-robinson",
+    "tristan-jenkins",
+    "mike-monical",
+    "anthony-carver",
+    "doug-walker",
+    "dave-blanchard"
+  ],
+  "results": [
+    { "player": "james-robinson", "score": 7790 },
+    { "player": "tristan-jenkins", "score": 6836 },
+    { "player": "mike-monical", "score": 6239 },
+    { "player": "anthony-carver", "score": 5820 },
+    { "player": "doug-walker", "score": 5614 },
+    { "player": "dave-blanchard", "score": 5508 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2004-06-18-03-02",
+  "createdAt": "2004-06-19T02:00:00.000Z",
+  "updatedAt": "2004-06-19T07:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1856",
+  "game": "18xx",
+  "players": [
+    "daniel-barnes",
+    "jon-flagg",
+    "mark-geary",
+    "bill-bold",
+    "ian-booth"
+  ],
+  "results": [
+    { "player": "daniel-barnes", "score": 1479 },
+    { "player": "jon-flagg", "score": 1069 },
+    { "player": "mark-geary", "score": 681 },
+    { "player": "bill-bold", "score": 680 },
+    { "player": "ian-booth", "score": 532 }
+  ]
+}
