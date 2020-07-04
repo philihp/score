@@ -7,14 +7,14 @@
   "game": "18xx",
   "players": [
     "david-hecht",
-    "aliza-paniz",
+    "aliza-panitz",
     "chris-shaffer",
     "shawn-undefined",
     "allen-stanicus"
   ],
   "results": [
     { "player": "david-hecht", "score": 4377 },
-    { "player": "aliza-paniz", "score": 4049 },
+    { "player": "aliza-panitz", "score": 4049 },
     { "player": "allen-stanicus", "score": 3657 },
     { "player": "shawn-undefined", "score": 3024 },
     { "player": "chris-shaffer", "score": 2994 }
