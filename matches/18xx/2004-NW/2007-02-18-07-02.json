@@ -1,0 +1,22 @@
+{
+  "id": "2007-02-18-07-02",
+  "createdAt": "2007-02-18T16:00:00.000Z",
+  "updatedAt": "2007-02-18T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1846",
+  "game": "18xx",
+  "players": [
+    "peter-eldridge",
+    "gary-mroczka",
+    "ken-gutermuth",
+    "joe-gundersen"
+  ],
+  "results": [
+    { "player": "peter-eldridge", "score": 6239 },
+    { "player": "gary-mroczka", "score": 5932 },
+    { "player": "ken-gutermuth", "score": 4806 },
+    { "player": "joe-gundersen", "score": 4399 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2007-02-17-06-01",
+  "createdAt": "2007-02-18T02:00:00.000Z",
+  "updatedAt": "2007-02-18T02:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18TN",
+  "game": "18xx",
+  "players": ["peter-eldridge", "simon-craddock", "david-snyder"],
+  "results": [
+    { "player": "peter-eldridge", "score": 7874 },
+    { "player": "simon-craddock", "score": 7033 },
+    { "player": "david-snyder", "score": 6611 }
+  ]
+}

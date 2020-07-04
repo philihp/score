@@ -1,0 +1,17 @@
+{
+  "id": "2007-02-17-04-07",
+  "createdAt": "2007-02-17T16:00:00.000Z",
+  "updatedAt": "2007-02-17T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1841",
+  "game": "18xx",
+  "players": ["mark-derrick", "mike-bennett", "steve-haugse", "jeff-heuer"],
+  "results": [
+    { "player": "mark-derrick", "score": 8612 },
+    { "player": "jeff-heuer", "score": 7643 },
+    { "player": "steve-haugse", "score": 7395 },
+    { "player": "mike-bennett", "score": 6097 }
+  ]
+}

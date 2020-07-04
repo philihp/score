@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-16-01-07",
+  "createdAt": "2007-02-16T15:00:00.000Z",
+  "updatedAt": "2007-02-16T15:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18US",
+  "game": "18xx",
+  "players": [
+    "mike-coyne",
+    "david-hecht",
+    "mike-monical",
+    "john-tamplin",
+    "jeanette-allen"
+  ],
+  "results": [
+    { "player": "mike-coyne", "score": 5554 },
+    { "player": "david-hecht", "score": 5463 },
+    { "player": "mike-monical", "score": 5363 },
+    { "player": "john-tamplin", "score": 5064 },
+    { "player": "jeanette-allen", "score": 4204 }
+  ]
+}

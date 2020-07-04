@@ -1,0 +1,16 @@
+{
+  "id": "2007-02-16-02-05",
+  "createdAt": "2007-02-16T21:00:00.000Z",
+  "updatedAt": "2007-02-16T21:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18FL",
+  "game": "18xx",
+  "players": ["mark-geary", "ricky-gray", "mike-bennett"],
+  "results": [
+    { "player": "mark-geary", "score": 8565 },
+    { "player": "ricky-gray", "score": 8448 },
+    { "player": "mike-bennett", "score": 7131 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2007-02-18-07-04",
+  "createdAt": "2007-02-18T16:00:00.000Z",
+  "updatedAt": "2007-02-18T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18TN",
+  "game": "18xx",
+  "players": [
+    "mark-geary",
+    "mike-bennett",
+    "barrington-beavis",
+    "dave-blanchard"
+  ],
+  "results": [
+    { "player": "mark-geary", "score": 6033 },
+    { "player": "mike-bennett", "score": 5641 },
+    { "player": "barrington-beavis", "score": 5583 },
+    { "player": "dave-blanchard", "score": 5439 }
+  ]
+}

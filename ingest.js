@@ -7,45 +7,9 @@ const fs = require('fs')
 
 const players = []
 
-const lookup = {
-  '18xxperson': 'jonathan-work',
-  abnrgr: 'michael-monical',
-  adam1515: 'adam-mcdiarmid',
-  'andy-mesa': 'andy-mesa',
-  beardbru: 'bruce-beard',
-  cheesinglee: 'chee-sing-lee',
-  chichi: 'chisholm-gentry',
-  claudius: 'nathan-wagner',
-  clayton: 'greg-clayton',
-  daroj: 'christopher-rao',
-  deniz: 'deniz-bucak',
-  dix: 'bill-dixon',
-  espee: 'dave-blanchard',
-  'ex-raven': 'paul-work',
-  islandia: 'stephen-yu',
-  jaysixa: 'joshua-gottesman',
-  jeffheuer: 'jeff-heuer',
-  jon_g: 'jonathan-geruntho',
-  karazak: 'keith-williams',
-  kelly: 'kelly-krieble',
-  markmenm: 'tom-rodriguez',
-  mikewill: 'mike-williams',
-  mjshaver: 'mike-shaver',
-  neutron: 'mike-brumm',
-  'orca-willy': 'derek-yeung',
-  outsidepasser: 'michael-alexander',
-  pgh_gamer: 'dean-brandt',
-  'rail-baron': 'mark-derrick',
-  shaz: 'shaz-iqbal',
-  shirleydulcey: 'shirley-dulcey',
-  stormcrow: 'scott-ellis',
-  talbatross: 'chris-talbot',
-  thecardboardbox: 'sterling-tian',
-  triplejalltheway: 'jonathan-jang',
-  phil: 'philihp-busby',
-}
+const lookup = {}
 
-fs.createReadStream(`./18xx2004.csv`)
+fs.createReadStream(`./18xx2007.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()
@@ -55,7 +19,9 @@ fs.createReadStream(`./18xx2004.csv`)
       id: data.id,
       createdAt,
       updatedAt,
-      location: '2004 NW 18xx Tournament',
+      location: 'Springhill Suites, Portland Oregon',
+      event: '2007 NW Rail Gaming Tournament',
+      director: 'dave-blanchard',
       description: data.game,
       game: '18xx',
       players: [],

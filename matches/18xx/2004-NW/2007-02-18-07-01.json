@@ -1,0 +1,16 @@
+{
+  "id": "2007-02-18-07-01",
+  "createdAt": "2007-02-18T16:00:00.000Z",
+  "updatedAt": "2007-02-18T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18TN",
+  "game": "18xx",
+  "players": ["dave-lionett", "paul-bolduc", "rick-westerman"],
+  "results": [
+    { "player": "dave-lionett", "score": 6045 },
+    { "player": "paul-bolduc", "score": 4873 },
+    { "player": "rick-westerman", "score": 4322 }
+  ]
+}

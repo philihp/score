@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-16-02-04",
+  "createdAt": "2007-02-16T21:00:00.000Z",
+  "updatedAt": "2007-02-16T21:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "joe-gundersen",
+    "gary-norton",
+    "gary-mroczka",
+    "joe-gray",
+    "jeremy-vipperman"
+  ],
+  "results": [
+    { "player": "joe-gundersen", "score": 5181 },
+    { "player": "gary-norton", "score": 5093 },
+    { "player": "gary-mroczka", "score": 5062 },
+    { "player": "joe-gray", "score": 4969 },
+    { "player": "jeremy-vipperman", "score": 4831 }
+  ]
+}

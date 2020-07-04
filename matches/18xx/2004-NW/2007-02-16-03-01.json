@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-16-03-01",
+  "createdAt": "2007-02-17T02:00:00.000Z",
+  "updatedAt": "2007-02-17T02:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "tim-flowers",
+    "craig-bartell",
+    "charles-beattie",
+    "dale-maxfield",
+    "peter-eldridge"
+  ],
+  "results": [
+    { "player": "charles-beattie", "score": 5706 },
+    { "player": "craig-bartell", "score": 5456 },
+    { "player": "peter-eldridge", "score": 5221 },
+    { "player": "tim-flowers", "score": 4627 },
+    { "player": "dale-maxfield", "score": 4391 }
+  ]
+}

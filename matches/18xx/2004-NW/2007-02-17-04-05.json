@@ -1,0 +1,22 @@
+{
+  "id": "2007-02-17-04-05",
+  "createdAt": "2007-02-17T16:00:00.000Z",
+  "updatedAt": "2007-02-17T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "pierre-leboeuf",
+    "peter-eldridge",
+    "elliott-segal",
+    "mark-geary"
+  ],
+  "results": [
+    { "player": "pierre-leboeuf", "score": 7568 },
+    { "player": "peter-eldridge", "score": 7322 },
+    { "player": "elliott-segal", "score": 6673 },
+    { "player": "mark-geary", "score": 5941 }
+  ]
+}
