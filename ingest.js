@@ -55,7 +55,7 @@ fs.createReadStream(`./18xx.csv`)
       id: data.id,
       createdAt,
       updatedAt,
-      location: '22nd Annual Portland 18xx Convention',
+      location: '2004 NW 18xx Tournament',
       description: data.game,
       game: '18xx',
       players: [],
@@ -114,7 +114,10 @@ fs.createReadStream(`./18xx.csv`)
     if (!dat.results[0].score) {
       dat.results = []
     }
-    fs.writeFileSync(`matches/18xx/${data.id}.json`, JSON.stringify(dat))
+    fs.writeFileSync(
+      `matches/18xx/2004-NW/${data.id}.json`,
+      JSON.stringify(dat)
+    )
   })
   .on('finish', () => {
     players.sort()
