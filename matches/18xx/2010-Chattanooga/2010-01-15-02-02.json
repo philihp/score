@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-02-02",
+  "createdAt": "2010-01-15T21:00:00.000Z",
+  "updatedAt": "2010-01-15T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Neb",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["tim-hardwick", "robert-ford", "stephen-webb", "rick-w"],
+  "results": [
+    { "player": "robert-ford", "score": 5554 },
+    { "player": "rick-w", "score": 5543 },
+    { "player": "tim-hardwick", "score": 5122 },
+    { "player": "stephen-webb", "score": 3845 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-04-06",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1817",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["craig-bartell", "tim-flowers", "ken-boucher", "simon-craddock"],
+  "results": [
+    { "player": "craig-bartell", "score": 7862 },
+    { "player": "tim-flowers", "score": 7472 },
+    { "player": "ken-boucher", "score": 6999 },
+    { "player": "simon-craddock", "score": 5264 }
+  ]
+}

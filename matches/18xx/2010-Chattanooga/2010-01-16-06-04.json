@@ -1,0 +1,23 @@
+{
+  "id": "2010-01-16-06-04",
+  "createdAt": "2010-01-17T02:00:00.000Z",
+  "updatedAt": "2010-01-17T02:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1817",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "tim-flowers",
+    "ken-boucher",
+    "craig-bartell",
+    "stephen-webb",
+    "rick-dutton"
+  ],
+  "results": [
+    { "player": "craig-bartell", "score": 8618 },
+    { "player": "rick-dutton", "score": 6955 },
+    { "player": "stephen-webb", "score": 6141 },
+    { "player": "tim-flowers", "score": 5537 },
+    { "player": "ken-boucher", "score": 4442 }
+  ]
+}

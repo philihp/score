@@ -1,0 +1,15 @@
+{
+  "id": "2010-01-15-01-06",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Scan",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["robert-ford", "charles-ward", "tim-hardwick"],
+  "results": [
+    { "player": "charles-ward", "score": 6075 },
+    { "player": "robert-ford", "score": 5878 },
+    { "player": "tim-hardwick", "score": 5643 }
+  ]
+}

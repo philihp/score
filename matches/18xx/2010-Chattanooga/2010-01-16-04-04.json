@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-04-04",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1826",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["mark-geary", "mike-bennett", "robert-ford", "tim-hardwick"],
+  "results": [
+    { "player": "mark-geary", "score": 8398 },
+    { "player": "robert-ford", "score": 7930 },
+    { "player": "tim-hardwick", "score": 7692 },
+    { "player": "mike-bennett", "score": 5848 }
+  ]
+}

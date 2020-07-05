@@ -1,0 +1,23 @@
+{
+  "id": "2010-01-17-07-03",
+  "createdAt": "2010-01-17T15:00:00.000Z",
+  "updatedAt": "2010-01-17T15:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18West",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "pierre-leboeuf",
+    "bruce-beard",
+    "david-synder",
+    "ken-boucher",
+    "michael-monical"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 6334 },
+    { "player": "ken-boucher", "score": 5507 },
+    { "player": "pierre-leboeuf", "score": 5261 },
+    { "player": "david-synder", "score": 3826 },
+    { "player": "michael-monical", "score": 3790 }
+  ]
+}

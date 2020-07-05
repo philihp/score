@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-02-05",
+  "createdAt": "2010-01-15T21:00:00.000Z",
+  "updatedAt": "2010-01-15T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Neb",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["peter-eldridge", "bruce-beard", "john-tamplin", "rick-dutton"],
+  "results": [
+    { "player": "bruce-beard", "score": 6587 },
+    { "player": "rick-dutton", "score": 5787 },
+    { "player": "john-tamplin", "score": 5261 },
+    { "player": "peter-eldridge", "score": 3820 }
+  ]
+}

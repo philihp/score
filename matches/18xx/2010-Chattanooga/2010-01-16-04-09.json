@@ -1,0 +1,23 @@
+{
+  "id": "2010-01-16-04-09",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1846",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "gary-mroczka",
+    "rick-w",
+    "mike-coyne",
+    "david-aber",
+    "richard-s"
+  ],
+  "results": [
+    { "player": "mike-coyne", "score": 7407 },
+    { "player": "gary-mroczka", "score": 7114 },
+    { "player": "rick-w", "score": 6653 },
+    { "player": "david-aber", "score": 6564 },
+    { "player": "richard-s", "score": 5735 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-01-04",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Mex",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["dave-lionett", "bruce-beard", "barrington-b", "franklin"],
+  "results": [
+    { "player": "bruce-beard", "score": 4886 },
+    { "player": "franklin", "score": 4073 },
+    { "player": "dave-lionett", "score": 3787 },
+    { "player": "barrington-b", "score": 3185 }
+  ]
+}

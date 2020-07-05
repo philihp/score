@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-05-02",
+  "createdAt": "2010-01-16T21:00:00.000Z",
+  "updatedAt": "2010-01-16T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18NYC",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["bruce-beard", "matt-campbell", "pierre-leboeuf", "kevin-karg"],
+  "results": [
+    { "player": "bruce-beard", "score": 3405 },
+    { "player": "matt-campbell", "score": 2779 },
+    { "player": "pierre-leboeuf", "score": 2642 },
+    { "player": "kevin-karg", "score": 1798 }
+  ]
+}

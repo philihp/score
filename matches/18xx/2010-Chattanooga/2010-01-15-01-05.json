@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-01-05",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Mex",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["pierre-leboeuf", "jim-mcdanold", "stephen-webb", "david-synder"],
+  "results": [
+    { "player": "jim-mcdanold", "score": 5915 },
+    { "player": "stephen-webb", "score": 5592 },
+    { "player": "pierre-leboeuf", "score": 5065 },
+    { "player": "david-synder", "score": 4404 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-17-08-02",
+  "createdAt": "2010-01-17T21:00:00.000Z",
+  "updatedAt": "2010-01-17T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Scan",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["dave-lionett", "michael-monical", "charlie-beattie", "rick-w"],
+  "results": [
+    { "player": "dave-lionett", "score": 3991 },
+    { "player": "charlie-beattie", "score": 3883 },
+    { "player": "rick-w", "score": 3821 },
+    { "player": "michael-monical", "score": 3129 }
+  ]
+}

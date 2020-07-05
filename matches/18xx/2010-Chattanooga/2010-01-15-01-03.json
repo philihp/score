@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-01-03",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1861",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["richard-s", "mike-coyne", "mike-bennett", "jeremy-v"],
+  "results": [
+    { "player": "mike-coyne", "score": 8227 },
+    { "player": "mike-bennett", "score": 7639 },
+    { "player": "jeremy-v", "score": 7538 },
+    { "player": "richard-s", "score": 6046 }
+  ]
+}

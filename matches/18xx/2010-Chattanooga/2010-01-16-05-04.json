@@ -1,0 +1,23 @@
+{
+  "id": "2010-01-16-05-04",
+  "createdAt": "2010-01-16T21:00:00.000Z",
+  "updatedAt": "2010-01-16T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1847",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "charlie-beattie",
+    "john-jones",
+    "joe-gundersen",
+    "dave-lionett",
+    "gary-mroczka"
+  ],
+  "results": [
+    { "player": "john-jones", "score": 1907 },
+    { "player": "joe-gundersen", "score": 1800 },
+    { "player": "dave-lionett", "score": 1400 },
+    { "player": "gary-mroczka", "score": 1000 },
+    { "player": "charlie-beattie", "score": 950 }
+  ]
+}

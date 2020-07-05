@@ -1,0 +1,15 @@
+{
+  "id": "2010-01-17-07-02",
+  "createdAt": "2010-01-17T15:00:00.000Z",
+  "updatedAt": "2010-01-17T15:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1861",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["stephen-webb", "mike-coyne", "rick-dutton"],
+  "results": [
+    { "player": "rick-dutton", "score": 11028 },
+    { "player": "stephen-webb", "score": 8118 },
+    { "player": "mike-coyne", "score": 7719 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2010-01-16-04-07",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18AL",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["dave-lionett", "david-synder", "rick-dutton"],
+  "results": [
+    { "player": "dave-lionett", "score": 7324 },
+    { "player": "rick-dutton", "score": 6101 },
+    { "player": "david-synder", "score": 5682 }
+  ]
+}
