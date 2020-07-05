@@ -1,0 +1,22 @@
+{
+  "id": "2009-06-20-06-04",
+  "createdAt": "2009-06-21T01:00:00.000Z",
+  "updatedAt": "2009-06-21T01:00:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1830",
+  "game": "18xx",
+  "players": [
+    "rich-dutton",
+    "dan-hyer",
+    "paul-work",
+    "dave-lionett",
+    "rich-atwater"
+  ],
+  "results": [
+    { "player": "rich-dutton", "score": 6000 },
+    { "player": "paul-work", "score": 4001 },
+    { "player": "dave-lionett", "score": 4000 },
+    { "player": "dan-hyer", "score": 3000 },
+    { "player": "rich-atwater", "score": 1000 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-19-03-02",
+  "createdAt": "2009-06-20T02:00:00.000Z",
+  "updatedAt": "2009-06-20T07:00:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1870",
+  "game": "18xx",
+  "players": ["rich-atwater", "bruce-beard", "jason", "gary-norton"],
+  "results": [
+    { "player": "gary-norton", "score": 8992 },
+    { "player": "bruce-beard", "score": 8777 },
+    { "player": "rich-atwater", "score": 8150 },
+    { "player": "jason", "score": 6486 }
+  ]
+}

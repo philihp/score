@@ -1,0 +1,22 @@
+{
+  "id": "2009-06-20-06-01",
+  "createdAt": "2009-06-21T01:00:00.000Z",
+  "updatedAt": "2009-06-21T06:15:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "mark-geary",
+    "andrew-nisbet",
+    "alan-stancius",
+    "doug-walker",
+    "tyler-harvey"
+  ],
+  "results": [
+    { "player": "mark-geary", "score": 6513 },
+    { "player": "tyler-harvey", "score": 4923 },
+    { "player": "alan-stancius", "score": 4682 },
+    { "player": "andrew-nisbet", "score": 4163 },
+    { "player": "doug-walker", "score": 2748 }
+  ]
+}

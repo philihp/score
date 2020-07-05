@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-19-02-02",
+  "createdAt": "2009-06-19T21:00:00.000Z",
+  "updatedAt": "2009-06-19T23:30:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "18EU",
+  "game": "18xx",
+  "players": ["dave-lionett", "dave-blanchard", "tyler-harvey", "dan-hyer"],
+  "results": [
+    { "player": "dave-lionett", "score": 8427 },
+    { "player": "dave-blanchard", "score": 6581 },
+    { "player": "tyler-harvey", "score": 6030 },
+    { "player": "dan-hyer", "score": 4904 }
+  ]
+}

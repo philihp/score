@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-20-04-02",
+  "createdAt": "2009-06-20T15:30:00.000Z",
+  "updatedAt": "2009-06-20T15:30:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "18Ard",
+  "game": "18xx",
+  "players": ["tyler-harvey", "david-hecht", "dave-blanchard", "gary-norton"],
+  "results": [
+    { "player": "david-hecht", "score": 7146 },
+    { "player": "tyler-harvey", "score": 6704 },
+    { "player": "gary-norton", "score": 5942 },
+    { "player": "dave-blanchard", "score": 4648 }
+  ]
+}

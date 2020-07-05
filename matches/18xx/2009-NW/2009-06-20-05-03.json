@@ -1,0 +1,14 @@
+{
+  "id": "2009-06-20-05-03",
+  "createdAt": "2009-06-20T21:30:00.000Z",
+  "updatedAt": "2009-06-21T00:40:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "18VA",
+  "game": "18xx",
+  "players": ["dave-lionett", "paul-work", "jason"],
+  "results": [
+    { "player": "dave-lionett", "score": 6000 },
+    { "player": "paul-work", "score": 5000 },
+    { "player": "jason", "score": 4000 }
+  ]
+}
