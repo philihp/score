@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-20-01-03",
+  "createdAt": "2008-06-20T15:00:00.000Z",
+  "updatedAt": "2008-06-20T20:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1861",
+  "game": "18xx",
+  "players": ["andrew-nisbett", "rod-cross", "allen-sancious", "phil-bradley"],
+  "results": [
+    { "player": "andrew-nisbett", "score": 4043 },
+    { "player": "rod-cross", "score": 3691 },
+    { "player": "allen-sancious", "score": 2929 },
+    { "player": "phil-bradley", "score": 2880 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2008-06-22-07-03",
+  "createdAt": "2008-06-22T15:30:00.000Z",
+  "updatedAt": "2008-06-22T19:30:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18FL",
+  "game": "18xx",
+  "players": ["david-hecht", "ron-sapolsky", "rod-cross"],
+  "results": [
+    { "player": "ron-sapolsky", "score": 11612 },
+    { "player": "david-hecht", "score": 10710 },
+    { "player": "rod-cross", "score": 10243 }
+  ]
+}

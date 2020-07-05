@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-21-04-05",
+  "createdAt": "2008-06-21T16:00:00.000Z",
+  "updatedAt": "2008-06-21T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1832",
+  "game": "18xx",
+  "players": ["ken-boucher", "ian-booth", "joe-grey", "dave-blanchard"],
+  "results": [
+    { "player": "ken-boucher", "score": 7285 },
+    { "player": "dave-blanchard", "score": 7137 },
+    { "player": "joe-grey", "score": 6149 },
+    { "player": "ian-booth", "score": 4448 }
+  ]
+}

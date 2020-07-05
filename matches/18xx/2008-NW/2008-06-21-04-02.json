@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-21-04-02",
+  "createdAt": "2008-06-21T16:00:00.000Z",
+  "updatedAt": "2008-06-21T21:15:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18US",
+  "game": "18xx",
+  "players": ["ron-sapolsky", "chis-kolenda", "david-hecht", "mark-geary"],
+  "results": [
+    { "player": "ron-sapolsky", "score": 8170 },
+    { "player": "mark-geary", "score": 7291 },
+    { "player": "david-hecht", "score": 7032 },
+    { "player": "chis-kolenda", "score": 6768 }
+  ]
+}

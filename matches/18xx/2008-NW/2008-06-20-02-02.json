@@ -1,0 +1,16 @@
+{
+  "id": "2008-06-20-02-02",
+  "createdAt": "2008-06-20T21:00:00.000Z",
+  "updatedAt": "2008-06-20T22:54:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18FL",
+  "game": "18xx",
+  "players": ["mike-monical", "david-hecht", "andrew-nisbett"],
+  "results": [
+    { "player": "mike-monical", "score": 4016 },
+    { "player": "david-hecht", "score": 3502 },
+    { "player": "andrew-nisbett", "score": 3154 }
+  ]
+}

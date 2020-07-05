@@ -1,0 +1,24 @@
+{
+  "id": "2008-06-21-06-03",
+  "createdAt": "2008-06-22T01:00:00.000Z",
+  "updatedAt": "2008-06-22T06:20:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1835",
+  "game": "18xx",
+  "players": [
+    "joe-grey",
+    "ron-sapolsky",
+    "phil-bradley",
+    "chis-kolenda",
+    "ian-booth"
+  ],
+  "results": [
+    { "player": "ian-booth", "score": 6331 },
+    { "player": "joe-grey", "score": 4973 },
+    { "player": "ron-sapolsky", "score": 4848 },
+    { "player": "chis-kolenda", "score": 4649 },
+    { "player": "phil-bradley", "score": 3657 }
+  ]
+}

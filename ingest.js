@@ -7,9 +7,7 @@ const fs = require('fs')
 
 const players = []
 
-const lookup = {}
-
-fs.createReadStream(`./18xx2007.csv`)
+fs.createReadStream(`./18xx2008.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()
@@ -20,7 +18,7 @@ fs.createReadStream(`./18xx2007.csv`)
       createdAt,
       updatedAt,
       location: 'Springhill Suites, Portland Oregon',
-      event: '2007 NW Rail Gaming Tournament',
+      event: '2008 NW Rail Gaming Tournament',
       director: 'dave-blanchard',
       description: data.game,
       game: '18xx',
@@ -29,50 +27,56 @@ fs.createReadStream(`./18xx2007.csv`)
     }
 
     if (data.p1 && data.p1.length > 1) {
-      dat.players.push(lookup[data.p1] || data.p1)
-      players.push(lookup[data.p1] || data.p1)
+      const pn = data.p1.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: lookup[data.p1] || data.p1,
+        player: pn,
         score: Number.parseInt(data.s1, 10),
       })
     }
     if (data.p2 && data.p2.length > 1) {
-      dat.players.push(lookup[data.p2] || data.p2)
-      players.push(lookup[data.p2] || data.p2)
+      const pn = data.p2.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: lookup[data.p2] || data.p2,
+        player: pn,
         score: Number.parseInt(data.s2, 10),
       })
     }
     if (data.p3 && data.p3.length > 1) {
-      dat.players.push(lookup[data.p3] || data.p3)
-      players.push(lookup[data.p3] || data.p3)
+      const pn = data.p3.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: lookup[data.p3] || data.p3,
+        player: pn,
         score: Number.parseInt(data.s3, 10),
       })
     }
     if (data.p4 && data.p4.length > 1) {
-      dat.players.push(lookup[data.p4] || data.p4)
-      players.push(lookup[data.p4] || data.p4)
+      const pn = data.p4.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: lookup[data.p4] || data.p4,
+        player: pn,
         score: Number.parseInt(data.s4, 10),
       })
     }
     if (data.p5 && data.p5.length > 1) {
-      dat.players.push(lookup[data.p5] || data.p5)
-      players.push(lookup[data.p5] || data.p5)
+      const pn = data.p5.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: lookup[data.p5] || data.p5,
+        player: pn,
         score: Number.parseInt(data.s5, 10),
       })
     }
     if (data.p6 && data.p6.length > 1) {
-      dat.players.push(lookup[data.p6] || data.p6)
-      players.push(lookup[data.p6] || data.p6)
+      const pn = data.p6.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: lookup[data.p6] || data.p6,
+        player: pn,
         score: Number.parseInt(data.s6, 10),
       })
     }
@@ -81,7 +85,7 @@ fs.createReadStream(`./18xx2007.csv`)
       dat.results = []
     }
     fs.writeFileSync(
-      `matches/18xx/2004-NW/${data.id}.json`,
+      `matches/18xx/2008-NW/${data.id}.json`,
       JSON.stringify(dat)
     )
   })

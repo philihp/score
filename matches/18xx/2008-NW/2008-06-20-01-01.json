@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-20-01-01",
+  "createdAt": "2008-06-20T15:00:00.000Z",
+  "updatedAt": "2008-06-20T20:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1826",
+  "game": "18xx",
+  "players": ["ron-sapolsky", "mike-monical", "rich-atwater", "gary-norton"],
+  "results": [
+    { "player": "rich-atwater", "score": 9732 },
+    { "player": "gary-norton", "score": 9587 },
+    { "player": "mike-monical", "score": 9481 },
+    { "player": "ron-sapolsky", "score": 8363 }
+  ]
+}
