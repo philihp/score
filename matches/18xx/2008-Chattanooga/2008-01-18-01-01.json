@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-18-01-01",
+  "createdAt": "2008-01-18T13:00:00.000Z",
+  "updatedAt": "2008-01-18T13:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18West",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "jon-kwiatkowski",
+    "bruce-beard",
+    "jeremy-vipperman",
+    "mike-monical"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 12280 },
+    { "player": "jeremy-vipperman", "score": 9582 },
+    { "player": "mike-monical", "score": 9542 },
+    { "player": "jon-kwiatkowski", "score": 7985 }
+  ]
+}

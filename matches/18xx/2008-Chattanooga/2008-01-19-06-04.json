@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-06-04",
+  "createdAt": "2008-01-20T00:00:00.000Z",
+  "updatedAt": "2008-01-20T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18GL",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "chris-kolenda",
+    "barrington-beavis",
+    "peter-eldridge",
+    "simon-craddock",
+    "steve-hauge"
+  ],
+  "results": [
+    { "player": "simon-craddock", "score": 7876 },
+    { "player": "barrington-beavis", "score": 7696 },
+    { "player": "peter-eldridge", "score": 7499 },
+    { "player": "chris-kolenda", "score": 7243 },
+    { "player": "steve-hauge", "score": 6902 }
+  ]
+}

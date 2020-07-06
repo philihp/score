@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-20-08-02",
+  "createdAt": "2008-01-20T19:00:00.000Z",
+  "updatedAt": "2008-01-20T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18VA",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "allen-stancius",
+    "ken-gutermuth",
+    "player-100",
+    "anthony-carver"
+  ],
+  "results": [
+    { "player": "allen-stancius", "score": 6721 },
+    { "player": "ken-gutermuth", "score": 6674 },
+    { "player": "player-100", "score": 5993 },
+    { "player": "anthony-carver", "score": 5139 }
+  ]
+}

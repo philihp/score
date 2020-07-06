@@ -1,0 +1,17 @@
+{
+  "id": "2008-01-18-01-06",
+  "createdAt": "2008-01-18T13:00:00.000Z",
+  "updatedAt": "2008-01-18T13:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1848",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["christoper-rivera", "gary-mroczka", "joe-gray", "gary-norton"],
+  "results": [
+    { "player": "gary-mroczka", "score": 9864 },
+    { "player": "gary-norton", "score": 8964 },
+    { "player": "joe-gray", "score": 8712 },
+    { "player": "christoper-rivera", "score": 7858 }
+  ]
+}

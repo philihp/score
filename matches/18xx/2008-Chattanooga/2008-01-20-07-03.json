@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-20-07-03",
+  "createdAt": "2008-01-20T14:00:00.000Z",
+  "updatedAt": "2008-01-20T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1848",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "ken-gutermuth",
+    "steve-hauge",
+    "mike-monical",
+    "russel-decastongrene"
+  ],
+  "results": [
+    { "player": "mike-monical", "score": 6965 },
+    { "player": "ken-gutermuth", "score": 6303 },
+    { "player": "russel-decastongrene", "score": 5953 },
+    { "player": "steve-hauge", "score": 5035 }
+  ]
+}

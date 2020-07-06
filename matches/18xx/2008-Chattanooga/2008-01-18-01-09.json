@@ -1,0 +1,16 @@
+{
+  "id": "2008-01-18-01-09",
+  "createdAt": "2008-01-18T13:00:00.000Z",
+  "updatedAt": "2008-01-18T13:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1861",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["steve-hauge", "john-jones", "joe-gunderson"],
+  "results": [
+    { "player": "joe-gunderson", "score": 12981 },
+    { "player": "john-jones", "score": 12322 },
+    { "player": "steve-hauge", "score": 11318 }
+  ]
+}

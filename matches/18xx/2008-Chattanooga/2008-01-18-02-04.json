@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-18-02-04",
+  "createdAt": "2008-01-18T19:00:00.000Z",
+  "updatedAt": "2008-01-18T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1861",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "mike-bennett",
+    "stephen-webb",
+    "bruce-beard",
+    "barrington-beavis"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 9364 },
+    { "player": "stephen-webb", "score": 9174 },
+    { "player": "barrington-beavis", "score": 8717 },
+    { "player": "mike-bennett", "score": 7236 }
+  ]
+}

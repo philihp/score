@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-20-07-05",
+  "createdAt": "2008-01-20T14:00:00.000Z",
+  "updatedAt": "2008-01-20T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1824",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "craig-bartell",
+    "peter-eldridge",
+    "dale-maxwell",
+    "tim-flowers",
+    "allen-stancius"
+  ],
+  "results": [
+    { "player": "craig-bartell", "score": 6073 },
+    { "player": "tim-flowers", "score": 5816 },
+    { "player": "peter-eldridge", "score": 5808 },
+    { "player": "allen-stancius", "score": 5251 },
+    { "player": "dale-maxwell", "score": 3649 }
+  ]
+}

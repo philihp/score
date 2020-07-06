@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-06-03",
+  "createdAt": "2008-01-20T00:00:00.000Z",
+  "updatedAt": "2008-01-20T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18NYC",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "dave-blanchard",
+    "mark-geary",
+    "alex-sheldon",
+    "john-tamplin",
+    "paul-hakken"
+  ],
+  "results": [
+    { "player": "dave-blanchard", "score": 55 },
+    { "player": "mark-geary", "score": 54 },
+    { "player": "alex-sheldon", "score": 53 },
+    { "player": "john-tamplin", "score": 52 },
+    { "player": "paul-hakken", "score": 51 }
+  ]
+}

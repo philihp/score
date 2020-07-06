@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-20-08-01",
+  "createdAt": "2008-01-20T19:00:00.000Z",
+  "updatedAt": "2008-01-20T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1846",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "player-100",
+    "peter-eldridge",
+    "bruce-beard",
+    "charlie-beattie",
+    "mike-bennett"
+  ],
+  "results": [
+    { "player": "peter-eldridge", "score": 6454 },
+    { "player": "bruce-beard", "score": 5552 },
+    { "player": "player-100", "score": 4950 },
+    { "player": "mike-bennett", "score": 4689 },
+    { "player": "charlie-beattie", "score": 2783 }
+  ]
+}

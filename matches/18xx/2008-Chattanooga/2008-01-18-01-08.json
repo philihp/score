@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-18-01-08",
+  "createdAt": "2008-01-18T13:00:00.000Z",
+  "updatedAt": "2008-01-18T13:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18c2c",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "chris-kolenda",
+    "mike-coyne",
+    "karl-foelsche",
+    "anthony-carver",
+    "charlie-beattie"
+  ],
+  "results": [
+    { "player": "karl-foelsche", "score": 18579 },
+    { "player": "chris-kolenda", "score": 17445 },
+    { "player": "anthony-carver", "score": 17125 },
+    { "player": "mike-coyne", "score": 15771 },
+    { "player": "charlie-beattie", "score": 13225 }
+  ]
+}

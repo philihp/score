@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-18-03-01",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18SOH",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "ken-gutermuth",
+    "jeanette-allen",
+    "russel-decastongrene",
+    "dale-maxwell",
+    "janet-beattie"
+  ],
+  "results": [
+    { "player": "dale-maxwell", "score": 3120 },
+    { "player": "russel-decastongrene", "score": 3113 },
+    { "player": "jeanette-allen", "score": 3023 },
+    { "player": "ken-gutermuth", "score": 2241 },
+    { "player": "janet-beattie", "score": 1638 }
+  ]
+}

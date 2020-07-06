@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-19-05-02",
+  "createdAt": "2008-01-19T19:00:00.000Z",
+  "updatedAt": "2008-01-19T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1824",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "ken-gutermuth",
+    "charlie-beattie",
+    "barrington-beavis",
+    "steve-hauge"
+  ],
+  "results": [
+    { "player": "ken-gutermuth", "score": 10087 },
+    { "player": "charlie-beattie", "score": 8775 },
+    { "player": "barrington-beavis", "score": 8657 },
+    { "player": "steve-hauge", "score": 7694 }
+  ]
+}

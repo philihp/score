@@ -1,0 +1,16 @@
+{
+  "id": "2008-01-18-03-10",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18West",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["chris-kolenda", "mike-coyne", "anthony-carver"],
+  "results": [
+    { "player": "mike-coyne", "score": 13839 },
+    { "player": "anthony-carver", "score": 11480 },
+    { "player": "chris-kolenda", "score": 9454 }
+  ]
+}

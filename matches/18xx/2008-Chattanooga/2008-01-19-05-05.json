@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-05-05",
+  "createdAt": "2008-01-19T19:00:00.000Z",
+  "updatedAt": "2008-01-19T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1846",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "dave-blanchard",
+    "mark-derrick",
+    "chris-kolenda",
+    "jeremy-vipperman",
+    "mike-bennett"
+  ],
+  "results": [
+    { "player": "dave-blanchard", "score": 5513 },
+    { "player": "mark-derrick", "score": 5304 },
+    { "player": "chris-kolenda", "score": 5253 },
+    { "player": "jeremy-vipperman", "score": 4935 },
+    { "player": "mike-bennett", "score": 4311 }
+  ]
+}

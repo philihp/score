@@ -7,7 +7,7 @@ const fs = require('fs')
 
 const players = []
 
-fs.createReadStream(`./matches/18xx/2006-Chattanooga/18xx2006.csv`)
+fs.createReadStream(`./matches/18xx/2008-Chattanooga/18xx2008.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()
@@ -17,7 +17,7 @@ fs.createReadStream(`./matches/18xx/2006-Chattanooga/18xx2006.csv`)
       id: data.id,
       createdAt,
       updatedAt,
-      event: '2005 Chattanooga Rail Gaming Challenge',
+      event: '2008 Chattanooga Rail Gaming Challenge',
       description: data.game,
       location: 'Country Suites, Chattanooga, Tennessee',
       director: 'mark-derrick',
@@ -94,7 +94,7 @@ fs.createReadStream(`./matches/18xx/2006-Chattanooga/18xx2006.csv`)
       dat.results = []
     }
     fs.writeFileSync(
-      `matches/18xx/2006-Chattanooga/${data.id}.json`,
+      `matches/18xx/2008-Chattanooga/${data.id}.json`,
       JSON.stringify(dat)
     )
   })

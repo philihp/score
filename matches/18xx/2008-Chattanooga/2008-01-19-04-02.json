@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-04-02",
+  "createdAt": "2008-01-19T14:00:00.000Z",
+  "updatedAt": "2008-01-19T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18West",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "chris-kolenda",
+    "john-jones",
+    "jeremy-vipperman",
+    "mike-bennett",
+    "rick-westerman"
+  ],
+  "results": [
+    { "player": "jeremy-vipperman", "score": 8178 },
+    { "player": "chris-kolenda", "score": 7705 },
+    { "player": "john-jones", "score": 7619 },
+    { "player": "mike-bennett", "score": 7238 },
+    { "player": "rick-westerman", "score": 6872 }
+  ]
+}
