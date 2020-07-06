@@ -5,10 +5,10 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18NEB",
   "game": "18xx",
-  "players": ["pierre-lebouf", "joe-gray", "william-gallagher"],
+  "players": ["pierre-leboeuf", "joe-gray", "william-gallagher"],
   "results": [
     { "player": "joe-gray", "score": 5167 },
     { "player": "william-gallagher", "score": 4959 },
-    { "player": "pierre-lebouf", "score": 4804 }
+    { "player": "pierre-leboeuf", "score": 4804 }
   ]
 }

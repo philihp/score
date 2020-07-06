@@ -9,13 +9,13 @@
     "william-gallagher",
     "ken-boucher",
     "stephen-yu",
-    "pierre-lebouf",
+    "pierre-leboeuf",
     "rick-dutton"
   ],
   "results": [
     { "player": "ken-boucher", "score": 5776 },
     { "player": "stephen-yu", "score": 5706 },
-    { "player": "pierre-lebouf", "score": 5560 },
+    { "player": "pierre-leboeuf", "score": 5560 },
     { "player": "rick-dutton", "score": 5084 },
     { "player": "william-gallagher", "score": 3831 }
   ]

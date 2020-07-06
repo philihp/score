@@ -5,9 +5,9 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "18NY",
   "game": "18xx",
-  "players": ["pierre-lebouf", "jonathan-flagg", "mike-monical"],
+  "players": ["pierre-leboeuf", "jonathan-flagg", "mike-monical"],
   "results": [
-    { "player": "pierre-lebouf", "score": 8063 },
+    { "player": "pierre-leboeuf", "score": 8063 },
     { "player": "mike-monical", "score": 7048 },
     { "player": "jonathan-flagg", "score": 6438 }
   ]

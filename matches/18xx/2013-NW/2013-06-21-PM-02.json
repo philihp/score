@@ -5,11 +5,11 @@
   "location": "22nd Annual Portland 18xx Convention",
   "description": "1861",
   "game": "18xx",
-  "players": ["pierre-lebouf", "jonathan-work", "ken-boucher", "rick-dutton"],
+  "players": ["pierre-leboeuf", "jonathan-work", "ken-boucher", "rick-dutton"],
   "results": [
     { "player": "ken-boucher", "score": 7812 },
     { "player": "jonathan-work", "score": 7044 },
     { "player": "rick-dutton", "score": 6484 },
-    { "player": "pierre-lebouf", "score": 6173 }
+    { "player": "pierre-leboeuf", "score": 6173 }
   ]
 }
