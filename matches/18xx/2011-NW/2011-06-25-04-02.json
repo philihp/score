@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-25-04-02",
+  "createdAt": "2011-06-25T16:00:00.000Z",
+  "updatedAt": "2011-06-25T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1834",
+  "game": "18xx",
+  "players": ["sean-king", "jason-ley", "dave-blanchard", "rick-westerman"],
+  "results": [
+    { "player": "dave-blanchard", "score": 11598 },
+    { "player": "rick-westerman", "score": 11567 },
+    { "player": "jason-ley", "score": 10144 },
+    { "player": "sean-king", "score": 7575 }
+  ]
+}

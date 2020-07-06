@@ -1,0 +1,22 @@
+{
+  "id": "2011-06-24-03-04",
+  "createdAt": "2011-06-25T02:00:00.000Z",
+  "updatedAt": "2011-06-25T02:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1837",
+  "game": "18xx",
+  "players": [
+    "chris-shaffer",
+    "johnathan-work",
+    "ken-boucher",
+    "eric",
+    "paul-work"
+  ],
+  "results": [
+    { "player": "eric", "score": 2611 },
+    { "player": "johnathan-work", "score": 2196 },
+    { "player": "ken-boucher", "score": 2168 },
+    { "player": "chris-shaffer", "score": 2158 },
+    { "player": "paul-work", "score": 2141 }
+  ]
+}

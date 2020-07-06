@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-24-03-01",
+  "createdAt": "2011-06-25T02:00:00.000Z",
+  "updatedAt": "2011-06-25T02:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1846",
+  "game": "18xx",
+  "players": ["david-blanchard", "aliza-panitz", "sean-king", "david-simmon"],
+  "results": [
+    { "player": "david-blanchard", "score": 8977 },
+    { "player": "sean-king", "score": 7355 },
+    { "player": "david-simmon", "score": 6550 },
+    { "player": "aliza-panitz", "score": 6275 }
+  ]
+}

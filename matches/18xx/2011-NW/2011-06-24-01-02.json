@@ -1,0 +1,26 @@
+{
+  "id": "2011-06-24-01-02",
+  "createdAt": "2011-06-24T16:00:00.000Z",
+  "updatedAt": "2011-06-24T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1817",
+  "game": "18xx",
+  "players": [
+    "john-tamplin",
+    "jeanette-allen",
+    "dave-blanchard",
+    "chris-schaffer",
+    "jeff-heuer",
+    "ken-boucher",
+    "aliza-panitz"
+  ],
+  "results": [
+    { "player": "dave-blanchard", "score": 2150 },
+    { "player": "ken-boucher", "score": 1610 },
+    { "player": "chris-schaffer", "score": 1310 },
+    { "player": "aliza-panitz", "score": 670 },
+    { "player": "jeanette-allen", "score": 660 },
+    { "player": "jeff-heuer", "score": 580 },
+    { "player": "john-tamplin", "score": 520 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-25-04-04",
+  "createdAt": "2011-06-25T16:00:00.000Z",
+  "updatedAt": "2011-06-25T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1844",
+  "game": "18xx",
+  "players": ["ken-boucher", "rich-atwater", "andrew-nisbet", "tyler-harvey"],
+  "results": [
+    { "player": "ken-boucher", "score": 7582 },
+    { "player": "tyler-harvey", "score": 7155 },
+    { "player": "rich-atwater", "score": 6869 },
+    { "player": "andrew-nisbet", "score": 5178 }
+  ]
+}

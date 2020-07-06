@@ -1,0 +1,24 @@
+{
+  "id": "2011-06-24-01-03",
+  "createdAt": "2011-06-24T16:00:00.000Z",
+  "updatedAt": "2011-06-24T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1880",
+  "game": "18xx",
+  "players": [
+    "scott",
+    "mike-monical",
+    "tyler-harvey",
+    "eric",
+    "andrew-nisbet",
+    "david-hecht"
+  ],
+  "results": [
+    { "player": "eric", "score": 5418 },
+    { "player": "tyler-harvey", "score": 5163 },
+    { "player": "mike-monical", "score": 4779 },
+    { "player": "andrew-nisbet", "score": 4351 },
+    { "player": "scott", "score": 3928 },
+    { "player": "david-hecht", "score": 3167 }
+  ]
+}
