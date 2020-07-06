@@ -1,0 +1,23 @@
+{
+  "id": "2012-06-22-02-03",
+  "createdAt": "2012-06-22T21:00:00.000Z",
+  "updatedAt": "2012-06-22T21:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "18IN",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "todd-vanderpluym",
+    "paul-work",
+    "mark-geary",
+    "ken-boucher",
+    "mike-monical"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 3691 },
+    { "player": "mark-geary", "score": 3206 },
+    { "player": "ken-boucher", "score": 2826 },
+    { "player": "mike-monical", "score": 2364 },
+    { "player": "paul-work", "score": 1452 }
+  ]
+}

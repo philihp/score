@@ -1,0 +1,23 @@
+{
+  "id": "2012-06-22-01-04",
+  "createdAt": "2012-06-22T16:00:00.000Z",
+  "updatedAt": "2012-06-22T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1830",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "jonathan-anderson",
+    "eric-flood",
+    "mark-geary",
+    "steve-wambler",
+    "steve-yu"
+  ],
+  "results": [
+    { "player": "jonathan-anderson", "score": 1437 },
+    { "player": "eric-flood", "score": 1324 },
+    { "player": "mark-geary", "score": 962 },
+    { "player": "steve-wambler", "score": 120 },
+    { "player": "steve-yu", "score": null }
+  ]
+}

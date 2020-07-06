@@ -1,0 +1,15 @@
+{
+  "id": "2012-06-22-02-04",
+  "createdAt": "2012-06-22T21:00:00.000Z",
+  "updatedAt": "2012-06-22T21:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1860",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": ["christopher-roa", "eric-flood", "jeff-heuer"],
+  "results": [
+    { "player": "eric-flood", "score": 7253 },
+    { "player": "christopher-roa", "score": 6225 },
+    { "player": "jeff-heuer", "score": 3779 }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2012-06-22-03-03",
+  "createdAt": "2012-06-23T02:00:00.000Z",
+  "updatedAt": "2012-06-23T02:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1835",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "todd-vanderpluym",
+    "paul-work",
+    "eric-flood",
+    "jonathan-work",
+    "paul-work"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 5734 },
+    { "player": "paul-work", "score": 5085 },
+    { "player": "eric-flood", "score": 4952 },
+    { "player": "jonathan-work", "score": 4263 },
+    { "player": "paul-work", "score": 3698 }
+  ]
+}

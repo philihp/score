@@ -1,0 +1,23 @@
+{
+  "id": "2012-06-22-01-02",
+  "createdAt": "2012-06-22T16:00:00.000Z",
+  "updatedAt": "2012-06-22T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1880",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "chris-schaffer",
+    "todd-vanderpluym",
+    "david-simmons",
+    "tyler-harvey",
+    "steve-yu"
+  ],
+  "results": [
+    { "player": "chris-schaffer", "score": 6998 },
+    { "player": "todd-vanderpluym", "score": 6826 },
+    { "player": "steve-yu", "score": 6204 },
+    { "player": "david-simmons", "score": 6112 },
+    { "player": "tyler-harvey", "score": 5399 }
+  ]
+}

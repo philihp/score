@@ -7,7 +7,7 @@ const fs = require('fs')
 
 const players = []
 
-fs.createReadStream(`./matches/18xx/2011-NW/18xx2011.csv`)
+fs.createReadStream(`./matches/18xx/2012-West/18xx2012.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()
@@ -17,8 +17,9 @@ fs.createReadStream(`./matches/18xx/2011-NW/18xx2011.csv`)
       id: data.id,
       createdAt,
       updatedAt,
-      event: 'NW Rail Gaming Tournament 2011',
+      event: 'West Coast 18xx Tournament, 2012',
       description: data.game,
+      location: 'Portland Oregon',
       // director: 'mark-derrick',
       game: '18xx',
       players: [],
@@ -93,7 +94,7 @@ fs.createReadStream(`./matches/18xx/2011-NW/18xx2011.csv`)
       dat.results = []
     }
     fs.writeFileSync(
-      `matches/18xx/2011-NW/${data.id}.json`,
+      `matches/18xx/2012-West/${data.id}.json`,
       JSON.stringify(dat)
     )
   })

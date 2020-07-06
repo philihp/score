@@ -1,0 +1,21 @@
+{
+  "id": "2012-06-23-06-01",
+  "createdAt": "2012-06-24T02:00:00.000Z",
+  "updatedAt": "2012-06-24T02:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1841",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "ken-boucher",
+    "david-simmons",
+    "dave-blanchard",
+    "todd-vanderpluym"
+  ],
+  "results": [
+    { "player": "ken-boucher", "score": 9766 },
+    { "player": "david-simmons", "score": 8185 },
+    { "player": "dave-blanchard", "score": 5916 },
+    { "player": "todd-vanderpluym", "score": 0 }
+  ]
+}

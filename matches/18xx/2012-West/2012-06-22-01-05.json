@@ -1,0 +1,16 @@
+{
+  "id": "2012-06-22-01-05",
+  "createdAt": "2012-06-22T16:00:00.000Z",
+  "updatedAt": "2012-06-22T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1870",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": ["jonathan-flagg", "paul-work", "dave-blanchard", "jonathan-work"],
+  "results": [
+    { "player": "dave-blanchard", "score": 7973 },
+    { "player": "jonathan-work", "score": 6759 },
+    { "player": "paul-work", "score": 6497 },
+    { "player": "jonathan-flagg", "score": 6115 }
+  ]
+}
