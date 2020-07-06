@@ -9,7 +9,7 @@
   "game": "18xx",
   "players": [
     "gary-norton",
-    "todd-vander-pluym",
+    "todd-vanderpluym",
     "stephen-webb",
     "anthony-carver",
     "mike-monical"
@@ -17,7 +17,7 @@
   "results": [
     { "player": "anthony-carver", "score": 6732 },
     { "player": "gary-norton", "score": 6270 },
-    { "player": "todd-vander-pluym", "score": 5471 },
+    { "player": "todd-vanderpluym", "score": 5471 },
     { "player": "mike-monical", "score": 5464 },
     { "player": "stephen-webb", "score": 4500 }
   ]

@@ -8,14 +8,14 @@
   "director": "mark-derrick",
   "game": "18xx",
   "players": [
-    "todd-vander-pluym",
+    "todd-vanderpluym",
     "mike-coyne",
     "tim-flowers",
     "craig-bartell",
     "dale-maxwell"
   ],
   "results": [
-    { "player": "todd-vander-pluym", "score": 7606 },
+    { "player": "todd-vanderpluym", "score": 7606 },
     { "player": "mike-coyne", "score": 7549 },
     { "player": "tim-flowers", "score": 7095 },
     { "player": "craig-bartell", "score": 5850 },

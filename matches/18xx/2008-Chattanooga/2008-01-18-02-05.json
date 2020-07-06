@@ -9,14 +9,14 @@
   "game": "18xx",
   "players": [
     "peter-eldridge",
-    "todd-vander-pluym",
+    "todd-vanderpluym",
     "dick-northey",
     "jeremy-vipperman",
     "paul-hakken"
   ],
   "results": [
     { "player": "jeremy-vipperman", "score": 5911 },
-    { "player": "todd-vander-pluym", "score": 5745 },
+    { "player": "todd-vanderpluym", "score": 5745 },
     { "player": "peter-eldridge", "score": 5157 },
     { "player": "dick-northey", "score": 4640 },
     { "player": "paul-hakken", "score": 3695 }

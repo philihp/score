@@ -8,14 +8,14 @@
   "director": "mark-derrick",
   "game": "18xx",
   "players": [
-    "todd-vander-pluym",
+    "todd-vanderpluym",
     "dale-maxwell",
     "christoper-rivera",
     "joe-gray",
     "jeanette-allen"
   ],
   "results": [
-    { "player": "todd-vander-pluym", "score": 10352 },
+    { "player": "todd-vanderpluym", "score": 10352 },
     { "player": "dale-maxwell", "score": 8713 },
     { "player": "christoper-rivera", "score": 7699 },
     { "player": "joe-gray", "score": 7311 },
