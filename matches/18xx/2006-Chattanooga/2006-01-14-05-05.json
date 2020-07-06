@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-14-05-05",
+  "createdAt": "2006-01-14T21:00:00.000Z",
+  "updatedAt": "2006-01-14T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18Scan",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "david-hecht",
+    "alex-sheldon",
+    "jon-kwiatkowski",
+    "russel-decastongrene"
+  ],
+  "results": [
+    { "player": "david-hecht", "score": 4089 },
+    { "player": "alex-sheldon", "score": 3975 },
+    { "player": "jon-kwiatkowski", "score": 3174 },
+    { "player": "russel-decastongrene", "score": 2392 }
+  ]
+}

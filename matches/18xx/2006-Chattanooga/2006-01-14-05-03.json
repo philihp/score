@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-14-05-03",
+  "createdAt": "2006-01-14T21:00:00.000Z",
+  "updatedAt": "2006-01-14T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18EU",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "jeff-heuer",
+    "mark-geary",
+    "jeanette-allen",
+    "rick-westerman",
+    "paul-hakken"
+  ],
+  "results": [
+    { "player": "jeff-heuer", "score": 7802 },
+    { "player": "mark-geary", "score": 6912 },
+    { "player": "jeanette-allen", "score": 6065 },
+    { "player": "rick-westerman", "score": 5896 },
+    { "player": "paul-hakken", "score": 1140 }
+  ]
+}

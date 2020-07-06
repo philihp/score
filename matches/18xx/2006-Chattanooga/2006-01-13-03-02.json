@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-13-03-02",
+  "createdAt": "2006-01-14T02:00:00.000Z",
+  "updatedAt": "2006-01-14T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18Scan",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["craig-bartell", "david-snyder", "mike-bennett"],
+  "results": [
+    { "player": "craig-bartell", "score": 5255 },
+    { "player": "david-snyder", "score": 4244 },
+    { "player": "mike-bennett", "score": 3659 }
+  ]
+}

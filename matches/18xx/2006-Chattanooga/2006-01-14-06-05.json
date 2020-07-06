@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-14-06-05",
+  "createdAt": "2006-01-15T02:00:00.000Z",
+  "updatedAt": "2006-01-15T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1826",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "peter-eldridge",
+    "jeff-heuer",
+    "jeremy-vipperman",
+    "charles-beattie"
+  ],
+  "results": [
+    { "player": "peter-eldridge", "score": 10970 },
+    { "player": "jeff-heuer", "score": 10071 },
+    { "player": "jeremy-vipperman", "score": 9950 },
+    { "player": "charles-beattie", "score": 8663 }
+  ]
+}

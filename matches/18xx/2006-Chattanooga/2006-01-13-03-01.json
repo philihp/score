@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-13-03-01",
+  "createdAt": "2006-01-14T02:00:00.000Z",
+  "updatedAt": "2006-01-14T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18EU",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "anthony-carver",
+    "barrington-beavis",
+    "mike-melanson",
+    "ken-gutermuth"
+  ],
+  "results": [
+    { "player": "anthony-carver", "score": 7131 },
+    { "player": "barrington-beavis", "score": 6670 },
+    { "player": "mike-melanson", "score": 6223 },
+    { "player": "ken-gutermuth", "score": 4738 }
+  ]
+}

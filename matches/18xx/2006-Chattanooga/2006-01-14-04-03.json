@@ -1,0 +1,17 @@
+{
+  "id": "2006-01-14-04-03",
+  "createdAt": "2006-01-14T16:00:00.000Z",
+  "updatedAt": "2006-01-14T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1846",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["simon-craddock", "dale-maxfield", "gary-mroczka", "john-jones"],
+  "results": [
+    { "player": "simon-craddock", "score": 6289 },
+    { "player": "dale-maxfield", "score": 6214 },
+    { "player": "gary-mroczka", "score": 4967 },
+    { "player": "john-jones", "score": 4932 }
+  ]
+}

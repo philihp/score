@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-13-02-04",
+  "createdAt": "2006-01-13T21:00:00.000Z",
+  "updatedAt": "2006-01-13T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1846",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "ken-gutermuth",
+    "mike-melanson",
+    "john-jones",
+    "jeanette-allen",
+    "mark-geary"
+  ],
+  "results": [
+    { "player": "ken-gutermuth", "score": 7012 },
+    { "player": "mike-melanson", "score": 6069 },
+    { "player": "john-jones", "score": 5650 },
+    { "player": "jeanette-allen", "score": 5379 },
+    { "player": "mark-geary", "score": 4260 }
+  ]
+}

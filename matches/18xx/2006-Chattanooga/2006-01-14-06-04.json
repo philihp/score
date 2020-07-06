@@ -1,0 +1,17 @@
+{
+  "id": "2006-01-14-06-04",
+  "createdAt": "2006-01-15T02:00:00.000Z",
+  "updatedAt": "2006-01-15T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18Mex",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["paul-hakken", "ken-gutermuth", "craig-bartell", "john-jones"],
+  "results": [
+    { "player": "paul-hakken", "score": 5612 },
+    { "player": "ken-gutermuth", "score": 5277 },
+    { "player": "craig-bartell", "score": 4515 },
+    { "player": "john-jones", "score": 3592 }
+  ]
+}

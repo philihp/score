@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-14-05-06",
+  "createdAt": "2006-01-14T21:00:00.000Z",
+  "updatedAt": "2006-01-14T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1856",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "barrington-beavis",
+    "steve-haugse",
+    "simon-craddock",
+    "don-chinnery"
+  ],
+  "results": [
+    { "player": "barrington-beavis", "score": 9944 },
+    { "player": "steve-haugse", "score": 9164 },
+    { "player": "simon-craddock", "score": 8890 },
+    { "player": "don-chinnery", "score": 7333 }
+  ]
+}

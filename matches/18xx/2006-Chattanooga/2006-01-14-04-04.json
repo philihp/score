@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-14-04-04",
+  "createdAt": "2006-01-14T16:00:00.000Z",
+  "updatedAt": "2006-01-14T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1841",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "charles-beattie",
+    "jeremy-vipperman",
+    "john-tamplin",
+    "mike-monical"
+  ],
+  "results": [
+    { "player": "charles-beattie", "score": 7507 },
+    { "player": "jeremy-vipperman", "score": 7229 },
+    { "player": "john-tamplin", "score": 6834 },
+    { "player": "mike-monical", "score": 4722 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-15-07-04",
+  "createdAt": "2006-01-15T16:00:00.000Z",
+  "updatedAt": "2006-01-15T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1826",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["barrington-beavis", "ken-gutermuth", "david-snyder"],
+  "results": [
+    { "player": "barrington-beavis", "score": 11245 },
+    { "player": "ken-gutermuth", "score": 10390 },
+    { "player": "david-snyder", "score": 9726 }
+  ]
+}

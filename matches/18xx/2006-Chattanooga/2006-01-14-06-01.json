@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-14-06-01",
+  "createdAt": "2006-01-15T02:00:00.000Z",
+  "updatedAt": "2006-01-15T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1850",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "brian-wilson",
+    "brian-yeomans",
+    "john-tamplin",
+    "mike-bennett",
+    "bryan-johnson"
+  ],
+  "results": [
+    { "player": "brian-wilson", "score": 6533 },
+    { "player": "brian-yeomans", "score": 6329 },
+    { "player": "john-tamplin", "score": 6259 },
+    { "player": "mike-bennett", "score": 5996 },
+    { "player": "bryan-johnson", "score": 5580 }
+  ]
+}
