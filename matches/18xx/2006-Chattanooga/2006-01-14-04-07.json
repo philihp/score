@@ -1,0 +1,17 @@
+{
+  "id": "2006-01-14-04-07",
+  "createdAt": "2006-01-14T16:00:00.000Z",
+  "updatedAt": "2006-01-14T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18FL",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["jeff-heuer", "don-chinnery", "jeanette-allen", "mark-geary"],
+  "results": [
+    { "player": "jeff-heuer", "score": 5653 },
+    { "player": "don-chinnery", "score": 5194 },
+    { "player": "jeanette-allen", "score": 4849 },
+    { "player": "mark-geary", "score": 4269 }
+  ]
+}

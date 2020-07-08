@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-20-02-01",
+  "createdAt": "2008-06-20T20:45:00.000Z",
+  "updatedAt": "2008-06-20T23:30:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1851",
+  "game": "18xx",
+  "players": ["rich-atwater", "ron-sapolsky", "phil-bradley", "jackson-cross"],
+  "results": [
+    { "player": "ron-sapolsky", "score": 6068 },
+    { "player": "phil-bradley", "score": 5397 },
+    { "player": "rich-atwater", "score": 5114 },
+    { "player": "jackson-cross", "score": 4133 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-13-01-07",
+  "createdAt": "2006-01-13T15:00:00.000Z",
+  "updatedAt": "2006-01-13T15:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1870",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["mike-monical", "charles-beattie", "steve-haugse"],
+  "results": [
+    { "player": "mike-monical", "score": 7738 },
+    { "player": "steve-haugse", "score": 5745 },
+    { "player": "charles-beattie", "score": 5675 }
+  ]
+}

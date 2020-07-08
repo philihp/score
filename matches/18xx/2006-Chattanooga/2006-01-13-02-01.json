@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-13-02-01",
+  "createdAt": "2006-01-13T21:00:00.000Z",
+  "updatedAt": "2006-01-13T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1856",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "gary-mroczka",
+    "paul-hakken",
+    "joe-gundersen",
+    "brian-yeomans",
+    "bryan-johnson"
+  ],
+  "results": [
+    { "player": "gary-mroczka", "score": 8353 },
+    { "player": "paul-hakken", "score": 7585 },
+    { "player": "joe-gundersen", "score": 7131 },
+    { "player": "brian-yeomans", "score": 6982 },
+    { "player": "bryan-johnson", "score": 6589 }
+  ]
+}

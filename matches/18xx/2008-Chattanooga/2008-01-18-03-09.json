@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-18-03-09",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1850",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "todd-vanderpluym",
+    "dale-maxwell",
+    "christoper-rivera",
+    "joe-gray",
+    "jeanette-allen"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 10352 },
+    { "player": "dale-maxwell", "score": 8713 },
+    { "player": "christoper-rivera", "score": 7699 },
+    { "player": "joe-gray", "score": 7311 },
+    { "player": "jeanette-allen", "score": 7256 }
+  ]
+}

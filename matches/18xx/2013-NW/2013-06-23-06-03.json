@@ -1,0 +1,20 @@
+{
+  "id": "2013-06-23-06-03",
+  "createdAt": "2013-06-23T01:00:00.000Z",
+  "updatedAt": "2013-06-23T06:20:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1870",
+  "game": "18xx",
+  "players": [
+    "david-lease",
+    "jonathan-work",
+    "todd-vanderpluym",
+    "jonathan-flagg"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 9693 },
+    { "player": "jonathan-flagg", "score": 6800 },
+    { "player": "david-lease", "score": 6630 },
+    { "player": "jonathan-work", "score": 5068 }
+  ]
+}

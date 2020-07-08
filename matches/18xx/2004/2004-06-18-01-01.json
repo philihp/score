@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-18-01-01",
+  "createdAt": "2004-06-18T15:00:00.000Z",
+  "updatedAt": "2004-06-18T20:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1826",
+  "game": "18xx",
+  "players": ["chris-kolenda", "jim-mcdanold", "phil-bradley", "ian-booth"],
+  "results": [
+    { "player": "chris-kolenda", "score": 7681 },
+    { "player": "jim-mcdanold", "score": 7180 },
+    { "player": "phil-bradley", "score": 6750 },
+    { "player": "ian-booth", "score": 6563 }
+  ]
+}

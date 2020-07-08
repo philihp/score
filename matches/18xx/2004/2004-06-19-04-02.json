@@ -1,0 +1,22 @@
+{
+  "id": "2004-06-19-04-02",
+  "createdAt": "2004-06-19T16:20:00.000Z",
+  "updatedAt": "2004-06-19T21:15:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1841",
+  "game": "18xx",
+  "players": [
+    "tristan-jenkins",
+    "jeremy-vipperman",
+    "james-robinson",
+    "chris-kolenda",
+    "mark-derrick"
+  ],
+  "results": [
+    { "player": "tristan-jenkins", "score": 7636 },
+    { "player": "jeremy-vipperman", "score": 6642 },
+    { "player": "james-robinson", "score": 6256 },
+    { "player": "chris-kolenda", "score": 5518 },
+    { "player": "mark-derrick", "score": 3649 }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2006-01-13-02-06",
+  "createdAt": "2006-01-13T21:00:00.000Z",
+  "updatedAt": "2006-01-13T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1829-Mainline",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "peter-eldridge",
+    "jeremy-vipperman",
+    "ian-both",
+    "barrington-beavis",
+    "simon-craddock",
+    "mark-derrick"
+  ],
+  "results": [
+    { "player": "peter-eldridge", "score": 6327 },
+    { "player": "jeremy-vipperman", "score": 6213 },
+    { "player": "ian-both", "score": 6211 },
+    { "player": "barrington-beavis", "score": 5893 },
+    { "player": "simon-craddock", "score": 5772 },
+    { "player": "mark-derrick", "score": 5668 }
+  ]
+}

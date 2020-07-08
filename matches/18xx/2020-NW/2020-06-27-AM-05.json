@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-27-AM-05",
+  "createdAt": "2020-05-27T15:30:00.000Z",
+  "updatedAt": "2020-05-27T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1822MRS",
+  "game": "18xx",
+  "players": [
+    "mike-brumm",
+    "greg-clayton",
+    "adam-mcdiarmid",
+    "jon-draper",
+    "jeff-heuer"
+  ],
+  "results": [
+    { "player": "jon-draper", "score": 8703 },
+    { "player": "mike-brumm", "score": 6561 },
+    { "player": "adam-mcdiarmid", "score": 5802 },
+    { "player": "jeff-heuer", "score": 5614 },
+    { "player": "greg-clayton", "score": 5469 }
+  ]
+}

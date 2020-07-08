@@ -1,0 +1,15 @@
+{
+  "id": "2010-01-17-08-01",
+  "createdAt": "2010-01-17T21:00:00.000Z",
+  "updatedAt": "2010-01-17T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1846",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["jeremy-v", "pierre-leboeuf", "lisa"],
+  "results": [
+    { "player": "jeremy-v", "score": 9369 },
+    { "player": "lisa", "score": 9046 },
+    { "player": "pierre-leboeuf", "score": 8976 }
+  ]
+}

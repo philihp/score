@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-18-02-01",
+  "createdAt": "2004-06-18T20:45:00.000Z",
+  "updatedAt": "2004-06-18T23:30:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1851",
+  "game": "18xx",
+  "players": ["ron-sapolsky", "phil-bradley", "andrew-nisbet", "john-galt"],
+  "results": [
+    { "player": "ron-sapolsky", "score": 5631 },
+    { "player": "phil-bradley", "score": 4494 },
+    { "player": "andrew-nisbet", "score": 4200 },
+    { "player": "john-galt", "score": 3882 }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2004-06-18-01-03",
+  "createdAt": "2004-06-18T15:00:00.000Z",
+  "updatedAt": "2004-06-18T20:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1826",
+  "game": "18xx",
+  "players": [
+    "james-robinson",
+    "ron-sapolsky",
+    "jeremy-vipperman",
+    "doug-walker"
+  ],
+  "results": [
+    { "player": "james-robinson", "score": 10961 },
+    { "player": "ron-sapolsky", "score": 9569 },
+    { "player": "jeremy-vipperman", "score": 8373 },
+    { "player": "doug-walker", "score": 8305 }
+  ]
+}

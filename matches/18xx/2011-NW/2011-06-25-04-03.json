@@ -1,0 +1,22 @@
+{
+  "id": "2011-06-25-04-03",
+  "createdAt": "2011-06-25T16:00:00.000Z",
+  "updatedAt": "2011-06-25T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1844",
+  "game": "18xx",
+  "players": [
+    "david-hecht",
+    "john-tamplin",
+    "jeanette-allen",
+    "jeff-heuer",
+    "david-simmons"
+  ],
+  "results": [
+    { "player": "david-hecht", "score": 6407 },
+    { "player": "john-tamplin", "score": 6118 },
+    { "player": "jeanette-allen", "score": 5852 },
+    { "player": "david-simmons", "score": 5648 },
+    { "player": "jeff-heuer", "score": 5111 }
+  ]
+}

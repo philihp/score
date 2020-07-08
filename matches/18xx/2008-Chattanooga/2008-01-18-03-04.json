@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-18-03-04",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18US",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "dave-lionett",
+    "dick-northey",
+    "gary-norton",
+    "jon-kwiatkowski",
+    "allen-stancius"
+  ],
+  "results": [
+    { "player": "gary-norton", "score": 4766 },
+    { "player": "dave-lionett", "score": 4393 },
+    { "player": "jon-kwiatkowski", "score": 4261 },
+    { "player": "dick-northey", "score": 3785 },
+    { "player": "allen-stancius", "score": 2957 }
+  ]
+}

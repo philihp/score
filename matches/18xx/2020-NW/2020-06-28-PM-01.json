@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-28-PM-01",
+  "createdAt": "2020-05-28T23:30:00.000Z",
+  "updatedAt": "2020-05-28T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Chesapeake",
+  "game": "18xx",
+  "players": [
+    "philihp-busby",
+    "paul-work",
+    "deniz-bucak",
+    "dave-blanchard",
+    "kelly-krieble"
+  ],
+  "results": [
+    { "player": "paul-work", "score": 5459 },
+    { "player": "philihp-busby", "score": 5365 },
+    { "player": "dave-blanchard", "score": 4921 },
+    { "player": "deniz-bucak", "score": 4916 },
+    { "player": "kelly-krieble", "score": 4904 }
+  ]
+}

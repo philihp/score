@@ -1,0 +1,26 @@
+{
+  "id": "2008-01-18-01-04",
+  "createdAt": "2008-01-18T13:00:00.000Z",
+  "updatedAt": "2008-01-18T13:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1841",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "mark-derrick",
+    "ken-gutermuth",
+    "simon-craddock",
+    "jim-mcdanold",
+    "allen-stancius",
+    "ricky-gray"
+  ],
+  "results": [
+    { "player": "mark-derrick", "score": 7368 },
+    { "player": "ken-gutermuth", "score": 7160 },
+    { "player": "simon-craddock", "score": 6753 },
+    { "player": "jim-mcdanold", "score": 5016 },
+    { "player": "allen-stancius", "score": 4263 },
+    { "player": "ricky-gray", "score": 1454 }
+  ]
+}

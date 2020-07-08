@@ -1,0 +1,16 @@
+{
+  "id": "2012-06-22-01-03",
+  "createdAt": "2012-06-22T16:00:00.000Z",
+  "updatedAt": "2012-06-22T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1865",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": ["bruce-beard", "paul-work", "bill-gallagher", "ken-boucher"],
+  "results": [
+    { "player": "bruce-beard", "score": 7917 },
+    { "player": "ken-boucher", "score": 5643 },
+    { "player": "paul-work", "score": 5285 },
+    { "player": "bill-gallagher", "score": 4862 }
+  ]
+}

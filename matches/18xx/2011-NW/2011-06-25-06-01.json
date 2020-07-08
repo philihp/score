@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-25-06-01",
+  "createdAt": "2011-06-26T02:00:00.000Z",
+  "updatedAt": "2011-06-26T02:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "18West",
+  "game": "18xx",
+  "players": ["dave-blanchard", "ken-boucher", "andrew-nisbet", "tyler-harvey"],
+  "results": [
+    { "player": "andrew-nisbet", "score": 9720 },
+    { "player": "dave-blanchard", "score": 9570 },
+    { "player": "ken-boucher", "score": 9561 },
+    { "player": "tyler-harvey", "score": 8331 }
+  ]
+}

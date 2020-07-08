@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-14-04-08",
+  "createdAt": "2006-01-14T16:00:00.000Z",
+  "updatedAt": "2006-01-14T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18GL",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["brian-wilson", "bryan-johnson", "brian-yeomans"],
+  "results": [
+    { "player": "brian-wilson", "score": 10576 },
+    { "player": "bryan-johnson", "score": 9999 },
+    { "player": "brian-yeomans", "score": 9598 }
+  ]
+}

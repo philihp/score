@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-23-06-04",
+  "createdAt": "2013-06-23T01:00:00.000Z",
+  "updatedAt": "2013-06-23T01:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NY",
+  "game": "18xx",
+  "players": [
+    "pierre-leboeuf",
+    "allen-stanicus",
+    "bruce-beard",
+    "gary-norton",
+    "rick-dutton"
+  ],
+  "results": [
+    { "player": "rick-dutton", "score": 12385 },
+    { "player": "bruce-beard", "score": 11991 },
+    { "player": "pierre-leboeuf", "score": 7923 },
+    { "player": "allen-stanicus", "score": 7516 },
+    { "player": "gary-norton", "score": 3317 }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2008-06-21-05-01",
+  "createdAt": "2008-06-21T21:30:00.000Z",
+  "updatedAt": "2008-06-22T00:50:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "johnathan-flagg",
+    "mike-monical",
+    "allen-sancious",
+    "cameron-cross",
+    "paul-work"
+  ],
+  "results": [
+    { "player": "mike-monical", "score": 2007 },
+    { "player": "johnathan-flagg", "score": 1873 },
+    { "player": "paul-work", "score": 1851 },
+    { "player": "allen-sancious", "score": 1521 },
+    { "player": "cameron-cross", "score": 993 }
+  ]
+}

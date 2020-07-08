@@ -1,0 +1,24 @@
+{
+  "id": "2020-06-26-AM-04",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1880",
+  "game": "18xx",
+  "players": [
+    "michael-alexander",
+    "kelly-krieble",
+    "mike-shaver",
+    "scott-ellis",
+    "derek-yeung",
+    "jon-draper"
+  ],
+  "results": [
+    { "player": "derek-yeung", "score": 6248 },
+    { "player": "jon-draper", "score": 6049 },
+    { "player": "kelly-krieble", "score": 5543 },
+    { "player": "michael-alexander", "score": 4303 },
+    { "player": "mike-shaver", "score": 3645 },
+    { "player": "scott-ellis", "score": 3427 }
+  ]
+}

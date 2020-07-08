@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-20-07-07",
+  "createdAt": "2008-01-20T14:00:00.000Z",
+  "updatedAt": "2008-01-20T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1856",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "pierre-leboeuf",
+    "paul-hakken",
+    "anthony-carver",
+    "todd-vanderpluym"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 9240 },
+    { "player": "paul-hakken", "score": 8761 },
+    { "player": "anthony-carver", "score": 7263 },
+    { "player": "pierre-leboeuf", "score": 6224 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-25-AM-02",
+  "createdAt": "2020-05-25T15:30:00.000Z",
+  "updatedAt": "2020-05-25T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1822MX",
+  "game": "18xx",
+  "players": ["jonathan-work", "mike-shaver", "derek-yeung", "dave-blanchard"],
+  "results": [
+    { "player": "mike-shaver", "score": 9370 },
+    { "player": "derek-yeung", "score": 8621 },
+    { "player": "jonathan-work", "score": 8104 },
+    { "player": "dave-blanchard", "score": 6362 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2006-01-14-05-04",
+  "createdAt": "2006-01-14T21:00:00.000Z",
+  "updatedAt": "2006-01-14T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18FL",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["craig-bartell", "joe-gundersen", "john-jones", "gary-mroczka"],
+  "results": [
+    { "player": "craig-bartell", "score": 6952 },
+    { "player": "joe-gundersen", "score": 6875 },
+    { "player": "john-jones", "score": 6592 },
+    { "player": "gary-mroczka", "score": 6002 }
+  ]
+}

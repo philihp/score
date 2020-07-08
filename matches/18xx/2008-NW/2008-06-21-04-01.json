@@ -1,0 +1,16 @@
+{
+  "id": "2008-06-21-04-01",
+  "createdAt": "2008-06-21T16:00:00.000Z",
+  "updatedAt": "2008-06-21T23:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18West",
+  "game": "18xx",
+  "players": ["mike-monical", "allen-sancious", "cameron-cross"],
+  "results": [
+    { "player": "mike-monical", "score": 3577 },
+    { "player": "cameron-cross", "score": 2004 },
+    { "player": "allen-sancious", "score": 1191 }
+  ]
+}

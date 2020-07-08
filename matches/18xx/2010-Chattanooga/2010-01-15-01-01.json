@@ -1,0 +1,23 @@
+{
+  "id": "2010-01-15-01-01",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1817",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "craig-bartell",
+    "tim-flowers",
+    "john-jones",
+    "michael-monical",
+    "charlie-beattie"
+  ],
+  "results": [
+    { "player": "craig-bartell", "score": 5407 },
+    { "player": "john-jones", "score": 3821 },
+    { "player": "charlie-beattie", "score": 3681 },
+    { "player": "michael-monical", "score": 3401 },
+    { "player": "tim-flowers", "score": 2657 }
+  ]
+}

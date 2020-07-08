@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-02-01",
+  "createdAt": "2013-06-21T20:45:00.000Z",
+  "updatedAt": "2013-06-21T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1880",
+  "game": "18xx",
+  "players": [
+    "bruce-beard",
+    "david-simmonds",
+    "chris-shaffer",
+    "bruce-beard",
+    "allen-stancius"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 5459 },
+    { "player": "bruce-beard", "score": 4926 },
+    { "player": "david-simmonds", "score": 4462 },
+    { "player": "allen-stancius", "score": 4217 },
+    { "player": "chris-shaffer", "score": 4091 }
+  ]
+}

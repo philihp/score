@@ -1,0 +1,21 @@
+{
+  "id": "2012-06-23-06-02",
+  "createdAt": "2012-06-24T02:00:00.000Z",
+  "updatedAt": "2012-06-24T02:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1830",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "steve-yu",
+    "jonathan-work",
+    "jonathan-anderson",
+    "allen-stancius"
+  ],
+  "results": [
+    { "player": "steve-yu", "score": 3149 },
+    { "player": "jonathan-anderson", "score": 2114 },
+    { "player": "jonathan-work", "score": 1796 },
+    { "player": "allen-stancius", "score": 1452 }
+  ]
+}

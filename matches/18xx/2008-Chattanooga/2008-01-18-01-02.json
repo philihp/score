@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-18-01-02",
+  "createdAt": "2008-01-18T13:00:00.000Z",
+  "updatedAt": "2008-01-18T13:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1832",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "craig-bartell",
+    "tim-flowers",
+    "john-tamplin",
+    "todd-vanderpluym",
+    "dick-northey"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 5667 },
+    { "player": "craig-bartell", "score": 5454 },
+    { "player": "dick-northey", "score": 4873 },
+    { "player": "john-tamplin", "score": 4717 },
+    { "player": "tim-flowers", "score": 4406 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2004-06-20-07-04",
+  "createdAt": "2004-06-20T15:30:00.000Z",
+  "updatedAt": "2004-06-20T15:30:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "2041",
+  "game": "18xx",
+  "players": [
+    "mark-derrick",
+    "dave-blanchard",
+    "phil-bradley",
+    "doug-walker",
+    "andrew-nisbet"
+  ],
+  "results": [
+    { "player": "doug-walker", "score": 3146 },
+    { "player": "andrew-nisbet", "score": 3079 },
+    { "player": "mark-derrick", "score": 2962 },
+    { "player": "dave-blanchard", "score": 2624 },
+    { "player": "phil-bradley", "score": 570 }
+  ]
+}

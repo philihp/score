@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-19-04-01",
+  "createdAt": "2004-06-19T16:00:00.000Z",
+  "updatedAt": "2004-06-19T23:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1841",
+  "game": "18xx",
+  "players": ["ron-sapolsky", "ian-booth", "jim-mcdanold", "john-galt"],
+  "results": [
+    { "player": "ron-sapolsky", "score": 12053 },
+    { "player": "ian-booth", "score": 11509 },
+    { "player": "jim-mcdanold", "score": 7028 },
+    { "player": "john-galt", "score": 0 }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-13-03-04",
+  "createdAt": "2006-01-14T02:00:00.000Z",
+  "updatedAt": "2006-01-14T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1824",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "mike-monical",
+    "simon-craddock",
+    "peter-eldridge",
+    "mark-derrick",
+    "mark-geary"
+  ],
+  "results": [
+    { "player": "mike-monical", "score": 5467 },
+    { "player": "simon-craddock", "score": 4795 },
+    { "player": "peter-eldridge", "score": 4009 },
+    { "player": "mark-derrick", "score": 3910 },
+    { "player": "mark-geary", "score": 3749 }
+  ]
+}

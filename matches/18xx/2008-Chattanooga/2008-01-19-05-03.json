@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-05-03",
+  "createdAt": "2008-01-19T19:00:00.000Z",
+  "updatedAt": "2008-01-19T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18EU",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "gary-norton",
+    "todd-vanderpluym",
+    "stephen-webb",
+    "anthony-carver",
+    "mike-monical"
+  ],
+  "results": [
+    { "player": "anthony-carver", "score": 6732 },
+    { "player": "gary-norton", "score": 6270 },
+    { "player": "todd-vanderpluym", "score": 5471 },
+    { "player": "mike-monical", "score": 5464 },
+    { "player": "stephen-webb", "score": 4500 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2008-01-20-07-01",
+  "createdAt": "2008-01-20T14:00:00.000Z",
+  "updatedAt": "2008-01-20T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18SOH",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["mark-derrick", "joe-gray", "dave-lionett", "mark-geary"],
+  "results": [
+    { "player": "mark-derrick", "score": 3707 },
+    { "player": "joe-gray", "score": 3679 },
+    { "player": "dave-lionett", "score": 3446 },
+    { "player": "mark-geary", "score": 3110 }
+  ]
+}

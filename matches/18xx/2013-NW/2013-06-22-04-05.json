@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-22-04-05",
+  "createdAt": "2013-06-22T16:00:00.000Z",
+  "updatedAt": "2013-06-22T16:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1861",
+  "game": "18xx",
+  "players": ["chris-shaffer", "stephen-yu", "jason-ley", "felix-anderson"],
+  "results": [
+    { "player": "stephen-yu", "score": 8151 },
+    { "player": "felix-anderson", "score": 7434 },
+    { "player": "chris-shaffer", "score": 6321 },
+    { "player": "jason-ley", "score": 5912 }
+  ]
+}

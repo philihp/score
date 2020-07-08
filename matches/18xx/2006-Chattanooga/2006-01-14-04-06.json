@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-14-04-06",
+  "createdAt": "2006-01-14T16:00:00.000Z",
+  "updatedAt": "2006-01-14T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1824",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "anthony-carver",
+    "alex-sheldon",
+    "mike-bennett",
+    "david-hecht",
+    "steve-haugse"
+  ],
+  "results": [
+    { "player": "anthony-carver", "score": 6184 },
+    { "player": "alex-sheldon", "score": 5459 },
+    { "player": "mike-bennett", "score": 5456 },
+    { "player": "david-hecht", "score": 5274 },
+    { "player": "steve-haugse", "score": 4648 }
+  ]
+}

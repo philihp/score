@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-06-05",
+  "createdAt": "2010-01-17T02:00:00.000Z",
+  "updatedAt": "2010-01-17T02:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1824",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["jeff-heuer", "simon-craddock", "franklin", "barrington-b"],
+  "results": [
+    { "player": "jeff-heuer", "score": 8798 },
+    { "player": "simon-craddock", "score": 8104 },
+    { "player": "barrington-b", "score": 8085 },
+    { "player": "franklin", "score": 7066 }
+  ]
+}

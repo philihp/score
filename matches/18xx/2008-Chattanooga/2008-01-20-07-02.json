@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-20-07-02",
+  "createdAt": "2008-01-20T14:00:00.000Z",
+  "updatedAt": "2008-01-20T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1832",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "gary-mroczka",
+    "dave-blanchard",
+    "joe-gunderson",
+    "rick-westerman",
+    "gary-norton"
+  ],
+  "results": [
+    { "player": "gary-mroczka", "score": 1238 },
+    { "player": "dave-blanchard", "score": 1091 },
+    { "player": "joe-gunderson", "score": 888 },
+    { "player": "rick-westerman", "score": 718 },
+    { "player": "gary-norton", "score": 548 }
+  ]
+}

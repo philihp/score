@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-16-03-04",
+  "createdAt": "2007-02-17T02:00:00.000Z",
+  "updatedAt": "2007-02-17T02:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "paul-hakken",
+    "mark-geary",
+    "mike-coyne",
+    "elliott-segal",
+    "gary-mroczka"
+  ],
+  "results": [
+    { "player": "mike-coyne", "score": 7773 },
+    { "player": "mark-geary", "score": 7596 },
+    { "player": "paul-hakken", "score": 7263 },
+    { "player": "elliott-segal", "score": 7238 },
+    { "player": "gary-mroczka", "score": 5672 }
+  ]
+}

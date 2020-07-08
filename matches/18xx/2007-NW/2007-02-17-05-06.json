@@ -1,0 +1,22 @@
+{
+  "id": "2007-02-17-05-06",
+  "createdAt": "2007-02-17T21:00:00.000Z",
+  "updatedAt": "2007-02-17T21:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1844",
+  "game": "18xx",
+  "players": [
+    "jeremy-vipperman",
+    "dale-maxfield",
+    "brain-yeomans",
+    "brian-wilson"
+  ],
+  "results": [
+    { "player": "jeremy-vipperman", "score": 9077 },
+    { "player": "dale-maxfield", "score": 8587 },
+    { "player": "brain-yeomans", "score": 8503 },
+    { "player": "brian-wilson", "score": 6948 }
+  ]
+}

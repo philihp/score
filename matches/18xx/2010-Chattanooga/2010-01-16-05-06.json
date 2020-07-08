@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-05-06",
+  "createdAt": "2010-01-16T21:00:00.000Z",
+  "updatedAt": "2010-01-16T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Neb",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["john-tamplin", "jeanette-allen", "barrington-b", "alex-sheldon"],
+  "results": [
+    { "player": "barrington-b", "score": 5000 },
+    { "player": "jeanette-allen", "score": 4000 },
+    { "player": "john-tamplin", "score": 3000 },
+    { "player": "alex-sheldon", "score": 1 }
+  ]
+}

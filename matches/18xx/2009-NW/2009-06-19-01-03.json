@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-19-01-03",
+  "createdAt": "2009-06-19T15:00:00.000Z",
+  "updatedAt": "2009-06-19T20:00:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "18Ard",
+  "game": "18xx",
+  "players": ["mark-geary", "jeff-heuer", "craig-cowley", "alan-stancius"],
+  "results": [
+    { "player": "mark-geary", "score": 6983 },
+    { "player": "jeff-heuer", "score": 5690 },
+    { "player": "craig-cowley", "score": 5461 },
+    { "player": "alan-stancius", "score": 5284 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-PM-04",
+  "createdAt": "2013-06-22T04:00:00.000Z",
+  "updatedAt": "2013-06-22T04:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1812",
+  "game": "18xx",
+  "players": ["dave-blanchard", "chris-shaffer", "joe-gray", "gary-norton"],
+  "results": [
+    { "player": "gary-norton", "score": 4869 },
+    { "player": "chris-shaffer", "score": 4647 },
+    { "player": "dave-blanchard", "score": 4464 },
+    { "player": "joe-gray", "score": 3998 }
+  ]
+}

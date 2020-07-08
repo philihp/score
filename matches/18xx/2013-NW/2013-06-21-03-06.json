@@ -1,0 +1,20 @@
+{
+  "id": "2013-06-21-03-06",
+  "createdAt": "2013-06-22T04:00:00.000Z",
+  "updatedAt": "2013-06-22T04:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1830",
+  "game": "18xx",
+  "players": [
+    "jose-corsilles",
+    "felix-anderson",
+    "daniel-barnes",
+    "christopher-rao"
+  ],
+  "results": [
+    { "player": "daniel-barnes", "score": 951 },
+    { "player": "felix-anderson", "score": 927 },
+    { "player": "jose-corsilles", "score": 859 },
+    { "player": "christopher-rao", "score": 296 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2008-01-18-02-02",
+  "createdAt": "2008-01-18T19:00:00.000Z",
+  "updatedAt": "2008-01-18T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18West",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["pierre-leboeuf", "gary-norton", "joe-gray", "christoper-rivera"],
+  "results": [
+    { "player": "pierre-leboeuf", "score": 10231 },
+    { "player": "gary-norton", "score": 8465 },
+    { "player": "joe-gray", "score": 8451 },
+    { "player": "christoper-rivera", "score": 6316 }
+  ]
+}

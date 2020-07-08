@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-19-06-01",
+  "createdAt": "2004-06-20T01:00:00.000Z",
+  "updatedAt": "2004-06-20T06:15:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "18 Moon",
+  "game": "18xx",
+  "players": ["mike-monical", "phil-bradley", "jim-mcdanold", "doug-walker"],
+  "results": [
+    { "player": "mike-monical", "score": 10721 },
+    { "player": "jim-mcdanold", "score": 10305 },
+    { "player": "phil-bradley", "score": 9489 },
+    { "player": "doug-walker", "score": 8935 }
+  ]
+}

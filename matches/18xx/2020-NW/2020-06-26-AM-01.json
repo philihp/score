@@ -1,0 +1,20 @@
+{
+  "id": "2020-06-26-AM-01",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "2038",
+  "game": "18xx",
+  "players": [
+    "jonathan-work",
+    "michael-monical",
+    "joshua-gottesman",
+    "stephen-yu"
+  ],
+  "results": [
+    { "player": "stephen-yu", "score": 12876 },
+    { "player": "jonathan-work", "score": 11936 },
+    { "player": "joshua-gottesman", "score": 10801 },
+    { "player": "michael-monical", "score": 10601 }
+  ]
+}

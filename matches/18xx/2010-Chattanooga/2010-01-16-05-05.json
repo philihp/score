@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-05-05",
+  "createdAt": "2010-01-16T21:00:00.000Z",
+  "updatedAt": "2010-01-16T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Neb",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["richard-s", "mike-bennett", "dale-maxfield", "david-aber"],
+  "results": [
+    { "player": "david-aber", "score": 4224 },
+    { "player": "mike-bennett", "score": 4124 },
+    { "player": "richard-s", "score": 3764 },
+    { "player": "dale-maxfield", "score": 2612 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-19-01-04",
+  "createdAt": "2009-06-19T15:00:00.000Z",
+  "updatedAt": "2009-06-19T19:48:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "18US",
+  "game": "18xx",
+  "players": ["dave-lionett", "ken-boucher", "rich-atwater", "gary-norton"],
+  "results": [
+    { "player": "gary-norton", "score": 8779 },
+    { "player": "dave-lionett", "score": 7839 },
+    { "player": "ken-boucher", "score": 7757 },
+    { "player": "rich-atwater", "score": 6351 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2008-01-19-05-01",
+  "createdAt": "2008-01-19T19:00:00.000Z",
+  "updatedAt": "2008-01-19T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18VA",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["bruce-beard", "joe-gunderson", "gary-mroczka", "pierre-leboeuf"],
+  "results": [
+    { "player": "pierre-leboeuf", "score": 6823 },
+    { "player": "gary-mroczka", "score": 6352 },
+    { "player": "joe-gunderson", "score": 6172 },
+    { "player": "bruce-beard", "score": 6096 }
+  ]
+}

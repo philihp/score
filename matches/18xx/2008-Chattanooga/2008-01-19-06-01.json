@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-19-06-01",
+  "createdAt": "2008-01-20T00:00:00.000Z",
+  "updatedAt": "2008-01-20T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1870",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "bruce-beard",
+    "allen-stancius",
+    "gary-mroczka",
+    "anthony-carver"
+  ],
+  "results": [
+    { "player": "anthony-carver", "score": 11153 },
+    { "player": "bruce-beard", "score": 11026 },
+    { "player": "allen-stancius", "score": 9338 },
+    { "player": "gary-mroczka", "score": 8559 }
+  ]
+}

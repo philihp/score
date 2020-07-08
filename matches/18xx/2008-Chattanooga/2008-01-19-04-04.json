@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-19-04-04",
+  "createdAt": "2008-01-19T14:00:00.000Z",
+  "updatedAt": "2008-01-19T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1826",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "barrington-beavis",
+    "ken-gutermuth",
+    "jim-mcdanold",
+    "ricky-gray"
+  ],
+  "results": [
+    { "player": "barrington-beavis", "score": 10215 },
+    { "player": "ken-gutermuth", "score": 10047 },
+    { "player": "jim-mcdanold", "score": 9556 },
+    { "player": "ricky-gray", "score": 6462 }
+  ]
+}

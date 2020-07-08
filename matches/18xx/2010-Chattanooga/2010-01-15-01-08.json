@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-01-08",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Ard",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["david-hecht", "jeff-heuer", "matt-campbell", "alex-sheldon"],
+  "results": [
+    { "player": "matt-campbell", "score": 8136 },
+    { "player": "david-hecht", "score": 7670 },
+    { "player": "alex-sheldon", "score": 6476 },
+    { "player": "jeff-heuer", "score": 6370 }
+  ]
+}

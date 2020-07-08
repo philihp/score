@@ -2,10 +2,6 @@
 <h1><%= public.games._data[current.path[1]].name %></h1>
 <p>Matches: <%= public.games._data[current.path[1]].matches.length %></p>
 <p>
-  Unique Players: <%=
-  public[current.path[0]]._data[current.path[1]].players.length %>
-</p>
-<p>
   Tracked Players: <%=
   public[current.path[0]]._data[current.path[1]].players.filter(([p,r]) =>
   public.players._data[p]).length %>
@@ -15,28 +11,29 @@
     <tr>
       <th>Rank</th>
       <th>Name</th>
-      <th>Rating</th>
-      <th>Mean</th>
-      <th>Variance</th>
+      <th>Rating (Ordinal)</th>
+      <th>Mu (Mean)</th>
+      <th>Sigma (Variance)</th>
     </tr>
   </thead>
   <tbody>
     <% public[current.path[0]]._data[current.path[1]].players.filter(([p,r]) =>
-    public.players._data[p]).forEach(([player, _rating, {mu, variance,
-    ordinal}], index) => { %>
+    public.players._data[p]).forEach(([player, _rating, {mu, sigma, ordinal}],
+    index) => { %>
     <tr>
       <td><%= index + 1 %></td>
-      <td><a href="/players/<%= player %>"><%= player %></a></td>
+      <td><a href="/players/<%= player %>.html"><%= player %></a></td>
       <td><%= ordinal %></td>
       <td><%= mu %></td>
-      <td><%= variance %></td>
+      <td><%= sigma %></td>
     </tr>
     <% }) %>
   </tbody>
 </table>
 <p>
-  Only tracked player ratings are displayed. All players have a hidden rating.
-  To display a player's rating, create a file and submit a pull request for them
-  <a href="https://github.com/philihp/score/tree/master/players">here</a>.
+  Untracked Players: <%=
+  public[current.path[0]]._data[current.path[1]].players.length -
+  public[current.path[0]]._data[current.path[1]].players.filter(([p,r]) =>
+  public.players._data[p]).length %>
 </p>
 <% } %>

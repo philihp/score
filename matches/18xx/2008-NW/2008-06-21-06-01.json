@@ -1,0 +1,16 @@
+{
+  "id": "2008-06-21-06-01",
+  "createdAt": "2008-06-22T01:00:00.000Z",
+  "updatedAt": "2008-06-22T06:15:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18VA",
+  "game": "18xx",
+  "players": ["rod-cross", "cameron-cross", "mark-geary"],
+  "results": [
+    { "player": "cameron-cross", "score": 9486 },
+    { "player": "rod-cross", "score": 9385 },
+    { "player": "mark-geary", "score": 7774 }
+  ]
+}

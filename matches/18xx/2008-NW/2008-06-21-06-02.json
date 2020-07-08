@@ -1,0 +1,24 @@
+{
+  "id": "2008-06-21-06-02",
+  "createdAt": "2008-06-22T01:00:00.000Z",
+  "updatedAt": "2008-06-22T06:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1870",
+  "game": "18xx",
+  "players": [
+    "jackson-cross",
+    "paul-work",
+    "johnathan-flagg",
+    "allen-sancious",
+    "rich-atwater"
+  ],
+  "results": [
+    { "player": "jackson-cross", "score": 8190 },
+    { "player": "paul-work", "score": 7483 },
+    { "player": "rich-atwater", "score": 7379 },
+    { "player": "johnathan-flagg", "score": 7358 },
+    { "player": "allen-sancious", "score": 6893 }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-18-09-01",
+  "createdAt": "2007-02-18T19:00:00.000Z",
+  "updatedAt": "2007-02-18T19:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1846",
+  "game": "18xx",
+  "players": [
+    "peter-eldridge",
+    "anthony-carver",
+    "mike-bennett",
+    "mark-derrick",
+    "charles-beattie"
+  ],
+  "results": [
+    { "player": "peter-eldridge", "score": 7529 },
+    { "player": "anthony-carver", "score": 7066 },
+    { "player": "mark-derrick", "score": 6820 },
+    { "player": "mike-bennett", "score": 6199 },
+    { "player": "charles-beattie", "score": 5272 }
+  ]
+}

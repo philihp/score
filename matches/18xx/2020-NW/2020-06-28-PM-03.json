@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-28-PM-03",
+  "createdAt": "2020-05-28T23:30:00.000Z",
+  "updatedAt": "2020-05-28T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NEB",
+  "game": "18xx",
+  "players": ["jonathan-work", "stephen-yu", "bruce-beard", "michael-monical"],
+  "results": [
+    { "player": "stephen-yu", "score": 5357 },
+    { "player": "jonathan-work", "score": 4740 },
+    { "player": "bruce-beard", "score": 4524 },
+    { "player": "michael-monical", "score": 4288 }
+  ]
+}

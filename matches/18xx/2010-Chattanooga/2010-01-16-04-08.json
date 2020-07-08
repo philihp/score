@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-04-08",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18GL",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["ken-gutermuth", "jeremy-v", "peter-eldridge", "joe-gundersen"],
+  "results": [
+    { "player": "jeremy-v", "score": 12871 },
+    { "player": "peter-eldridge", "score": 12844 },
+    { "player": "joe-gundersen", "score": 11510 },
+    { "player": "ken-gutermuth", "score": 8977 }
+  ]
+}

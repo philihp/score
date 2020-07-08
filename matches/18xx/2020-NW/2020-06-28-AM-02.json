@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-28-AM-02",
+  "createdAt": "2020-05-28T15:30:00.000Z",
+  "updatedAt": "2020-05-28T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Chesapeake",
+  "game": "18xx",
+  "players": [
+    "jonathan-work",
+    "nathan-wagner",
+    "deniz-bucak",
+    "philihp-busby",
+    "bill-dixon"
+  ],
+  "results": [
+    { "player": "deniz-bucak", "score": 5011 },
+    { "player": "jonathan-work", "score": 4649 },
+    { "player": "philihp-busby", "score": 3838 },
+    { "player": "nathan-wagner", "score": 3722 },
+    { "player": "bill-dixon", "score": 2724 }
+  ]
+}

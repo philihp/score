@@ -1,0 +1,22 @@
+{
+  "id": "2007-02-17-04-09",
+  "createdAt": "2007-02-17T16:00:00.000Z",
+  "updatedAt": "2007-02-17T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "simon-craddock",
+    "david-snyder",
+    "dave-blanchard",
+    "jon-kwiatkowski"
+  ],
+  "results": [
+    { "player": "simon-craddock", "score": 6898 },
+    { "player": "dave-blanchard", "score": 6406 },
+    { "player": "jon-kwiatkowski", "score": 6010 },
+    { "player": "david-snyder", "score": 5922 }
+  ]
+}

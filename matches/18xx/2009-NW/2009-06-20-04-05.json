@@ -1,0 +1,22 @@
+{
+  "id": "2009-06-20-04-05",
+  "createdAt": "2009-06-20T15:30:00.000Z",
+  "updatedAt": "2009-06-20T15:30:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1844",
+  "game": "18xx",
+  "players": [
+    "bruce-beard",
+    "ken-boucher",
+    "rich-atwater",
+    "jeff-heuer",
+    "andrew-nisbet"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 6985 },
+    { "player": "ken-boucher", "score": 6953 },
+    { "player": "rich-atwater", "score": 5585 },
+    { "player": "jeff-heuer", "score": 4810 },
+    { "player": "andrew-nisbet", "score": 2350 }
+  ]
+}

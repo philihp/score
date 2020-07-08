@@ -1,0 +1,20 @@
+{
+  "id": "2020-06-28-AM-01",
+  "createdAt": "2020-05-28T15:30:00.000Z",
+  "updatedAt": "2020-05-28T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1832",
+  "game": "18xx",
+  "players": [
+    "jonathan-jang",
+    "mike-shaver",
+    "jonathan-geruntho",
+    "dean-brandt"
+  ],
+  "results": [
+    { "player": "jonathan-geruntho", "score": 9151 },
+    { "player": "jonathan-jang", "score": 7794 },
+    { "player": "dean-brandt", "score": 7392 },
+    { "player": "mike-shaver", "score": 7206 }
+  ]
+}

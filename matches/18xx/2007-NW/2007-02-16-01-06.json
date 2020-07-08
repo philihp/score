@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-16-01-06",
+  "createdAt": "2007-02-16T15:00:00.000Z",
+  "updatedAt": "2007-02-16T15:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "peter-eldridge",
+    "jim-mcdanold",
+    "dave-blanchard",
+    "paul-hakken",
+    "ken-gutermuth"
+  ],
+  "results": [
+    { "player": "peter-eldridge", "score": 5023 },
+    { "player": "jim-mcdanold", "score": 3962 },
+    { "player": "dave-blanchard", "score": 3620 },
+    { "player": "paul-hakken", "score": 3601 },
+    { "player": "ken-gutermuth", "score": 2502 }
+  ]
+}

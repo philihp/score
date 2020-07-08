@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-17-07-06",
+  "createdAt": "2010-01-17T15:00:00.000Z",
+  "updatedAt": "2010-01-17T15:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1861",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["david-aber", "jim-mcdanold", "john-jones", "rick-w"],
+  "results": [
+    { "player": "david-aber", "score": 8641 },
+    { "player": "jim-mcdanold", "score": 8459 },
+    { "player": "rick-w", "score": 7305 },
+    { "player": "john-jones", "score": 6103 }
+  ]
+}

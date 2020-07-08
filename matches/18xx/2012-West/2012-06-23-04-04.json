@@ -1,0 +1,25 @@
+{
+  "id": "2012-06-23-04-04",
+  "createdAt": "2012-06-23T16:00:00.000Z",
+  "updatedAt": "2012-06-23T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1844",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "bruce-beard",
+    "jeff-heuer",
+    "tyler-harvey",
+    "christopher-roa",
+    "ken-boucher",
+    "david-simmons"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 5555 },
+    { "player": "ken-boucher", "score": 4860 },
+    { "player": "david-simmons", "score": 4859 },
+    { "player": "tyler-harvey", "score": 4302 },
+    { "player": "christopher-roa", "score": 3603 },
+    { "player": "jeff-heuer", "score": 2735 }
+  ]
+}

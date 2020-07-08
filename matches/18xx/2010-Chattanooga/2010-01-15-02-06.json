@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-02-06",
+  "createdAt": "2010-01-15T21:00:00.000Z",
+  "updatedAt": "2010-01-15T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Ard",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["jim-mcdanold", "mark-geary", "david-aber", "michael-monical"],
+  "results": [
+    { "player": "mark-geary", "score": 7585 },
+    { "player": "david-aber", "score": 6942 },
+    { "player": "jim-mcdanold", "score": 6765 },
+    { "player": "michael-monical", "score": 5919 }
+  ]
+}

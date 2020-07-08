@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-15-07-03",
+  "createdAt": "2006-01-15T16:00:00.000Z",
+  "updatedAt": "2006-01-15T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18Scan",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["anthony-carver", "simon-craddock", "jon-kwiatkowski"],
+  "results": [
+    { "player": "anthony-carver", "score": 6233 },
+    { "player": "simon-craddock", "score": 5925 },
+    { "player": "jon-kwiatkowski", "score": 5016 }
+  ]
+}

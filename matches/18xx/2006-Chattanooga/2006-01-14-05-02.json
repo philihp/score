@@ -1,0 +1,17 @@
+{
+  "id": "2006-01-14-05-02",
+  "createdAt": "2006-01-14T21:00:00.000Z",
+  "updatedAt": "2006-01-14T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1870",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["ian-both", "mike-melanson", "david-snyder", "dale-maxfield"],
+  "results": [
+    { "player": "ian-both", "score": 9057 },
+    { "player": "mike-melanson", "score": 7155 },
+    { "player": "david-snyder", "score": 6790 },
+    { "player": "dale-maxfield", "score": 5238 }
+  ]
+}

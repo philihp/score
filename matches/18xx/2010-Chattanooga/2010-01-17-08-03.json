@@ -1,0 +1,15 @@
+{
+  "id": "2010-01-17-08-03",
+  "createdAt": "2010-01-17T21:00:00.000Z",
+  "updatedAt": "2010-01-17T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1861",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["bruce-beard", "mike-coyne", "anthony-carver"],
+  "results": [
+    { "player": "bruce-beard", "score": 8756 },
+    { "player": "anthony-carver", "score": 7494 },
+    { "player": "mike-coyne", "score": 5763 }
+  ]
+}

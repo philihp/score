@@ -1,0 +1,17 @@
+{
+  "id": "2008-01-19-06-02",
+  "createdAt": "2008-01-20T00:00:00.000Z",
+  "updatedAt": "2008-01-20T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18Mex",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["ken-gutermuth", "mike-bennett", "cathy-befi", "karl-foelsche"],
+  "results": [
+    { "player": "cathy-befi", "score": 3788 },
+    { "player": "mike-bennett", "score": 3510 },
+    { "player": "karl-foelsche", "score": 3472 },
+    { "player": "ken-gutermuth", "score": 3152 }
+  ]
+}

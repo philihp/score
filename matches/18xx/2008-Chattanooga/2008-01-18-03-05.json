@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-18-03-05",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1834",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "john-tamplin",
+    "david-hecht",
+    "alex-sheldon",
+    "craig-bartell",
+    "tim-flowers"
+  ],
+  "results": [
+    { "player": "alex-sheldon", "score": 5083 },
+    { "player": "craig-bartell", "score": 4854 },
+    { "player": "tim-flowers", "score": 4357 },
+    { "player": "david-hecht", "score": 4007 },
+    { "player": "john-tamplin", "score": 1644 }
+  ]
+}

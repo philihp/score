@@ -1,0 +1,24 @@
+{
+  "id": "2007-02-17-04-01",
+  "createdAt": "2007-02-17T16:00:00.000Z",
+  "updatedAt": "2007-02-17T16:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1870",
+  "game": "18xx",
+  "players": [
+    "jeremy-vipperman",
+    "paul-hakken",
+    "anthony-carver",
+    "ed-hewlett",
+    "kevin-jaekley"
+  ],
+  "results": [
+    { "player": "jeremy-vipperman", "score": 7532 },
+    { "player": "paul-hakken", "score": 7530 },
+    { "player": "anthony-carver", "score": 7133 },
+    { "player": "ed-hewlett", "score": 5439 },
+    { "player": "kevin-jaekley", "score": 5174 }
+  ]
+}

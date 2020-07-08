@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-02-01",
+  "createdAt": "2010-01-15T21:00:00.000Z",
+  "updatedAt": "2010-01-15T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18EU",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["pierre-leboeuf", "barrington-b", "kevin-karg", "david-synder"],
+  "results": [
+    { "player": "barrington-b", "score": 6942 },
+    { "player": "pierre-leboeuf", "score": 6243 },
+    { "player": "kevin-karg", "score": 6043 },
+    { "player": "david-synder", "score": 5606 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2012-06-23-04-02",
+  "createdAt": "2012-06-23T16:00:00.000Z",
+  "updatedAt": "2012-06-23T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "18Ard",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": ["mark-geary", "david-hecht", "steve-yu"],
+  "results": [
+    { "player": "steve-yu", "score": 10378 },
+    { "player": "mark-geary", "score": 9125 },
+    { "player": "david-hecht", "score": 8541 }
+  ]
+}

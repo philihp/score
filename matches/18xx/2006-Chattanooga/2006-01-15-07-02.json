@@ -1,0 +1,17 @@
+{
+  "id": "2006-01-15-07-02",
+  "createdAt": "2006-01-15T16:00:00.000Z",
+  "updatedAt": "2006-01-15T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18EU",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["peter-eldridge", "ian-both", "david-hecht", "alex-sheldon"],
+  "results": [
+    { "player": "peter-eldridge", "score": 8824 },
+    { "player": "ian-both", "score": 7260 },
+    { "player": "david-hecht", "score": 6960 },
+    { "player": "alex-sheldon", "score": 0 }
+  ]
+}

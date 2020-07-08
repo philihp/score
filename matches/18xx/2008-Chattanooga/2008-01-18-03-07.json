@@ -1,0 +1,22 @@
+{
+  "id": "2008-01-18-03-07",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1826",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "simon-craddock",
+    "pierre-leboeuf",
+    "stephen-webb",
+    "jim-mcdanold"
+  ],
+  "results": [
+    { "player": "simon-craddock", "score": 8658 },
+    { "player": "pierre-leboeuf", "score": 8637 },
+    { "player": "stephen-webb", "score": 8507 },
+    { "player": "jim-mcdanold", "score": 8387 }
+  ]
+}

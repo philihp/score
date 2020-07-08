@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-04-08",
+  "createdAt": "2008-01-19T14:00:00.000Z",
+  "updatedAt": "2008-01-19T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1824",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "joe-gunderson",
+    "robert-ford",
+    "stephen-webb",
+    "tim-hardwick",
+    "gary-mroczka"
+  ],
+  "results": [
+    { "player": "joe-gunderson", "score": 5294 },
+    { "player": "robert-ford", "score": 4965 },
+    { "player": "stephen-webb", "score": 4905 },
+    { "player": "tim-hardwick", "score": 4634 },
+    { "player": "gary-mroczka", "score": 4090 }
+  ]
+}

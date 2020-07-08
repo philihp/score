@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-20-07-03",
+  "createdAt": "2004-06-20T15:30:00.000Z",
+  "updatedAt": "2004-06-20T23:30:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "2038",
+  "game": "18xx",
+  "players": ["mark-geary", "mike-monical", "tristan-jenkins", "john-galt"],
+  "results": [
+    { "player": "tristan-jenkins", "score": 7173 },
+    { "player": "mike-monical", "score": 6432 },
+    { "player": "john-galt", "score": 5796 },
+    { "player": "mark-geary", "score": 4632 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-22-05-03",
+  "createdAt": "2013-06-22T21:00:00.000Z",
+  "updatedAt": "2013-06-22T21:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NEB",
+  "game": "18xx",
+  "players": ["bruce-beard", "david-simmonds", "jonathan-work", "sean-king"],
+  "results": [
+    { "player": "bruce-beard", "score": 5875 },
+    { "player": "jonathan-work", "score": 4700 },
+    { "player": "david-simmonds", "score": 4467 },
+    { "player": "sean-king", "score": 4258 }
+  ]
+}

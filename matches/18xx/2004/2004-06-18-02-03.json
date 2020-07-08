@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-18-02-03",
+  "createdAt": "2004-06-18T21:00:00.000Z",
+  "updatedAt": "2004-06-19T00:30:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "18GA",
+  "game": "18xx",
+  "players": ["mark-geary", "ian-booth", "james-robinson", "jon-flagg"],
+  "results": [
+    { "player": "mark-geary", "score": 4876 },
+    { "player": "ian-booth", "score": 3993 },
+    { "player": "james-robinson", "score": 3309 },
+    { "player": "jon-flagg", "score": 2152 }
+  ]
+}

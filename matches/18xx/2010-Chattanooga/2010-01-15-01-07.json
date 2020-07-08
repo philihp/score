@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-01-07",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Mex",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["peter-eldridge", "kevin-karg", "anthony-carver", "rick-dutton"],
+  "results": [
+    { "player": "anthony-carver", "score": 5772 },
+    { "player": "rick-dutton", "score": 5750 },
+    { "player": "kevin-karg", "score": 5315 },
+    { "player": "peter-eldridge", "score": 5303 }
+  ]
+}

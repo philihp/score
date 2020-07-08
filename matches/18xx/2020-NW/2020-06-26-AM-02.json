@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-26-AM-02",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Chesapeake",
+  "game": "18xx",
+  "players": [
+    "sterling-tian",
+    "dave-blanchard",
+    "mark-derrick",
+    "nathan-wagner",
+    "jeff-heuer"
+  ],
+  "results": [
+    { "player": "jeff-heuer", "score": 6478 },
+    { "player": "dave-blanchard", "score": 5837 },
+    { "player": "mark-derrick", "score": 5741 },
+    { "player": "nathan-wagner", "score": 5519 },
+    { "player": "sterling-tian", "score": 4255 }
+  ]
+}

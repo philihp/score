@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-27-AM-02",
+  "createdAt": "2020-05-27T15:30:00.000Z",
+  "updatedAt": "2020-05-27T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1822+",
+  "game": "18xx",
+  "players": [
+    "chris-shaffer",
+    "jonathan-work",
+    "kelvin-ho",
+    "shaz-iqbal",
+    "christopher-rao"
+  ],
+  "results": [
+    { "player": "kelvin-ho", "score": 11719 },
+    { "player": "christopher-rao", "score": 10976 },
+    { "player": "chris-shaffer", "score": 8468 },
+    { "player": "shaz-iqbal", "score": 7895 },
+    { "player": "jonathan-work", "score": 7221 }
+  ]
+}

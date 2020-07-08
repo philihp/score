@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-04-10",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "18Miss",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["mark-derrick", "john-jones", "charlie-beattie", "matt-campbell"],
+  "results": [
+    { "player": "mark-derrick", "score": 3849 },
+    { "player": "john-jones", "score": 3478 },
+    { "player": "charlie-beattie", "score": 3313 },
+    { "player": "matt-campbell", "score": 3232 }
+  ]
+}

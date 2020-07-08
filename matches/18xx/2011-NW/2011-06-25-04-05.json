@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-25-04-05",
+  "createdAt": "2011-06-25T16:00:00.000Z",
+  "updatedAt": "2011-06-25T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1837",
+  "game": "18xx",
+  "players": ["mike-monical", "chris-schaffer", "paul-work", "scott"],
+  "results": [
+    { "player": "paul-work", "score": 10048 },
+    { "player": "chris-schaffer", "score": 9563 },
+    { "player": "mike-monical", "score": 8745 },
+    { "player": "scott", "score": 6330 }
+  ]
+}

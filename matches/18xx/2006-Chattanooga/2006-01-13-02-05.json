@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-13-02-05",
+  "createdAt": "2006-01-13T21:00:00.000Z",
+  "updatedAt": "2006-01-13T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1846",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["anthony-carver", "charles-beattie", "don-chinnery"],
+  "results": [
+    { "player": "anthony-carver", "score": 8064 },
+    { "player": "charles-beattie", "score": 7870 },
+    { "player": "don-chinnery", "score": 7449 }
+  ]
+}

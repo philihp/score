@@ -1,0 +1,22 @@
+{
+  "id": "2004-06-19-04-03",
+  "createdAt": "2004-06-19T16:00:00.000Z",
+  "updatedAt": "2004-06-19T23:00:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "2835",
+  "game": "18xx",
+  "players": [
+    "andrew-nisbet",
+    "mark-geary",
+    "mike-monical",
+    "doug-walker",
+    "phil-bradley"
+  ],
+  "results": [
+    { "player": "mark-geary", "score": 5353 },
+    { "player": "mike-monical", "score": 5326 },
+    { "player": "andrew-nisbet", "score": 5187 },
+    { "player": "doug-walker", "score": 4706 },
+    { "player": "phil-bradley", "score": 3780 }
+  ]
+}

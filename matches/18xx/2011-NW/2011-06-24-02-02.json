@@ -1,0 +1,14 @@
+{
+  "id": "2011-06-24-02-02",
+  "createdAt": "2011-06-24T21:00:00.000Z",
+  "updatedAt": "2011-06-24T21:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "18AL",
+  "game": "18xx",
+  "players": ["jason-ley", "rich-atwater", "sean-king"],
+  "results": [
+    { "player": "jason-ley", "score": 5162 },
+    { "player": "sean-king", "score": 4866 },
+    { "player": "rich-atwater", "score": 4721 }
+  ]
+}

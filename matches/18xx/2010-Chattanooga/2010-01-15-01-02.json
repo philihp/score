@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-15-01-02",
+  "createdAt": "2010-01-15T15:30:00.000Z",
+  "updatedAt": "2010-01-15T15:30:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1833",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["simon-craddock", "ken-boucher", "joe-gundersen", "gary-mroczka"],
+  "results": [
+    { "player": "ken-boucher", "score": 11318 },
+    { "player": "joe-gundersen", "score": 11063 },
+    { "player": "gary-mroczka", "score": 10354 },
+    { "player": "simon-craddock", "score": 9562 }
+  ]
+}

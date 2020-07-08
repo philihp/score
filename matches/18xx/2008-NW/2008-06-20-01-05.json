@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-20-01-05",
+  "createdAt": "2008-06-20T15:00:00.000Z",
+  "updatedAt": "2008-06-20T15:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1830",
+  "game": "18xx",
+  "players": ["dave-blanchard", "jason", "jackson-cross", "paul-work"],
+  "results": [
+    { "player": "jason", "score": 4800 },
+    { "player": "paul-work", "score": 4715 },
+    { "player": "dave-blanchard", "score": 4262 },
+    { "player": "jackson-cross", "score": 1940 }
+  ]
+}

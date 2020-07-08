@@ -1,0 +1,17 @@
+{
+  "id": "2008-06-20-02-04",
+  "createdAt": "2008-06-20T20:45:00.000Z",
+  "updatedAt": "2008-06-20T20:45:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1860",
+  "game": "18xx",
+  "players": ["paul-work", "ian-booth", "johnathan-flagg", "jason"],
+  "results": [
+    { "player": "ian-booth", "score": 3013 },
+    { "player": "johnathan-flagg", "score": 2755 },
+    { "player": "paul-work", "score": 2595 },
+    { "player": "jason", "score": 1330 }
+  ]
+}

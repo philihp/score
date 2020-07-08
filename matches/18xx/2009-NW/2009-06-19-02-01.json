@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-19-02-01",
+  "createdAt": "2009-06-19T20:45:00.000Z",
+  "updatedAt": "2009-06-19T23:30:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1846",
+  "game": "18xx",
+  "players": ["bruce-beard", "jonathan-flagg", "joe-grey", "rich-atwater"],
+  "results": [
+    { "player": "bruce-beard", "score": 6604 },
+    { "player": "joe-grey", "score": 5860 },
+    { "player": "jonathan-flagg", "score": 5328 },
+    { "player": "rich-atwater", "score": 4974 }
+  ]
+}

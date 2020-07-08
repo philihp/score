@@ -1,0 +1,17 @@
+{
+  "id": "2008-01-18-02-03",
+  "createdAt": "2008-01-18T19:00:00.000Z",
+  "updatedAt": "2008-01-18T19:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1848",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["dave-lionett", "ricky-gray", "gary-mroczka", "dale-maxwell"],
+  "results": [
+    { "player": "dave-lionett", "score": 9010 },
+    { "player": "ricky-gray", "score": 7883 },
+    { "player": "gary-mroczka", "score": 7810 },
+    { "player": "dale-maxwell", "score": 7514 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-01-06",
+  "createdAt": "2013-06-21T15:30:00.000Z",
+  "updatedAt": "2013-06-21T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1817",
+  "game": "18xx",
+  "players": [
+    "rick-dutton",
+    "jonathan-work",
+    "paul-work",
+    "aliza-panitz",
+    "allen-stancius"
+  ],
+  "results": [
+    { "player": "rick-dutton", "score": 10 },
+    { "player": "paul-work", "score": 9 },
+    { "player": "aliza-panitz", "score": 9 },
+    { "player": "jonathan-work", "score": 8 },
+    { "player": "allen-stancius", "score": 7 }
+  ]
+}

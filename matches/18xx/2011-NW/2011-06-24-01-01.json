@@ -1,0 +1,22 @@
+{
+  "id": "2011-06-24-01-01",
+  "createdAt": "2011-06-24T16:00:00.000Z",
+  "updatedAt": "2011-06-24T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "jason-ley",
+    "paul-work",
+    "johnathan-work",
+    "sean-king",
+    "rich-atwater"
+  ],
+  "results": [
+    { "player": "jason-ley", "score": 2498 },
+    { "player": "sean-king", "score": 2294 },
+    { "player": "johnathan-work", "score": 2230 },
+    { "player": "paul-work", "score": 2119 },
+    { "player": "rich-atwater", "score": 2070 }
+  ]
+}

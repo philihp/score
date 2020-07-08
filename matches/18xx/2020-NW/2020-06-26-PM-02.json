@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-26-PM-02",
+  "createdAt": "2020-05-26T23:30:00.000Z",
+  "updatedAt": "2020-05-26T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18Mex",
+  "game": "18xx",
+  "players": ["jonathan-work", "dean-brandt", "derek-yeung", "chris-talbot"],
+  "results": [
+    { "player": "jonathan-work", "score": 1120 },
+    { "player": "derek-yeung", "score": 822 },
+    { "player": "dean-brandt", "score": 717 },
+    { "player": "chris-talbot", "score": 495 }
+  ]
+}

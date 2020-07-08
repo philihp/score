@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-20-07-01",
+  "createdAt": "2013-06-20T15:30:00.000Z",
+  "updatedAt": "2013-06-20T19:15:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1830",
+  "game": "18xx",
+  "players": [
+    "felix-anderson",
+    "christopher-rao",
+    "jose-corsilles",
+    "todd-vanderpluym",
+    "rick-dutton"
+  ],
+  "results": [
+    { "player": "rick-dutton", "score": 1282 },
+    { "player": "todd-vanderpluym", "score": 1140 },
+    { "player": "felix-anderson", "score": 807 },
+    { "player": "christopher-rao", "score": 689 },
+    { "player": "jose-corsilles", "score": 528 }
+  ]
+}

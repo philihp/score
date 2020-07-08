@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-20-07-04",
+  "createdAt": "2008-01-20T14:00:00.000Z",
+  "updatedAt": "2008-01-20T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18GL",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "chris-kolenda",
+    "mike-coyne",
+    "mike-bennett",
+    "jeremy-vipperman",
+    "bruce-beard"
+  ],
+  "results": [
+    { "player": "jeremy-vipperman", "score": 7715 },
+    { "player": "bruce-beard", "score": 7355 },
+    { "player": "chris-kolenda", "score": 6696 },
+    { "player": "mike-bennett", "score": 6262 },
+    { "player": "mike-coyne", "score": 6237 }
+  ]
+}

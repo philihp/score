@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-21-02-02",
+  "createdAt": "2013-06-21T21:00:00.000Z",
+  "updatedAt": "2013-06-22T00:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18IN",
+  "game": "18xx",
+  "players": [
+    "paul-work",
+    "mike-monical",
+    "andrew-nisbet",
+    "jonathan-flagg",
+    "todd-vanderpluym"
+  ],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 10953 },
+    { "player": "mike-monical", "score": 8696 },
+    { "player": "jonathan-flagg", "score": 8549 },
+    { "player": "paul-work", "score": 8375 },
+    { "player": "andrew-nisbet", "score": 8054 }
+  ]
+}

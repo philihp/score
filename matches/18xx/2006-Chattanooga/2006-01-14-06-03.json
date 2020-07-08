@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-14-06-03",
+  "createdAt": "2006-01-15T02:00:00.000Z",
+  "updatedAt": "2006-01-15T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1849",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "jeanette-allen",
+    "mike-monical",
+    "rick-westerman",
+    "janet-beattie"
+  ],
+  "results": [
+    { "player": "jeanette-allen", "score": 4364 },
+    { "player": "mike-monical", "score": 4072 },
+    { "player": "rick-westerman", "score": 3432 },
+    { "player": "janet-beattie", "score": 0 }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2013-06-22-05-02",
+  "createdAt": "2013-06-22T21:00:00.000Z",
+  "updatedAt": "2013-06-22T21:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1856",
+  "game": "18xx",
+  "players": ["allen-stanicus", "todd-vanderpluym", "jonathan-flagg"],
+  "results": [
+    { "player": "todd-vanderpluym", "score": 2914 },
+    { "player": "jonathan-flagg", "score": 2711 },
+    { "player": "allen-stanicus", "score": 1500 }
+  ]
+}

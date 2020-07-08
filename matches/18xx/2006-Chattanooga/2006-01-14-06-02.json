@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-14-06-02",
+  "createdAt": "2006-01-15T02:00:00.000Z",
+  "updatedAt": "2006-01-15T02:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1866",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "mark-derrick",
+    "mike-holcomb",
+    "anthony-carver",
+    "joe-gundersen",
+    "gary-mroczka"
+  ],
+  "results": [
+    { "player": "mark-derrick", "score": 1933 },
+    { "player": "mike-holcomb", "score": 1728 },
+    { "player": "anthony-carver", "score": 1371 },
+    { "player": "joe-gundersen", "score": 625 },
+    { "player": "gary-mroczka", "score": 600 }
+  ]
+}

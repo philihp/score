@@ -1,0 +1,26 @@
+{
+  "id": "2008-01-19-04-01",
+  "createdAt": "2008-01-19T14:00:00.000Z",
+  "updatedAt": "2008-01-19T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1832",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "missing",
+    "tim-flowers",
+    "bruce-beard",
+    "dave-blanchard",
+    "dale-maxwell",
+    "steve-hauge"
+  ],
+  "results": [
+    { "player": "missing", "score": 5982 },
+    { "player": "steve-hauge", "score": 5978 },
+    { "player": "bruce-beard", "score": 5807 },
+    { "player": "dale-maxwell", "score": 5563 },
+    { "player": "dave-blanchard", "score": 5544 },
+    { "player": "tim-flowers", "score": 4295 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2009-06-20-04-04",
+  "createdAt": "2009-06-20T15:30:00.000Z",
+  "updatedAt": "2009-06-20T15:30:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1861",
+  "game": "18xx",
+  "players": ["jason", "rich-dutton", "paul-work", "jonathan-flagg"],
+  "results": [
+    { "player": "paul-work", "score": 7140 },
+    { "player": "jonathan-flagg", "score": 6493 },
+    { "player": "jason", "score": 5783 },
+    { "player": "rich-dutton", "score": 5428 }
+  ]
+}

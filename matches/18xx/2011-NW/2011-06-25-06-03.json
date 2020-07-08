@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-25-06-03",
+  "createdAt": "2011-06-26T02:00:00.000Z",
+  "updatedAt": "2011-06-26T02:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "18NYC",
+  "game": "18xx",
+  "players": ["mike-monical", "john-tamplin", "paul-work", "jeff-heuer"],
+  "results": [
+    { "player": "mike-monical", "score": 4560 },
+    { "player": "jeff-heuer", "score": 3054 },
+    { "player": "john-tamplin", "score": 2904 },
+    { "player": "paul-work", "score": 2204 }
+  ]
+}

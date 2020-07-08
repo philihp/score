@@ -1,0 +1,22 @@
+{
+  "id": "2008-06-22-07-02",
+  "createdAt": "2008-06-22T15:30:00.000Z",
+  "updatedAt": "2008-06-22T19:15:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1846",
+  "game": "18xx",
+  "players": [
+    "johnathan-flagg",
+    "jackson-cross",
+    "cameron-cross",
+    "gary-norton"
+  ],
+  "results": [
+    { "player": "johnathan-flagg", "score": 6716 },
+    { "player": "jackson-cross", "score": 6214 },
+    { "player": "cameron-cross", "score": 5565 },
+    { "player": "gary-norton", "score": 4225 }
+  ]
+}

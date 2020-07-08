@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-05-03",
+  "createdAt": "2010-01-16T21:00:00.000Z",
+  "updatedAt": "2010-01-16T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1835",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["mike-coyne", "david-synder", "franklin", "anthony-carver"],
+  "results": [
+    { "player": "franklin", "score": 9663 },
+    { "player": "david-synder", "score": 8170 },
+    { "player": "anthony-carver", "score": 7690 },
+    { "player": "mike-coyne", "score": 6801 }
+  ]
+}

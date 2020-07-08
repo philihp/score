@@ -1,0 +1,24 @@
+{
+  "id": "2020-06-27-PM-01",
+  "createdAt": "2020-05-27T23:30:00.000Z",
+  "updatedAt": "2020-05-27T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1882",
+  "game": "18xx",
+  "players": [
+    "chee-sing-lee",
+    "jonathan-geruntho",
+    "dean-brandt",
+    "chisholm-gentry",
+    "scott-petersen",
+    "derek-yeung"
+  ],
+  "results": [
+    { "player": "scott-petersen", "score": 4774 },
+    { "player": "jonathan-geruntho", "score": 3688 },
+    { "player": "chee-sing-lee", "score": 3544 },
+    { "player": "derek-yeung", "score": 3497 },
+    { "player": "dean-brandt", "score": 3445 },
+    { "player": "chisholm-gentry", "score": 3419 }
+  ]
+}

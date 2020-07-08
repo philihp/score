@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-15-07-05",
+  "createdAt": "2006-01-15T16:00:00.000Z",
+  "updatedAt": "2006-01-15T16:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1844",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "jeremy-vipperman",
+    "mike-bennett",
+    "rick-westerman",
+    "john-jones"
+  ],
+  "results": [
+    { "player": "jeremy-vipperman", "score": 8693 },
+    { "player": "mike-bennett", "score": 7756 },
+    { "player": "rick-westerman", "score": 7661 },
+    { "player": "john-jones", "score": 7515 }
+  ]
+}

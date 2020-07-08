@@ -1,0 +1,22 @@
+{
+  "id": "2006-01-13-02-02",
+  "createdAt": "2006-01-13T21:00:00.000Z",
+  "updatedAt": "2006-01-13T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1846",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "steve-haugse",
+    "mike-monical",
+    "jon-kwiatkowski",
+    "janet-beattie"
+  ],
+  "results": [
+    { "player": "mike-monical", "score": 3580 },
+    { "player": "steve-haugse", "score": 2926 },
+    { "player": "jon-kwiatkowski", "score": 1813 },
+    { "player": "janet-beattie", "score": 1698 }
+  ]
+}

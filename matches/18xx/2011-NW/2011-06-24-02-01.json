@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-24-02-01",
+  "createdAt": "2011-06-24T21:00:00.000Z",
+  "updatedAt": "2011-06-24T21:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "18West",
+  "game": "18xx",
+  "players": ["johnathan-work", "rick-westerman", "paul-work", "david-simmons"],
+  "results": [
+    { "player": "david-simmons", "score": 8820 },
+    { "player": "rick-westerman", "score": 8802 },
+    { "player": "paul-work", "score": 8400 },
+    { "player": "johnathan-work", "score": 6553 }
+  ]
+}

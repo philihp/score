@@ -1,0 +1,26 @@
+{
+  "id": "2006-01-13-01-02",
+  "createdAt": "2006-01-13T15:00:00.000Z",
+  "updatedAt": "2006-01-13T15:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "1826",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "paul-hakken",
+    "peter-eldridge",
+    "craig-bartell",
+    "dale-maxfield",
+    "mike-bennett",
+    "joe-gundersen"
+  ],
+  "results": [
+    { "player": "paul-hakken", "score": 7633 },
+    { "player": "peter-eldridge", "score": 6699 },
+    { "player": "craig-bartell", "score": 6590 },
+    { "player": "dale-maxfield", "score": 6509 },
+    { "player": "mike-bennett", "score": 6180 },
+    { "player": "joe-gundersen", "score": 5837 }
+  ]
+}

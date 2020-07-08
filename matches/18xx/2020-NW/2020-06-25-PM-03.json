@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-25-PM-03",
+  "createdAt": "2020-05-25T23:30:00.000Z",
+  "updatedAt": "2020-05-25T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18EU",
+  "game": "18xx",
+  "players": [
+    "joshua-gottesman",
+    "jonathan-work",
+    "mike-williams",
+    "keith-williams",
+    "dave-blanchard"
+  ],
+  "results": [
+    { "player": "jonathan-work", "score": 7827 },
+    { "player": "mike-williams", "score": 6265 },
+    { "player": "dave-blanchard", "score": 5914 },
+    { "player": "joshua-gottesman", "score": 5209 },
+    { "player": "keith-williams", "score": 4589 }
+  ]
+}

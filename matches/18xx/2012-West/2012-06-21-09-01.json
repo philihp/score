@@ -1,0 +1,15 @@
+{
+  "id": "2012-06-21-09-01",
+  "createdAt": "2012-06-22T02:00:00.000Z",
+  "updatedAt": "2012-06-22T02:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "18Neb",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": ["bruce-beard", "chris-schaffer", "jonathan-work"],
+  "results": [
+    { "player": "bruce-beard", "score": 3195 },
+    { "player": "chris-schaffer", "score": 3095 },
+    { "player": "jonathan-work", "score": 2726 }
+  ]
+}

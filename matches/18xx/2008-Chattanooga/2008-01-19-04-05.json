@@ -1,0 +1,24 @@
+{
+  "id": "2008-01-19-04-05",
+  "createdAt": "2008-01-19T14:00:00.000Z",
+  "updatedAt": "2008-01-19T14:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "1834",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "dave-lionett",
+    "jeanette-allen",
+    "paul-hakken",
+    "john-tamplin",
+    "dick-northey"
+  ],
+  "results": [
+    { "player": "john-tamplin", "score": 10767 },
+    { "player": "paul-hakken", "score": 9792 },
+    { "player": "dave-lionett", "score": 7643 },
+    { "player": "jeanette-allen", "score": 1046 },
+    { "player": "dick-northey", "score": 1 }
+  ]
+}

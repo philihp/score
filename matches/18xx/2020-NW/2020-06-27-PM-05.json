@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-27-PM-05",
+  "createdAt": "2020-05-27T23:30:00.000Z",
+  "updatedAt": "2020-05-27T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "scott-ellis",
+    "chris-shaffer",
+    "philihp-busby",
+    "bruce-beard",
+    "paul-work"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 5067 },
+    { "player": "chris-shaffer", "score": 4235 },
+    { "player": "scott-ellis", "score": 4129 },
+    { "player": "paul-work", "score": 3697 },
+    { "player": "philihp-busby", "score": 3344 }
+  ]
+}

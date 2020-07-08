@@ -1,0 +1,15 @@
+{
+  "id": "2020-06-26-PM-03",
+  "createdAt": "2020-05-26T23:30:00.000Z",
+  "updatedAt": "2020-05-26T23:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1835",
+  "game": "18xx",
+  "players": ["paul-work", "mike-shaver", "tom-rodriguez", "chisholm-gentry"],
+  "results": [
+    { "player": "paul-work", "score": 7681 },
+    { "player": "tom-rodriguez", "score": 6404 },
+    { "player": "mike-shaver", "score": 5976 },
+    { "player": "chisholm-gentry", "score": 4081 }
+  ]
+}

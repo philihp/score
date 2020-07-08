@@ -1,0 +1,16 @@
+{
+  "id": "2006-01-13-01-04",
+  "createdAt": "2006-01-13T15:00:00.000Z",
+  "updatedAt": "2006-01-13T15:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18Scan",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["mark-geary", "jeanette-allen", "don-chinnery"],
+  "results": [
+    { "player": "mark-geary", "score": 8166 },
+    { "player": "jeanette-allen", "score": 7107 },
+    { "player": "don-chinnery", "score": 5955 }
+  ]
+}

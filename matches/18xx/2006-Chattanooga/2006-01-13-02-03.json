@@ -1,0 +1,24 @@
+{
+  "id": "2006-01-13-02-03",
+  "createdAt": "2006-01-13T21:00:00.000Z",
+  "updatedAt": "2006-01-13T21:00:00.000Z",
+  "event": "2005 Chattanooga Rail Gaming Challenge",
+  "description": "18Mex",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "craig-bartell",
+    "david-snyder",
+    "mike-bennett",
+    "dale-maxfield",
+    "rick-westerman"
+  ],
+  "results": [
+    { "player": "craig-bartell", "score": 683 },
+    { "player": "david-snyder", "score": 595 },
+    { "player": "mike-bennett", "score": 516 },
+    { "player": "dale-maxfield", "score": 396 },
+    { "player": "rick-westerman", "score": 190 }
+  ]
+}

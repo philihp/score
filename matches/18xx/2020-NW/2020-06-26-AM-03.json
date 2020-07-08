@@ -1,0 +1,22 @@
+{
+  "id": "2020-06-26-AM-03",
+  "createdAt": "2020-05-26T15:30:00.000Z",
+  "updatedAt": "2020-05-26T15:30:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NY",
+  "game": "18xx",
+  "players": [
+    "jonathan-geruntho",
+    "dean-brandt",
+    "bruce-beard",
+    "chisholm-gentry",
+    "chee-sing-lee"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 9827 },
+    { "player": "jonathan-geruntho", "score": 8131 },
+    { "player": "chee-sing-lee", "score": 7944 },
+    { "player": "dean-brandt", "score": 6487 },
+    { "player": "chisholm-gentry", "score": 5474 }
+  ]
+}

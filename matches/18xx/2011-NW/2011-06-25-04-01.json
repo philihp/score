@@ -1,0 +1,15 @@
+{
+  "id": "2011-06-25-04-01",
+  "createdAt": "2011-06-25T16:00:00.000Z",
+  "updatedAt": "2011-06-25T16:00:00.000Z",
+  "event": "NW Rail Gaming Tournament 2011",
+  "description": "1856",
+  "game": "18xx",
+  "players": ["myk-deans", "eric", "johnathan-work", "aliza-panitz"],
+  "results": [
+    { "player": "aliza-panitz", "score": 4886 },
+    { "player": "johnathan-work", "score": 2594 },
+    { "player": "myk-deans", "score": 2244 },
+    { "player": "eric", "score": 765 }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2008-06-21-06-04",
+  "createdAt": "2008-06-22T01:00:00.000Z",
+  "updatedAt": "2008-06-22T01:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "18West",
+  "game": "18xx",
+  "players": [
+    "ken-boucher",
+    "david-hecht",
+    "gary-norton",
+    "jason",
+    "dave-blanchard"
+  ],
+  "results": [
+    { "player": "jason", "score": 8936 },
+    { "player": "ken-boucher", "score": 8437 },
+    { "player": "dave-blanchard", "score": 8001 },
+    { "player": "gary-norton", "score": 6606 },
+    { "player": "david-hecht", "score": 5471 }
+  ]
+}

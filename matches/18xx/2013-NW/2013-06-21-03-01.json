@@ -1,0 +1,15 @@
+{
+  "id": "2013-06-21-03-01",
+  "createdAt": "2013-06-22T04:00:00.000Z",
+  "updatedAt": "2013-06-22T08:00:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "18NEB",
+  "game": "18xx",
+  "players": ["david-lease", "stephen-yu", "mark-geary", "aliza-panitz"],
+  "results": [
+    { "player": "stephen-yu", "score": 4608 },
+    { "player": "david-lease", "score": 4594 },
+    { "player": "mark-geary", "score": 3130 },
+    { "player": "aliza-panitz", "score": 2676 }
+  ]
+}

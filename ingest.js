@@ -7,76 +7,104 @@ const fs = require('fs')
 
 const players = []
 
-fs.createReadStream(`./18xx.csv`)
+fs.createReadStream(`./matches/18xx/2008-Chattanooga/18xx2008.csv`)
   .pipe(csv())
   .on('data', (data) => {
     const createdAt = new Date(data.start).toISOString()
-    const updatedAt = createdAt
+    const updatedAt =
+      data.end !== '' ? new Date(data.end).toISOString() : createdAt
     const dat = {
       id: data.id,
       createdAt,
       updatedAt,
-      location: '22nd Annual Portland 18xx Convention',
+      event: '2008 Chattanooga Rail Gaming Challenge',
       description: data.game,
+      location: 'Country Suites, Chattanooga, Tennessee',
+      director: 'mark-derrick',
       game: '18xx',
       players: [],
       results: [],
     }
-    if (data.p1.length > 1) {
-      dat.players.push(data.p1)
-      players.push(data.p1)
+
+    if (data.p1 && data.p1.length > 1) {
+      const pn = data.p1.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: data.p1,
+        player: pn,
         score: Number.parseInt(data.s1, 10),
       })
     }
-    if (data.p2.length > 1) {
-      dat.players.push(data.p2)
-      players.push(data.p2)
+    if (data.p2 && data.p2.length > 1) {
+      const pn = data.p2.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: data.p2,
+        player: pn,
         score: Number.parseInt(data.s2, 10),
       })
     }
-    if (data.p3.length > 1) {
-      dat.players.push(data.p3)
-      players.push(data.p3)
+    if (data.p3 && data.p3.length > 1) {
+      const pn = data.p3.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: data.p3,
+        player: pn,
         score: Number.parseInt(data.s3, 10),
       })
     }
-    if (data.p4.length > 1) {
-      dat.players.push(data.p4)
-      players.push(data.p4)
+    if (data.p4 && data.p4.length > 1) {
+      const pn = data.p4.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: data.p4,
+        player: pn,
         score: Number.parseInt(data.s4, 10),
       })
     }
-    if (data.p5.length > 1) {
-      dat.players.push(data.p5)
-      players.push(data.p5)
+    if (data.p5 && data.p5.length > 1) {
+      const pn = data.p5.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: data.p5,
+        player: pn,
         score: Number.parseInt(data.s5, 10),
       })
     }
-    if (data.p6.length > 1) {
-      dat.players.push(data.p6)
-      players.push(data.p6)
+    if (data.p6 && data.p6.length > 1) {
+      const pn = data.p6.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
       dat.results.push({
-        player: data.p6,
+        player: pn,
         score: Number.parseInt(data.s6, 10),
       })
     }
+    if (data.p7 && data.p7.length > 1) {
+      const pn = data.p7.toLowerCase()
+      dat.players.push(pn)
+      players.push(pn)
+      dat.results.push({
+        player: pn,
+        score: Number.parseInt(data.s7, 10),
+      })
+    }
     dat.results.sort((a, b) => b.score - a.score)
-    fs.writeFileSync(`matches/18xx/${data.id}.json`, JSON.stringify(dat))
+    if (!dat.results[0].score) {
+      dat.results = []
+    }
+    fs.writeFileSync(
+      `matches/18xx/2008-Chattanooga/${data.id}.json`,
+      JSON.stringify(dat)
+    )
   })
   .on('finish', () => {
     players.sort()
     players.forEach((id) => {
-      console.log(id)
-      fs.writeFileSync(`players/18xx/${id}.json`, JSON.stringify({ id }))
+      const name = id
+        .split('-')
+        .map((s) => s[0].toUpperCase() + s.slice(1))
+        .join(' ')
+      fs.writeFileSync(`players/18xx/${id}.json`, JSON.stringify({ id, name }))
     })
   })

@@ -1,0 +1,24 @@
+id,start,end,game,p1,s1,p2,s2,p3,s3,p4,s4,p5,s5,p6,s6
+2004-06-18-01-01,2004-06-18T08:00-0700,2004-06-18T13:00-0700,1826,chris-kolenda,7681,jim-mcdanold,7180,phil-bradley,6750,ian-booth,6563
+2004-06-18-01-02,2004-06-18T08:00-0700,2004-06-18T12:50-0700,1826,mark-derrick,5633,mark-geary,5122,dave-blanchard,3442,jon-flagg,3391
+2004-06-18-01-03,2004-06-18T08:00-0700,2004-06-18T13:00-0700,1826,james-robinson,10961,ron-sapolsky,9569,jeremy-vipperman,8373,doug-walker,8305
+2004-06-18-01-04,2004-06-18T08:00-0700,2004-06-18T12:48-0700,18EU,anthony-carver,7451,daniel-barnes,6861,mike-monical,6749,john-galt,4641
+2004-06-18-02-01,2004-06-18T13:45-0700,2004-06-18T16:30-0700,1851,ron-sapolsky,5631,phil-bradley,4494,andrew-nisbet,4200,john-galt,3882
+2004-06-18-02-02,2004-06-18T14:00-0700,2004-06-18T15:54-0700,18Mex,anthony-carver,723,mark-derrick,716,jim-mcdanold,565,doug-walker,480
+2004-06-18-02-03,2004-06-18T14:00-0700,2004-06-18T17:30-0700,18GA,mark-geary,4876,ian-booth,3993,james-robinson,3309,jon-flagg,2152
+2004-06-18-03-01,2004-06-18T19:00-0700,2004-06-19T01:00-0700,1844,james-robinson,7790,tristan-jenkins,6836,mike-monical,6239,anthony-carver,5820,doug-walker,5614,dave-blanchard,5508
+2004-06-18-03-02,2004-06-18T19:00-0700,2004-06-19T00:00-0700,1856,daniel-barnes,1479,jon-flagg,1069,mark-geary,681,bill-bold,680,ian-booth,532
+2004-06-18-03-03,2004-06-18T19:00-0700,2004-06-19T01:15-0700,1870,jeremy-vipperman,8254,chris-kolenda,7700,andrew-nisbet,6223,brian-diggs,5528,ron-sapolsky,5505
+2004-06-18-03-04,2004-06-18T19:15-0700,2004-06-18T23:10-0700,1842,john-galt,3023,mark-derrick,2912,jim-mcdanold,2362,phil-bradley,2323
+2004-06-19-04-01,2004-06-19T09:00-0700,2004-06-19T16:00-0700,1841,ron-sapolsky,12053,ian-booth,11509,jim-mcdanold,7028,john-galt,0
+2004-06-19-04-02,2004-06-19T09:20-0700,2004-06-19T14:15-0700,1841,tristan-jenkins,7636,jeremy-vipperman,6642,james-robinson,6256,chris-kolenda,5518,mark-derrick,3649
+2004-06-19-04-03,2004-06-19T09:00-0700,2004-06-19T16:00-0700,2835,andrew-nisbet,5187,mark-geary,5353,mike-monical,5326,doug-walker,4706,phil-bradley,3780
+2004-06-19-04-04,2004-06-19T09:00-0700,2004-06-19T20:50-0700,18C2C,anthony-carver,17720,daniel-barnes,17294,dave-blanchard,15975,bill-bold,13803,jon-flagg,12939,brian-diggs,12862
+2004-06-19-05-01,2004-06-19T14:30-0700,2004-06-19T16:00-0700,1856,jeremy-vipperman,1524,mark-derrick,1466,james-robinson,1329,tristan-jenkins,1232,chris-kolenda,680,john-galt,355
+2004-06-19-06-01,2004-06-19T18:00-0700,2004-06-19T23:15-0700,18 Moon,mike-monical,10721,phil-bradley,9489,jim-mcdanold,10305,doug-walker,8935
+2004-06-19-06-02,2004-06-19T18:00-0700,2004-06-19T23:00-0700,18EU,mark-geary,6102,james-robinson,5460,chris-kolenda,4179,john-galt,3679,andrew-nisbet,3418
+2004-06-19-06-03,2004-06-19T18:00-0700,2004-06-19T23:20-0700,1870,ron-sapolsky,10871,ian-booth,10630,tristan-jenkins,9596,jeremy-vipperman,8367
+2004-06-20-07-01,2004-06-20T08:30-0700,2004-06-20T12:15-0700,18EU,james-robinson,58254,jeremy-vipperman,5587,chris-kolenda,5264,anthony-carver,5313,jim-mcdanold,4527
+2004-06-20-07-02,2004-06-20T08:30-0700,2004-06-20T12:15-0700,1856,jon-flagg,607,ian-booth,6598,ron-sapolsky,6029,chris-kolenda,5971
+2004-06-20-07-03,2004-06-20T08:30-0700,2004-06-20T16:30-0700,2038,mark-geary,4632,mike-monical,6432,tristan-jenkins,7173,john-galt,5796
+2004-06-20-07-04,2004-06-20T08:30-0700,,2041,mark-derrick,2962,dave-blanchard,2624,phil-bradley,570,doug-walker,3146,andrew-nisbet,3079

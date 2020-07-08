@@ -1,0 +1,17 @@
+{
+  "id": "2007-02-16-01-03",
+  "createdAt": "2007-02-16T15:00:00.000Z",
+  "updatedAt": "2007-02-16T15:00:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2007 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1861",
+  "game": "18xx",
+  "players": ["charles-beattie", "steve-haugse", "john-jones", "ricky-gray"],
+  "results": [
+    { "player": "charles-beattie", "score": 9918 },
+    { "player": "steve-haugse", "score": 9641 },
+    { "player": "john-jones", "score": 8533 },
+    { "player": "ricky-gray", "score": 6558 }
+  ]
+}

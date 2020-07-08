@@ -1,0 +1,22 @@
+{
+  "id": "2013-06-23-07-04",
+  "createdAt": "2013-06-23T15:30:00.000Z",
+  "updatedAt": "2013-06-23T19:15:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1824",
+  "game": "18xx",
+  "players": [
+    "gary-norton",
+    "ken-boucher",
+    "dave-blanchard",
+    "david-simmonds",
+    "jeff-heuer"
+  ],
+  "results": [
+    { "player": "gary-norton", "score": 100 },
+    { "player": "ken-boucher", "score": 99 },
+    { "player": "dave-blanchard", "score": 99 },
+    { "player": "david-simmonds", "score": 99 },
+    { "player": "jeff-heuer", "score": 99 }
+  ]
+}

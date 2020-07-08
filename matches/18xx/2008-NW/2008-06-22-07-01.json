@@ -1,0 +1,24 @@
+{
+  "id": "2008-06-22-07-01",
+  "createdAt": "2008-06-22T15:30:00.000Z",
+  "updatedAt": "2008-06-22T23:30:00.000Z",
+  "location": "Springhill Suites, Portland Oregon",
+  "event": "2008 NW Rail Gaming Tournament",
+  "director": "dave-blanchard",
+  "description": "1861",
+  "game": "18xx",
+  "players": [
+    "chis-kolenda",
+    "dave-blanchard",
+    "andrew-nisbett",
+    "joe-grey",
+    "rich-atwater"
+  ],
+  "results": [
+    { "player": "chis-kolenda", "score": 7095 },
+    { "player": "joe-grey", "score": 6765 },
+    { "player": "andrew-nisbett", "score": 4846 },
+    { "player": "rich-atwater", "score": 3455 },
+    { "player": "dave-blanchard", "score": 3413 }
+  ]
+}

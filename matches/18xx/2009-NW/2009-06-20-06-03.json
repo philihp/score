@@ -1,0 +1,22 @@
+{
+  "id": "2009-06-20-06-03",
+  "createdAt": "2009-06-21T01:00:00.000Z",
+  "updatedAt": "2009-06-21T06:20:00.000Z",
+  "event": "2009 NW Rail Gaming Tournament",
+  "description": "1870",
+  "game": "18xx",
+  "players": [
+    "jonathan-flagg",
+    "dave-blanchard",
+    "joe-grey",
+    "bruce-beard",
+    "alex"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 7410 },
+    { "player": "joe-grey", "score": 7258 },
+    { "player": "dave-blanchard", "score": 6916 },
+    { "player": "jonathan-flagg", "score": 6332 },
+    { "player": "alex", "score": 6098 }
+  ]
+}

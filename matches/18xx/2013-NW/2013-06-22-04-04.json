@@ -1,0 +1,20 @@
+{
+  "id": "2013-06-22-04-04",
+  "createdAt": "2013-06-22T16:00:00.000Z",
+  "updatedAt": "2013-06-23T05:50:00.000Z",
+  "location": "22nd Annual Portland 18xx Convention",
+  "description": "1846",
+  "game": "18xx",
+  "players": [
+    "bruce-beard",
+    "jonathan-flagg",
+    "jonathan-anderson",
+    "aliza-panitz"
+  ],
+  "results": [
+    { "player": "bruce-beard", "score": 8879 },
+    { "player": "jonathan-anderson", "score": 8478 },
+    { "player": "aliza-panitz", "score": 8052 },
+    { "player": "jonathan-flagg", "score": 4152 }
+  ]
+}

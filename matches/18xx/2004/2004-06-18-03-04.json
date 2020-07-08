@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-18-03-04",
+  "createdAt": "2004-06-19T02:15:00.000Z",
+  "updatedAt": "2004-06-19T06:10:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1842",
+  "game": "18xx",
+  "players": ["john-galt", "mark-derrick", "jim-mcdanold", "phil-bradley"],
+  "results": [
+    { "player": "john-galt", "score": 3023 },
+    { "player": "mark-derrick", "score": 2912 },
+    { "player": "jim-mcdanold", "score": 2362 },
+    { "player": "phil-bradley", "score": 2323 }
+  ]
+}

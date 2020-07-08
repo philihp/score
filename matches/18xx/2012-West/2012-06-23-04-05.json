@@ -1,0 +1,21 @@
+{
+  "id": "2012-06-23-04-05",
+  "createdAt": "2012-06-23T16:00:00.000Z",
+  "updatedAt": "2012-06-23T16:00:00.000Z",
+  "event": "West Coast 18xx Tournament, 2012",
+  "description": "1817",
+  "location": "Portland Oregon",
+  "game": "18xx",
+  "players": [
+    "chris-schaffer",
+    "allen-stancius",
+    "eric-flood",
+    "dave-blanchard"
+  ],
+  "results": [
+    { "player": "chris-schaffer", "score": 1 },
+    { "player": "dave-blanchard", "score": 1 },
+    { "player": "allen-stancius", "score": 0 },
+    { "player": "eric-flood", "score": 0 }
+  ]
+}

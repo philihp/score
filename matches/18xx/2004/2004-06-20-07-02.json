@@ -1,0 +1,15 @@
+{
+  "id": "2004-06-20-07-02",
+  "createdAt": "2004-06-20T15:30:00.000Z",
+  "updatedAt": "2004-06-20T19:15:00.000Z",
+  "location": "2004 NW 18xx Tournament",
+  "description": "1856",
+  "game": "18xx",
+  "players": ["jon-flagg", "ian-booth", "ron-sapolsky", "chris-kolenda"],
+  "results": [
+    { "player": "ian-booth", "score": 6598 },
+    { "player": "ron-sapolsky", "score": 6029 },
+    { "player": "chris-kolenda", "score": 5971 },
+    { "player": "jon-flagg", "score": 607 }
+  ]
+}

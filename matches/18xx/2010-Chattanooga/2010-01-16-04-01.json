@@ -1,0 +1,16 @@
+{
+  "id": "2010-01-16-04-01",
+  "createdAt": "2010-01-16T16:00:00.000Z",
+  "updatedAt": "2010-01-16T16:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1812",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": ["russell-de", "michael-monical", "jim-mcdanold", "jeff-heuer"],
+  "results": [
+    { "player": "jeff-heuer", "score": 3651 },
+    { "player": "michael-monical", "score": 3365 },
+    { "player": "russell-de", "score": 3097 },
+    { "player": "jim-mcdanold", "score": 924 }
+  ]
+}

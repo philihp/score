@@ -1,0 +1,23 @@
+{
+  "id": "2010-01-16-05-01",
+  "createdAt": "2010-01-16T21:00:00.000Z",
+  "updatedAt": "2010-01-16T21:00:00.000Z",
+  "event": "Chattanooga Rail Gaming Challenge 2010 18xx Grand Prix",
+  "description": "1846",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "ken-gutermuth",
+    "stephen-webb",
+    "michael-monical",
+    "peter-eldridge",
+    "jeff-heuer"
+  ],
+  "results": [
+    { "player": "stephen-webb", "score": 8514 },
+    { "player": "michael-monical", "score": 8444 },
+    { "player": "jeff-heuer", "score": 8388 },
+    { "player": "peter-eldridge", "score": 7856 },
+    { "player": "ken-gutermuth", "score": 7694 }
+  ]
+}

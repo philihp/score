@@ -1,0 +1,26 @@
+{
+  "id": "2008-01-18-03-03",
+  "createdAt": "2008-01-19T00:00:00.000Z",
+  "updatedAt": "2008-01-19T00:00:00.000Z",
+  "event": "2008 Chattanooga Rail Gaming Challenge",
+  "description": "18GL",
+  "location": "Country Suites, Chattanooga, Tennessee",
+  "director": "mark-derrick",
+  "game": "18xx",
+  "players": [
+    "robert-ford",
+    "steve-hauge",
+    "gary-mroczka",
+    "joe-gunderson",
+    "tim-hardwick",
+    "ricky-gray"
+  ],
+  "results": [
+    { "player": "robert-ford", "score": 6761 },
+    { "player": "steve-hauge", "score": 5902 },
+    { "player": "gary-mroczka", "score": 5505 },
+    { "player": "joe-gunderson", "score": 4529 },
+    { "player": "tim-hardwick", "score": 4247 },
+    { "player": "ricky-gray", "score": 2903 }
+  ]
+}
