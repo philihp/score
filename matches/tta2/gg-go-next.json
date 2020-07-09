@@ -1,0 +1,14 @@
+{
+  "id": "gg-go-next",
+  "createdAt": "2016-07-01T20:00:00.000Z",
+  "updatedAt": "2020-07-08T20:00:00.000Z",
+  "description": "Through the Ages app",
+  "game": "tta2",
+  "players": ["adam", "jenn", "aaron", "phil"],
+  "results": [
+    { "player": "aaron", "score": "225" },
+    { "player": "adam", "score": "222" },
+    { "player": "phil", "score": "202" },
+    { "player": "jenn", "score": "175" }
+  ]
+}
