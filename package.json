@@ -29,7 +29,7 @@
     "ramda": "0.27.0"
   },
   "devDependencies": {
-    "@philihp/eslint-config": "3.0.0",
+    "@philihp/eslint-config": "3.0.2",
     "husky": "4.2.5",
     "lint-staged": "10.2.11",
     "prettier": "2.0.5"
