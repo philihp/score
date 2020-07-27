@@ -1,0 +1,14 @@
+{
+  "id": "The-Cool-Zone",
+  "createdAt": "2020-07-20T20:00:00.000Z",
+  "updatedAt": "2020-07-27T21:25:00.000Z",
+  "description": "Through the Ages app",
+  "game": "tta2",
+  "players": ["adam", "ken", "aaron", "phil"],
+  "results": [
+    { "player": "ken", "score": "221" },
+    { "player": "adam", "score": "179" },
+    { "player": "phil", "score": "202" },
+    { "player": "aaron", "score": "DNF" }
+  ]
+}
