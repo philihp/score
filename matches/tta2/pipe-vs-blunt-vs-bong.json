@@ -1,0 +1,13 @@
+{
+  "id": "pipe-vs-blunt-vs-bong",
+  "createdAt": "2020-07-27T22:00:00.000Z",
+  "updatedAt": "2020-07-30T04:00:00.000Z",
+  "description": "Through the Ages app",
+  "game": "tta2",
+  "players": ["phil", "ken", "adam"],
+  "results": [
+    { "player": "adam", "score": "196" },
+    { "player": "ken", "score": "188" },
+    { "player": "phil", "score": "170" }
+  ]
+}
