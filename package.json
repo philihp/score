@@ -26,7 +26,7 @@
     "glob": "7.1.6",
     "harp": "0.32.0",
     "openskill": "1.0.1",
-    "ramda": "0.27.0"
+    "ramda": "0.27.1"
   },
   "devDependencies": {
     "@philihp/eslint-config": "3.0.2",
