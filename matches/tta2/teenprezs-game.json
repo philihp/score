@@ -1,0 +1,12 @@
+{
+  "id": "teenprezs-game",
+  "createdAt": "2020-08-20T00:00:00.000Z",
+  "updatedAt": "2020-08-27T15:20:00.000Z",
+  "description": "Through the Ages app",
+  "game": "tta2",
+  "players": ["aaron", "jenn"],
+  "results": [
+    { "player": "aaron", "score": "210" },
+    { "player": "jenn", "score": "144" }
+  ]
+}
