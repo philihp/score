@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/philihp/score#readme",
   "dependencies": {
-    "csv-parser": "2.3.5",
+    "csv-parser": "3.0.0",
     "fast-shuffle": "4.2.2",
     "glob": "7.1.6",
     "harp": "0.33.0",
