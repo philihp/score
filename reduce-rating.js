@@ -13,11 +13,14 @@ const { rate, rating, ordinal } = require('openskill')
 const updateRating = (r, match) => (oldRating) => ({
   rating: { ...r, ordinal: ordinal(r) },
   history: [
-    ...(oldRating?.history || []),
+    ...((oldRating && oldRating.history) || []),
     [
       match.id,
       {
-        ...(oldRating?.rating || { ...rating(), ordinal: ordinal(rating()) }),
+        ...((oldRating && oldRating.rating) || {
+          ...rating(),
+          ordinal: ordinal(rating()),
+        }),
       },
     ],
   ],
@@ -28,7 +31,10 @@ module.exports = (ratings, match) => {
     (p) => p.player,
     sortBy((p) => -p.score, match.results)
   )
-  const oldRatings = map((p) => [ratings[p]?.rating || rating()], players)
+  const oldRatings = map(
+    (p) => [(ratings[p] && ratings[p].rating) || rating()],
+    players
+  )
   const accumulate = reduce(
     (accumulator, [p, r]) =>
       over(lensProp(p), updateRating(r, match), accumulator),
