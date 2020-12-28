@@ -73,7 +73,7 @@ const gameRatings = map(
 
 const sortedRankings = (ranks) => {
   const o = pipe(
-    map((r) => ({ ...r, ordinal: ordinal(r.rating) })),
+    map((r) => ({ ...r, rating: { ...r.rating, ordinal: ordinal(r.rating) } })),
     toPairs,
     compose(sortBy, view, lensPath)([1, 'ordinal']), // i, too, hate me for writing this.
     reverse

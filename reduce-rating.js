@@ -8,13 +8,18 @@ const {
   reduce,
   compose,
 } = require('ramda')
-const { rate, rating } = require('openskill')
+const { rate, rating, ordinal } = require('openskill')
 
 const updateRating = (r, match) => (oldRating) => ({
-  rating: r,
+  rating: { ...r, ordinal: ordinal(r) },
   history: [
     ...(oldRating?.history || []),
-    [match.id, oldRating?.rating || rating()],
+    [
+      match.id,
+      {
+        ...(oldRating?.rating || { ...rating(), ordinal: ordinal(rating()) }),
+      },
+    ],
   ],
 })
 

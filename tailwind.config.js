@@ -1,12 +1,24 @@
+const typography = require('@tailwindcss/typography')
+
 module.exports = {
+  plugins: [typography],
   purge: ['./components/**/*.js', './pages/**/*.js'],
   theme: {
     extend: {
-      fontSize: {
-        '5xl': '2.5rem',
-        '6xl': '2.75rem',
-        '7xl': '4.5rem',
-        '8xl': '6.25rem',
+      typography: {
+        DEFAULT: {
+          css: {
+            a: {
+              color: '#0000ff',
+              '&:hover': {
+                color: '#ff0000',
+              },
+              '&:visited': {
+                color: '#7f007f',
+              },
+            },
+          },
+        },
       },
     },
   },

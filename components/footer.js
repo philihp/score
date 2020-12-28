@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => (
   <footer>
     <hr />
-    Generated
+    Made with &hearts; in San Francisco
   </footer>
 )
 

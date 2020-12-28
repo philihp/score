@@ -4,12 +4,6 @@
 
 @layer base {
   body {
-    @apply antialiased font-serif;
-  }
-  a {
-    @apply text-blue-900 underline;
-  }
-  a:visited {
-    @apply text-purple-900;
+    @apply prose antialiased font-serif;
   }
 }

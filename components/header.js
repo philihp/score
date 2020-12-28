@@ -3,9 +3,10 @@ import Link from 'next/link'
 
 const Header = () => (
   <>
-    <h1>Kennerspiel</h1>
     <Link href="/games">
-      <a>games</a>
+      <a>
+        <h1>Kennerspiel</h1>
+      </a>
     </Link>
   </>
 )

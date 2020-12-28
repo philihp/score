@@ -13,6 +13,7 @@
   "author": "Philihp Busby <philihp@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@tailwindcss/typography": "^0.3.1",
     "classnames": "2.2.6",
     "date-fns": "2.10.0",
     "fast-shuffle": "^4.2.2",
@@ -25,12 +26,12 @@
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "remark": "11.0.2",
-    "remark-html": "10.0.0"
+    "remark-html": "10.0.0",
+    "tailwindcss": "2.0.2"
   },
   "devDependencies": {
     "@philihp/eslint-config": "4.2.0",
-    "postcss-preset-env": "6.7.0",
-    "tailwindcss": "2.0.2"
+    "postcss-preset-env": "6.7.0"
   },
   "prettier": {
     "singleQuote": true,
