@@ -30,7 +30,7 @@
   "devDependencies": {
     "@philihp/eslint-config": "4.2.0",
     "postcss-preset-env": "6.7.0",
-    "tailwindcss": "1.4.0"
+    "tailwindcss": "2.0.2"
   },
   "prettier": {
     "singleQuote": true,
@@ -55,7 +55,8 @@
       "@philihp"
     ],
     "rules": {
-      "unicorn/filename-case": 0
+      "unicorn/filename-case": 0,
+      "jsx-a11y/anchor-is-valid": 0
     }
   }
 }
