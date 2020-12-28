@@ -1,5 +1,6 @@
 import React from 'react'
 import Document, { Html, Head, Main, NextScript } from 'next/document'
+import Layout from '../components/layout'
 
 export default class MyDocument extends Document {
   render() {
@@ -7,7 +8,9 @@ export default class MyDocument extends Document {
       <Html lang="en">
         <Head />
         <body>
-          <Main />
+          <Layout>
+            <Main />
+          </Layout>
           <NextScript />
         </body>
       </Html>
