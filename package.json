@@ -5,9 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "npm run build:data && npm run build:next",
-    "build:data": "node build-site.js",
-    "build:next": "next build",
+    "build": "node build-site.js && next build",
     "start": "next start"
   },
   "author": "Philihp Busby <philihp@gmail.com>",
