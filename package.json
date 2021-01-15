@@ -11,7 +11,7 @@
   "author": "Philihp Busby <philihp@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tailwindcss/typography": "0.3.1",
+    "@tailwindcss/typography": "0.4.0",
     "classnames": "2.2.6",
     "date-fns": "2.16.1",
     "fast-shuffle": "4.2.2",
