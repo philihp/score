@@ -13,7 +13,7 @@
   "dependencies": {
     "@tailwindcss/typography": "0.4.0",
     "classnames": "2.2.6",
-    "date-fns": "2.17.0",
+    "date-fns": "2.18.0",
     "fast-shuffle": "4.3.0",
     "glob": "7.1.6",
     "next": "10.0.7",
