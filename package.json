@@ -16,7 +16,7 @@
     "date-fns": "2.21.1",
     "fast-shuffle": "4.4.0",
     "glob": "7.1.6",
-    "next": "10.1.3",
+    "next": "10.2.0",
     "openskill": "1.4.1",
     "prop-types": "15.7.2",
     "ramda": "0.27.1",
