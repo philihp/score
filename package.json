@@ -14,7 +14,7 @@
     "@tailwindcss/typography": "0.4.1",
     "classnames": "2.3.1",
     "date-fns": "2.22.1",
-    "fast-shuffle": "4.4.0",
+    "fast-shuffle": "4.5.0",
     "glob": "7.1.7",
     "next": "10.2.3",
     "openskill": "1.4.1",
