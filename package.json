@@ -25,7 +25,7 @@
     "tailwindcss": "2.2.8"
   },
   "devDependencies": {
-    "@philihp/eslint-config": "5.0.0",
+    "@philihp/eslint-config": "5.0.1",
     "postcss-preset-env": "6.7.0"
   },
   "prettier": {
